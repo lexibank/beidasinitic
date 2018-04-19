@@ -15,7 +15,7 @@ from pylexibank.util import pb
 
 @attr.s
 class BDConcept(Concept):
-    Chinese_gloss = attr.ib(default=None)
+    Chinese_Gloss = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -34,13 +34,13 @@ class Dataset(BaseDataset):
                 if wl[k, 'value']:
                     ds.add_language(
                         ID=wl[k, 'doculect'],
-                        name=wl[k, 'doculect'],
-                        glottocode=wl[k, 'glottolog'])
+                        Name=wl[k, 'doculect'],
+                        Glottocode=wl[k, 'glottolog'])
                     ds.add_concept(
                         ID=wl[k, 'concept'],
-                        gloss=wl[k, 'concept'],
-                        conceptset=wl[k, 'concepticon_id'],
-                        Chinese_gloss=wl[k, 'chinese'])
+                        Name=wl[k, 'concept'],
+                        Concepticon_ID=wl[k, 'concepticon_id'],
+                        Chinese_Gloss=wl[k, 'chinese'])
                     ds.add_lexemes(
                         Language_ID=wl[k, 'doculect'],
                         Parameter_ID=wl[k, 'concept'],
