@@ -7,10 +7,10 @@ import lingpy
 from pycldf.sources import Source
 
 from clldutils.path import Path
+from clldutils.misc import slug
 from pylexibank.dataset import Metadata, Concept
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.lingpy_util import getEvoBibAsBibtex
-from pylexibank.util import pb
+from pylexibank.util import pb, getEvoBibAsBibtex
 
 
 @attr.s
@@ -37,13 +37,13 @@ class Dataset(BaseDataset):
                         Name=wl[k, 'doculect'],
                         Glottocode=wl[k, 'glottolog'])
                     ds.add_concept(
-                        ID=wl[k, 'concept'],
+                        ID=slug(wl[k, 'concept']),
                         Name=wl[k, 'concept'],
                         Concepticon_ID=wl[k, 'concepticon_id'],
                         Chinese_Gloss=wl[k, 'chinese'])
                     ds.add_lexemes(
                         Language_ID=wl[k, 'doculect'],
-                        Parameter_ID=wl[k, 'concept'],
+                        Parameter_ID=slug(wl[k, 'concept']),
                         Value=wl[k, 'value'],
                         Form=wl[k, 'form'],
                         Segments=wl[k, 'segments'],
