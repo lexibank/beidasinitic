@@ -8,6 +8,8 @@ This dataset is licensed under a GPL-3.0 license
 
 Available online at https://github.com/digling/cddb/
 
+Conceptlist in Concepticon: [BeijingDaxue-1964-905](http://concepticon.clld.org/contributions/BeijingDaxue-1964-905)
+
 ## Statistics
 
 
@@ -15,8 +17,8 @@ Available online at https://github.com/digling/cddb/
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![LingPy: 92%](https://img.shields.io/badge/LingPy-92%25-green.svg "LingPy: 92%")
-![CLPA: 97%](https://img.shields.io/badge/CLPA-97%25-green.svg "CLPA: 97%")
+![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
+![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
 
 - **Varieties:** 18
 - **Concepts:** 905
@@ -25,5 +27,5 @@ Available online at https://github.com/digling/cddb/
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 115,511
-- **Segments:** 232 (18 LingPy errors, 6 CLPA errors, 114 CLPA modified)
+- **Segments:** 232 (6 BIPA errors, 6 CTLS sound class errors, 225 CLTS modified)
 - **Inventory size (avg):** 52.67
