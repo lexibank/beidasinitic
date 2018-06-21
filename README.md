@@ -17,8 +17,8 @@ Conceptlist in Concepticon: [BeijingDaxue-1964-905](http://concepticon.clld.org/
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
-![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 18
 - **Concepts:** 905
@@ -26,6 +26,6 @@ Conceptlist in Concepticon: [BeijingDaxue-1964-905](http://concepticon.clld.org/
 - **Synonymy:** 1.11
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 115,511
-- **Segments:** 232 (6 BIPA errors, 6 CTLS sound class errors, 225 CLTS modified)
-- **Inventory size (avg):** 52.67
+- **Tokens:** 115,512
+- **Segments:** 229 (2 BIPA errors, 2 CTLS sound class errors, 226 CLTS modified)
+- **Inventory size (avg):** 52.56

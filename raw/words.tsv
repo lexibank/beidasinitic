@@ -805,7 +805,7 @@ ID	DOCULECT	GLOTTOLOG	ISO	CONCEPT	CONCEPTICON_ID	CHINESE	PINYIN	BENZI	BENZI_IN_S
 13610	Xi_an	xian1253	cmn	baldhead (tū zi 禿子)		禿子	tū zi	禿 子	禿子	tʰou²¹tsๅ⁰	tʰou²¹tsๅ⁰	tʰ o u ²¹ ts ɿ ⁰	317	2480 67		BeijingDaxue1964	414	207	1	tʰ o u - ²¹ + ts ɿ - - ⁰
 13611	Chengdu	chen1267	cmn	baldhead (tū zi 禿子)		禿子	tū zi	癩 子	癩子	nai¹³tsๅ⁵³	nai¹³tsๅ⁵³	n a i ¹³ ts ɿ ⁵³	318	1595 67		BeijingDaxue1964	414	207	1	n a i - ¹³ + ts ɿ - - ⁵³
 13612	Kunming	kunm1234	cmn	baldhead (tū zi 禿子)		禿子	tū zi	禿 頭	禿頭	tʰu³¹tʰəu³¹	tʰu³¹tʰəu³¹	tʰ u ³¹ tʰ ə u ³¹	319	2480 93		BeijingDaxue1964	414	207	1	tʰ u - - ³¹ + tʰ ə u - ³¹
-13613	Hefei	hefe1234	cmn	baldhead (tū zi 禿子)		禿子	tū zi	禿 子	禿子	tʰuəʔtsə⁰	tʰuəʔtsə⁰	tʰ u ə ʔ ⁰/⁰ts ə ⁰	317	2480 67	**sic** tone not given in source	BeijingDaxue1964	414	207	1	tʰ u ə ʔ ⁰/⁰ts + - - ə - ⁰
+13613	Hefei	hefe1234	cmn	baldhead (tū zi 禿子)		禿子	tū zi	禿 子	禿子	tʰuəʔtsə⁰	tʰuəʔtsə⁰	tʰ u ə ʔ ⁰/⁰ ts ə ⁰	317	2480 67	**sic** tone not given in source	BeijingDaxue1964	414	207	1	tʰ u ə ʔ ⁰/⁰ts + - - ə - ⁰
 13614	Yangzhou	yang1306	cmn	baldhead (tū zi 禿子)		禿子	tū zi	禿 子	禿子	tʰɔʔ⁴tsɛ⁰	tʰɔʔ⁴tsɛ⁰	tʰ ɔ ʔ ⁴ ts ɛ ⁰	317	2480 67		BeijingDaxue1964	414	207	1	tʰ ɔ - ʔ ⁴ + ts ɛ - - ⁰
 13615	Yangzhou	yang1306	cmn	baldhead (tū zi 禿子)		禿子	tū zi	瘌 子	瘌子	læʔ⁴tsɛ⁰	læʔ⁴tsɛ⁰	l æ ʔ ⁴ ts ɛ ⁰	320	2555 67	[2]	BeijingDaxue1964	414	207	2	l æ ʔ ⁴ + ts ɛ - - ⁰
 13616	Suzhou	suzh1234	wuu	baldhead (tū zi 禿子)		禿子	tū zi	癩 瘌 頭	癩瘌頭	laʔ²³li³¹₂₁dʏ²⁴₂₁	laʔ²³li³¹₂₁dʏ²⁴₂₁	l a ʔ ²³ l i ²¹/³¹ d ʏ ²¹/²⁴	321	1595 2555 93		BeijingDaxue1964	414	207	1	l a - ʔ ²³ + l i - ²¹/³¹ + d ʏ - - ²¹/²⁴
@@ -5843,7 +5843,7 @@ ID	DOCULECT	GLOTTOLOG	ISO	CONCEPT	CONCEPTICON_ID	CHINESE	PINYIN	BENZI	BENZI_IN_S
 30909	Changsha	chan1326	hsn	frost (shuāng 霜)	2034	霜	shuāng	霜	霜	ɕyan³³	ɕyan³³	ɕ y a n ³³	2020	1391		BeijingDaxue1964	8	4	1	ɕ y a - n ³³
 30910	Nanchang	nanc1254	gan	frost (shuāng 霜)	2034	霜	shuāng	霜	霜	sɔŋ⁴²	sɔŋ⁴²	s ɔ ŋ ⁴²	2020	1391		BeijingDaxue1964	8	4	1	s ɔ - - ŋ ⁴²
 30911	Meixian	yuet1238	hak	frost (shuāng 霜)	2034	霜	shuāng	霜	霜	sɔŋ⁴⁴	sɔŋ⁴⁴	s ɔ ŋ ⁴⁴	2020	1391		BeijingDaxue1964	8	4	1	s ɔ - - ŋ ⁴⁴
-30912	Guangzhou	guan1279	yue	frost (shuāng 霜)	2034	霜	shuāng	霜	霜	ʃœŋ53	ʃœŋ53	ʃ œ ŋ ⁵ɜ	2020	1391	**sic**: tone is confirmed by source	BeijingDaxue1964	8	4	1	ʃ œ - - ŋ ⁵ɜ
+30912	Guangzhou	guan1279	yue	frost (shuāng 霜)	2034	霜	shuāng	霜	霜	ʃœŋ53	ʃœŋ53	ʃ œ ŋ ⁵³	2020	1391	**sic**: tone is confirmed by source	BeijingDaxue1964	8	4	1	ʃ œ - - ŋ ⁵ɜ
 30913	Yangjiang	yang1307	yue	frost (shuāng 霜)	2034	霜	shuāng	霜	霜	ʃɔŋ³³	ʃɔŋ³³	ʃ ɔ ŋ ³³	2020	1391		BeijingDaxue1964	8	4	1	ʃ ɔ - - ŋ ³³
 30914	Xiamen	xiam1236	nan	frost (shuāng 霜)	2034	霜	shuāng	霜	霜	Sῃ⁵⁵	Sῃ⁵⁵	s ŋ̍ ∼ ⁵⁵	2020	1391		BeijingDaxue1964	8	4	1	s - - ŋ̍ ∼ ⁵⁵
 30915	Chaozhou	chao1238	nan	frost (shuāng 霜)	2034	霜	shuāng	霜	霜	sɯŋ³³	sɯŋ³³	s ɯ ŋ ³³	2020	1391		BeijingDaxue1964	8	4	1	s ɯ - - ŋ ³³
@@ -7025,7 +7025,7 @@ ID	DOCULECT	GLOTTOLOG	ISO	CONCEPT	CONCEPTICON_ID	CHINESE	PINYIN	BENZI	BENZI_IN_S
 9966	Jinan	jina1245	cmn	hoe (tool) (chú tóu 鋤頭)	284	鋤頭	chú tóu	鋤	鋤	tʂʰu⁴²	tʂʰu⁴²	ʈʂʰ u ⁴²	2455	388		BeijingDaxue1964	331	166	1	ʈʂʰ u - ⁴²
 9967	Shenyang	shen1252	cmn	hoe (tool) (chú tóu 鋤頭)	284	鋤頭	chú tóu	鋤 頭	鋤頭	tsʰu³⁵tʰou⁰	tsʰu³⁵tʰou⁰	tsʰ u ³⁵ tʰ o u ⁰	2454	388 93		BeijingDaxue1964	331	166	1	tsʰ u - ³⁵ + tʰ o u - ⁰
 9968	Xi_an	xian1253	cmn	hoe (tool) (chú tóu 鋤頭)	284	鋤頭	chú tóu	鋤 頭	鋤頭	pfʰu²⁴tʰou⁰	pfʰu²⁴tʰou⁰	pfʰ u ²⁴ tʰ o u ⁰	2454	388 93		BeijingDaxue1964	331	166	1	pfʰ u - ²⁴ + tʰ o u - ⁰
-9969	Chengdu	chen1267	cmn	hoe (tool) (chú tóu 鋤頭)	284	鋤頭	chú tóu	鋤 頭	鋤頭	tscu³¹tʰəu³¹₄₄	tscu³¹tʰəu³¹₄₄	ts↑hc u ³¹ tʰ ə u ⁴⁴/³¹	2454	388 93		BeijingDaxue1964	331	166	1	ts↑hc u - ³¹ + tʰ ə u - ⁴⁴/³¹
+9969	Chengdu	chen1267	cmn	hoe (tool) (chú tóu 鋤頭)	284	鋤頭	chú tóu	鋤 頭	鋤頭	tscu³¹tʰəu³¹₄₄	tscu³¹tʰəu³¹₄₄	tsʰ u ³¹ tʰ ə u ⁴⁴/³¹	2454	388 93		BeijingDaxue1964	331	166	1	ts↑hc u - ³¹ + tʰ ə u - ⁴⁴/³¹
 9970	Kunming	kunm1234	cmn	hoe (tool) (chú tóu 鋤頭)	284	鋤頭	chú tóu	鋤 頭	鋤頭	tsʰu³¹tʰəu³¹₄₄	tsʰu³¹tʰəu³¹₄₄	tsʰ u ³¹ tʰ ə u ⁴⁴/³¹	2454	388 93		BeijingDaxue1964	331	166	1	tsʰ u - ³¹ + tʰ ə u - ⁴⁴/³¹
 9971	Hefei	hefe1234	cmn	hoe (tool) (chú tóu 鋤頭)	284	鋤頭	chú tóu	鋤 子	鋤子	tsʰʊ⁵⁵tsə⁰	tsʰʊ⁵⁵tsə⁰	tsʰ ʊ ⁵⁵ ts ə ⁰	2456	388 67		BeijingDaxue1964	331	166	1	tsʰ ʊ - ⁵⁵ + ts ə - - ⁰
 9972	Yangzhou	yang1306	cmn	hoe (tool) (chú tóu 鋤頭)	284	鋤頭	chú tóu	鋤 頭	鋤頭	tsʰo³⁴tʰɤɯ⁰	tsʰo³⁴tʰɤɯ⁰	tsʰ o ³⁴ tʰ ɤ ɯ ⁰	2454	388 93		BeijingDaxue1964	331	166	1	tsʰ o - ³⁴ + tʰ ɤ ɯ - ⁰
@@ -12193,7 +12193,7 @@ ID	DOCULECT	GLOTTOLOG	ISO	CONCEPT	CONCEPTICON_ID	CHINESE	PINYIN	BENZI	BENZI_IN_S
 27876	Chengdu	chen1267	cmn	robust (jié shí 結實)		結實	jié shí	硬 囗	! 硬□	ŋən¹³tsəu⁵³	ŋən¹³tsəu⁵³	ŋ ə n ¹³ ts ə u ⁵³	4105	1395 1396		BeijingDaxue1964	735	368	1	ŋ ə - n ¹³ + ts ə u ⁵³
 27877	Chengdu	chen1267	cmn	robust (jié shí 結實)		結實	jié shí	經 事	經事	tɕin⁴⁴sๅ¹³	tɕin⁴⁴sๅ¹³	tɕ i n ⁴⁴ s ɿ ¹³	4106	1397 431	[2]	BeijingDaxue1964	735	368	2	tɕ i - n ⁴⁴ + s - ɿ ¹³
 27878	Chengdu	chen1267	cmn	robust (jié shí 結實)		結實	jié shí	結 實	結實	tɕie³¹sๅ³¹	tɕie³¹sๅ³¹	tɕ i e ³¹ s ɿ ³¹	4102	1372 1392	[3]	BeijingDaxue1964	735	368	3	tɕ i e - ³¹ + s ɿ - ³¹
-27879	Kunming	kunm1234	cmn	robust (jié shí 結實)		結實	jié shí	牢 實	牢實	lau³¹ʂʅ¹¹	lau³¹ʂʅ¹¹	l a u ³¹ ʂ ʅ ↓↓↓¹¹	4107	1393 1392		BeijingDaxue1964	735	368	1	l a u ³¹ + ʂ ʅ ↓↓↓¹¹ -
+27879	Kunming	kunm1234	cmn	robust (jié shí 結實)		結實	jié shí	牢 實	牢實	lau³¹ʂʅ¹¹	lau³¹ʂʅ¹¹	l a u ³¹ ʂ ʅ ¹¹	4107	1393 1392		BeijingDaxue1964	735	368	1	l a u ³¹ + ʂ ʅ ↓↓↓¹¹ -
 27880	Hefei	hefe1234	cmn	robust (jié shí 結實)		結實	jié shí	緊	緊	tɕin²⁴	tɕin²⁴	tɕ i n ²⁴	4108	1159	[*]	BeijingDaxue1964	735	368	1	tɕ i - n ²⁴
 27881	Yangzhou	yang1306	cmn	robust (jié shí 結實)		結實	jié shí	牢	牢	lɔ³⁴	lɔ³⁴	l ɔ ³⁴	4109	1393		BeijingDaxue1964	735	368	1	l ɔ - ³⁴
 27882	Yangzhou	yang1306	cmn	robust (jié shí 結實)		結實	jié shí	結 實	結實	tɕiəʔ⁴səʔ⁴	tɕiəʔ⁴səʔ⁴	tɕ i ə ʔ ⁴ s ə ʔ ⁴	4102	1372 1392	[2]	BeijingDaxue1964	735	368	2	tɕ i ə ʔ ⁴ + s ə ʔ ⁴

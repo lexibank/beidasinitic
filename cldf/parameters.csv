@@ -15,7 +15,8 @@ chainclassifierforgrapesyichuanputao,chain (classifier for grapes) (yī chuàn p
 oystersmusselsbang,"oysters, mussels (bàng 蚌)",2785,BIVALVIA (MUSSELS OR OYSTERS),蚌
 portionclassifierforfoodyidunfan,portion (classifier for food) (yī dùn fàn 一頓飯),2725,PORTION (CLASSIFIER),一頓飯
 frogqingwa,frog (qīng wā 青蛙),503,FROG,青蛙
-jujubezaoer,jujube (zǎo ér 棗兒),,,棗兒
+piececlassifierforcigarettesyizhiyan,piece (classifier for cigarettes) (yī zhī yān 一支煙),2726,STALK (CLASSIFIER),一支煙
+tiredlei,tired (lèi 累),1757,TIRED,累
 bottleclassifierforalcoholyipingjiu,bottle (classifier for alcohol) (yī píng jiǔ 一瓶酒),2727,BOTTLE (CLASSIFIER),一瓶酒
 toadlaihama,toad (lài há má 癩蛤蟆),894,TOAD,癩蛤蟆
 malepiggongzhu,male pig (gōng zhū 公豬),2487,MALE PIG,公豬
@@ -59,7 +60,6 @@ snakeshe,snake (shé 蛇),730,SNAKE,蛇
 timebeatonetimedundayidun,time (beat one time) (dùn (dǎ yī dùn) 頓(打一頓)),2740,BEAT (CLASSIFIER),頓(打一頓)
 geckobihu,gecko (bì hǔ 壁虎),2355,GECKO,壁虎
 alittlebitbeatalittlexiadayixia,a little bit (beat a little) (xià (dǎ yī xià) 下(打一下)),2741,BIT (CLASSIFIER),下(打一下)
-shoesxie,shoes (xié 鞋),1381,SHOE,鞋
 wingchibang,wing (chì bǎng 翅膀),1257,WING,翅膀
 formerlycongqian,formerly (cóng qián 從前),,,從前
 hooftizi,hoof (tí zi 蹄子),152,HOOF,蹄子
@@ -71,7 +71,7 @@ tailweiba,tail (wěi bā 尾巴),1220,TAIL,尾巴
 fishscaleslin,fish scales (lín 鱗),266,SCALE,鱗
 nowxianzai,now (xiàn zài 現在),1376,NOW,現在
 thunderlei,thunder (léi 雷),1150,THUNDER,雷
-slipperstuoxie,slippers (tuō xié 拖鞋),,,拖鞋
+goosee,goose (é 鵝),1187,GOOSE,鵝
 plumblossommeihua,plum blossom (méi huā 梅花),2744,PLUM BLOSSOM,梅花
 allalongyixiang,all along (yī xiàng 一向),,,一向
 apricotblossomxinghua,apricot blossom (xìng huā 杏花),2745,APRICOT BLOSSOM,杏花
@@ -89,7 +89,6 @@ riceplantdaozi,rice plant (dào zi 稻子),2026,RICE PLANT,稻子
 veryhen,very (hěn 很),1311,VERY,很
 ricecropsdaogu,rice crops (dào gǔ 稻谷),2749,UNHUSKED RICE,稻谷
 moregeng,more (gèng 更),1992,MORE,更
-piececlassifierforcigarettesyizhiyan,piece (classifier for cigarettes) (yī zhī yān 一支煙),2726,STALK (CLASSIFIER),一支煙
 incompetentwaixing,incompetent (wài xíng 外行),,,外行
 ricedami,rice (dà mǐ 大米),926,RICE,大米
 femaledogmugou,female dog (mǔ gǒu 母狗),2481,FEMALE DOG,母狗
@@ -127,6 +126,7 @@ cabbagejuanxincai,cabbage (juǎn xīn cài 卷心菜),774,CABBAGE,卷心菜
 notmeiyouwei,not (méi 〔yǒu〕 (wèi) 沒〔有〕(未)),1240,NOT,沒〔有〕(未)
 pumpkinnangua,pumpkin (nán guā 南瓜),864,PUMPKIN,南瓜
 otherbie,other (bié 別),197,OTHER,別
+garbagetrashlaji,"garbage, trash (lā jī 垃圾)",909,GARBAGE,垃圾
 waxgourdwhitegourddonggua,wax gourd (white gourd) (dōng guā 冬瓜),411,GOURD,冬瓜
 neednotbuyong,need not (bù yòng 不用),,,不用
 cucumberhuanggua,cucumber (huáng guā 黃瓜),496,CUCUMBER,黃瓜
@@ -135,6 +135,7 @@ radishluobo,radish (luó bó 蘿蔔),2365,RADISH,蘿蔔
 bybei,by (bèi 被),2751,BY (PASSIVE MARKER),被
 eggplantjiazi,eggplant (jiā zi 茄子),1146,AUBERGINE,茄子
 insteadofti,instead of (tì 替),1652,INSTEAD,替
+inkstoneyantai,inkstone (yàn tái 硯臺),,,硯臺
 sunnydayqingtian,sunny day (qíng tiān 晴天),2742,SUNNY DAY,晴天
 snowxue,snow (xuě 雪),784,SNOW,雪
 tomatofanjia,tomato (fān jiā 番茄),986,TOMATO,番茄
@@ -142,7 +143,9 @@ muleluozi,mule (luó zi 騾子),890,MULE,騾子
 tuberonionjiucai,tuber onion (jiǔ cài 韭菜),,,韭菜
 inzai,in (zài 在),1460,IN,在
 scallionsgreenonionscong,scallions (green onions) (cōng 蔥),2366,ONION,蔥
+stinkingchou,stinking (chòu 臭),42,STINKING,臭
 fromcong,from (cóng 從),693,FROM,從
+garlicsuan,garlic (suàn 蒜),2368,GARLIC,蒜
 chilliredpepperlajiao,"chilli, red pepper (là jiāo 辣椒)",919,CHILI PEPPER,辣椒
 untildao,until (dào 到),2753,UNTIL,到
 fruitshuiguo,fruit (shuǐ guǒ 水果),1507,FRUIT,水果
@@ -159,18 +162,22 @@ cloudydayyintian,cloudy day (yīn tiān 陰天),2743,CLOUDY DAY,陰天
 roostercockgongji,rooster (cock) (gōng jī 公雞),1511,ROOSTER,公雞
 mumemeizi,mume (méi zi 梅子),,,梅子
 caponyanji,capon (yān jī 閹雞),2567,CAPON,閹雞
+grapeputao,grape (pú táo 葡萄),920,GRAPE,葡萄
 cherryyingtao,cherry (yīng táo 櫻桃),2765,CHERRY,櫻桃
 henchickenmuji,hen (chicken) (mǔ jī 母雞),1514,HEN,母雞
 oliveganlan,olive (gǎn lǎn 橄欖),1154,OLIVE,橄欖
 chickenchickxiaojier,chicken chick (xiǎo jī ér 小雞兒),2513,CHICKEN CHICK,小雞兒
+soilearthtu,"soil, earth (tǔ 土)",1228,EARTH (SOIL),土
 waterchestnutbiji,water chestnut (bí jì 荸薺),,,荸薺
 duckyazi,duck (yā zi 鴨子),1360,DUCK,鴨子
-goosee,goose (é 鵝),1187,GOOSE,鵝
+jujubezaoer,jujube (zǎo ér 棗兒),,,棗兒
 chestnutlizi,chestnut (lì zi 栗子),2318,CHESTNUT,栗子
 carpliyu,carp (lǐ yú 鯉魚),2685,CARP (FISH),鯉魚
 walnuthetao,walnut (hé táo 核桃),2042,WALNUT,核桃
 bananaxiangjiao,banana (xiāng jiāo 香蕉),868,BANANA,香蕉
 litchilycheelizhi,litchi (lychee) (lì zhī 荔枝),2768,LITCHI,荔枝
+speakshuo,speak (shuō 說),1623,SPEAK,說
+envelopexinfenger,envelope (xìn fēng ér 信封兒),,,信封兒
 seaoceanhai,"sea, ocean (hǎi 海)",2282,SEA OR OCEAN,海
 longanguiyuan,longan (guì yuán 桂圓),,,桂圓
 watermelonxigua,watermelon (xī guā 西瓜),2766,WATERMELON,西瓜
@@ -180,9 +187,9 @@ breakfastzaofan,breakfast (zǎo fàn 早飯),1322,BREAKFAST,早飯
 lunchwufan,lunch (wǔ fàn 午飯),768,LUNCH,午飯
 supperwanfan,supper (wǎn fàn 晚飯),1833,DINNER (SUPPER),晚飯
 cookedricemifan,cooked rice (mǐ fàn 米飯),1191,COOKED RICE,米飯
-collarlingzi,collar (lǐng zi 領子),2012,COLLAR,領子
 ricegruelcongeezhou,rice gruel (congee) (zhōu 粥),2049,CONGEE,粥
 thinriceormilletgruelmitang,thin rice or millet gruel (mǐ tāng 米湯),,,米湯
+letterpaperxinzhi,letter paper (xìn zhǐ 信紙),,,信紙
 lakehu,lake (hú 湖),624,LAKE,湖
 steamedbunmantou,steamed bun (mán tóu 饅頭),1969,MANTOU,饅頭
 thinkxiang,think (xiǎng 想),2271,THINK,想
@@ -195,23 +202,18 @@ stuffinginfoodxianer,stuffing (in food) (xiàn ér 餡兒),,,餡兒
 dishfoodcaicaiyao,dish (food) (cài (cài yáo) 菜(菜肴)),481,DISH,菜(菜肴)
 meatdisheshuncai,meat dishes (hūn cài 葷菜),2767,MEAT DISHES,葷菜
 vegetabledishessucai,vegetable dishes (sù cài 素菜),924,VEGETABLES,素菜
-sidewalkpavementrenxingdao,sidewalk (pavement) (rén xíng dào 人行道),,,人行道
 moonyueliang,moon (yuè liàng 月亮),1313,MOON,月亮
 pondchitang,pond (chí táng 池塘),2035,POND,池塘
 souptang,soup (tāng 湯),1547,SOUP,湯
-falldowndiaodiaoxialai,fall (down) (diào (diào xià lái) 掉(掉下來)),1280,FALL,掉(掉下來)
 porkzhurou,pork (zhū ròu 豬肉),2769,PORK,豬肉
 porkliverzhugan,pork liver (zhū gān 豬肝),2778,PIG LIVER,豬肝
 porktonguezhushetou,pork tongue (zhū shé tóu 豬舌頭),2777,PIG TONGUE,豬舌頭
 eggjidan,egg (jī dàn 雞蛋),2779,CHICKEN EGG,雞蛋
 fermentedbeancurdfuru,fermented bean curd (fǔ rǔ 腐乳),,,腐乳
 thinnoodlesfentiaofentiaoer,thin noodles (Fentiao) (fěn tiáo ér 粉條兒),973,NOODLE,粉條兒
-coughhaisou,cough (hāi sòu 咳嗽),879,COUGH,咳嗽
 condimentsseasoningzuoliao,"condiments, seasoning (zuò liào 作料)",,,作料
 porkfatzhuyou,pork fat (zhū yóu 豬油),2557,PIG FAT,豬油
 soysaucejiangyou,soy sauce (jiàng yóu 醬油),1968,SOYA SAUCE,醬油
-shouthan,shout (hǎn 喊),715,SHOUT,喊
-arguequarellchaojia,"argue, quarell (chǎo jià 吵架)",1848,QUARREL,吵架
 landscapefengjing,landscape (fēng jǐng 風景),2342,LANDSCAPE,風景
 vinegarcu,vinegar (cù 醋),985,VINEGAR,醋
 sugarsweetstang,"sugar, sweets (táng 糖)",874,CANDY,糖
@@ -221,32 +223,35 @@ teacha,tea (chá 茶),1373,TEA,茶
 icecreambingqilin,ice cream (bīng qí lín 冰淇淋),,,冰淇淋
 popsiclebingguner,popsicle (bīng gùn ér 冰棍兒),,,冰棍兒
 boiledwaterkaishui,boiled water (kāi shuǐ 開水),,,開水
-flashlightningdashan,flash (lightning) (dǎ shǎn 打閃),2377,FLASH (VERB),打閃
 cigarettezhiyan,cigarette (zhǐ yān 紙煙),969,CIGARETTE,紙煙
 clothesyifu,clothes (yī fú 衣服),1895,CLOTHES,衣服
 timeseasonshihou,"time, season (shí hòu 時候)",892,TIME,時候
-thisyearjinnian,this year (jīn nián 今年),513,THIS YEAR,今年
 jacketshangyi,jacket (shàng yī 上衣),2770,JACKET,上衣
 shirtchenshan,shirt (chèn shān 襯衫),1622,SHIRT,襯衫
 undershirthanshan,undershirt (hàn shān 汗衫),1622,SHIRT,汗衫
 jiaaocostumejiayao,Jia'ao (costume) (jiā yāo 夾祅),,,夾祅
 woolensweatermaoyi,woolen sweater (máo yī 毛衣),,,毛衣
-crowdyrenao,crowdy (rè nào 熱鬧),,,熱鬧
 coatdayi,coat (dà yī 大衣),603,COAT,大衣
 trouserskuzi,trousers (kù zi 褲子),809,TROUSERS,褲子
 skirtqunzi,skirt (qún zi 群子),1600,SKIRT,群子
 shortsduanku,shorts (duǎn kù 短褲),,,短褲
 hatmaozi,hat (mào zi 帽子),771,HAT,帽子
-transparentclearqingchu,"transparent, clear (qīng chǔ 淸楚)",989,CLEAR,淸楚
+thisyearjinnian,this year (jīn nián 今年),513,THIS YEAR,今年
+shoesxie,shoes (xié 鞋),1381,SHOE,鞋
+slipperstuoxie,slippers (tuō xié 拖鞋),,,拖鞋
+makeajokekaiwanxiao,make a joke (kāi wán xiào 開玩笑),2760,MAKE A JOKE,開玩笑
 woodenslippersmutuoxie,wooden slippers (mù tuō xié 木拖鞋),,,木拖鞋
 bootsxuezi,boots (xuē zi 靴子),585,BOOT,靴子
+ballqiu,ball (qiú 球),1845,BALL,球
 shawlweijin,shawl (wéi jīn 圍巾),2771,SHAWL,圍巾
 gloveshoutao,glove (shǒu tào 手套),867,GLOVE,手套
 sockswazi,socks (wà zi 襪子),329,STOCKING,襪子
+supportrelyontuo,"support, rely on (tuō 托)",,,托
 towelwashclothmaojin,"towel, washcloth (máo jīn 毛巾)",1021,TOWEL,毛巾
 handkerchiefshoupa,handkerchief (shǒu pà 手帕),332,RAG,手帕
 bibweizuier,bib (wéi zuǐ ér 圍嘴兒),,,圍嘴兒
 nextyearmingnian,next year (míng nián 明年),515,NEXT YEAR,明年
+collarlingzi,collar (lǐng zi 領子),2012,COLLAR,領子
 sleevexiuzi,sleeve (xiù zi 袖子),,,袖子
 liningofclotheslizi,lining (of clothes) (lǐ zi 裏子),,,裏子
 buildinghousefangzi,building // house (fáng zi 房子),1252,HOUSE,房子
@@ -261,14 +266,15 @@ beaminahousefangliang,beam (in a house) (fáng liáng 房梁),1132,BEAM,房梁
 wallqiang,wall (qiáng 墻),933,WALL (OF HOUSE),墻
 windowchuangzi,window (chuāng zi 窗子),1375,WINDOW,窗子
 buckettrapdoukaner,bucket trap (dòu kǎn ér 鬥檻兒),,,鬥檻兒
+quickfastkuaixunsu,"quick, fast (kuài (xùn sù) 快(迅速))",1631,FAST,快(迅速)
 flatroofshaitai,flat roof (shài tái 曬臺),,,曬臺
 balustradelangan,balustrade (lán gǎn 欄桿),,,欄桿
 stepsofstairstaijie,steps (of stairs) (tái jiē 臺階),1158,STEP,臺階
 stairslouti,stairs (lóu tī 樓梯),34,STAIRS,樓梯
 courtyardyuanzi,courtyard (yuàn zi 院子),4,COURTYARD,院子
-fightdajia,fight (dǎ jià 打架),1423,FIGHT,打架
 courtyardtianjing,courtyard (tiān jǐng 天井),4,COURTYARD,天井
 lastyearqunian,last year (qù nián 去年),514,LAST YEAR,去年
+whistleshaozi,whistle (shào zi 哨子),1025,WHISTLE,哨子
 welljing,well (jǐng 井),954,WELL,井
 furniturejiaju,furniture (jiā jù 家俱),,,家俱
 tablezhuozi,table (zhuō zi 桌子),1775,TABLE,桌子
@@ -288,7 +294,6 @@ puffruzi,puff (rù zi 褥子),,,褥子
 carpettanzi,carpet (tǎn zi 毯子),,,毯子
 pillowzhentou,pillow (zhěn tóu 枕頭),1044,PILLOW,枕頭
 matxizi,mat (xí zi 席子),195,MAT,席子
-stiffofeggschou,stiff (of eggs) (chóu 稠),,,稠
 bedcurtainzhangzi,bed-curtain (zhàng zi 帳子),,,帳子
 cookingpotguo,cooking-pot (guō 鍋),1462,POT,鍋
 pancaketurnerguochan,pancake turner (guō chǎn 鍋鏟),,,鍋鏟
@@ -296,17 +301,15 @@ dayrizi,day (rì zi 日子),1260,DAY (24 HOURS),日子
 kitchenknifecaidao,kitchen knife (cài dāo 菜刀),2772,VEGETABLE KNIFE,菜刀
 chopstickskuaizi,chopsticks (kuài zi 筷子),1987,CHOPSTICKS,筷子
 spoondiaogeng,spoon (diào gēng 調羹),1378,SPOON,調羹
-carryhorizontallyduan,carry horizontally (duān 端),2763,CARRY HORIZONTALLY,端
+badhuai,bad (huài 壞),1292,BAD,壞
 earthenjuggang,earthen jug (gāng 缸),270,JUG,缸
 balershuipiao,baler (shuǐ piáo 水瓢),,,水瓢
 earthernjugtanzi,earthern jug (tán zi 壇子),270,JUG,壇子
 potjugguanzi,"pot, jug (guàn zi 罐子)",1462,POT,罐子
 bottlepingzi,bottle (píng zi 瓶子),1321,BOTTLE,瓶子
-differentwrongcha,"different, wrong (chà 差)",2504,DIFFERENT,差
 firewoodmuchai,firewood (mù chái 木柴),10,FIREWOOD,木柴
 woodcharcoalmutan,wood charcoal (mù tàn 木炭),1188,CHARCOAL,木炭
 todayjintian,today (jīn tiān 今天),1283,TODAY,今天
-cunningjiaohua,cunning (jiǎo huá 狡猾),2335,CUNNING,狡猾
 stovehuolu,stove (huǒ lú 火爐),859,STOVE,火爐
 thermosbottlereshuiping,thermos bottle (rè shuǐ píng 熱水瓶),,,熱水瓶
 gluejianghu,glue (jiāng hú 漿糊),1069,GLUE,漿糊
@@ -327,7 +330,6 @@ matchhuochai,match (huǒ chái 火柴),1133,MATCH,火柴
 soapfeizao,soap (féi zào 肥皂),788,SOAP,肥皂
 toothbrushyashua,toothbrush (yá shuā 牙刷),2579,TOOTHBRUSH,牙刷
 dishtowelmobu,dish towel (mǒ bù 抹布),,,抹布
-cheapbianyi,cheap (biàn yí 便宜),1887,CHEAP,便宜
 broomsaozhou,broom (sǎo zhǒu 掃帚),245,BROOM,掃帚
 dusterdanzi,duster (dǎn zi 撣子),,,撣子
 thatnage,that (nà gè 那個),78,THAT,那個
@@ -338,10 +340,11 @@ abacussuanpan,abacus (suàn pán 算盤),2489,ABACUS,算盤
 scalecheng,scale (chèng 秤),2783,SCALES (MEASURE INSTRUMENT),秤
 steelyardforweighinggoldmedicinedengzi,"steelyard (for weighing gold, medicine) (děng zi 戥子)",,,戥子
 footmeasurechi,foot (measure) (chǐ 尺),2782,FOOT (MEASURE),尺
-hotre,hot (rè 熱),2272,HOT OR WARM,熱
 scissorsjianzi,scissors (jiǎn zi 剪子),356,SHEARS,剪子
 hammerchuizi,hammer (chuí zi 錘子),1481,HAMMER,錘子
 axefutou,axe (fǔ tóu 斧頭),677,AXE,斧頭
+maremuma,mare (mǔ mǎ 母馬),938,MARE,母馬
+buyclothmaibu,buy cloth (mǎi bù 買布),1869,BUY,買布
 pincersqianzi,pincers (qián zi 鉗子),,,鉗子
 threedaysfromnowdahoutian,three days from now (dà hòu tiān 大後天),2332,THREE DAYS FROM NOW,大後天
 tweezersniezi,tweezers (niè zi 鑷子),,,鑷子
@@ -350,18 +353,18 @@ coldleng,cold (lěng 冷),1287,COLD,冷
 buyoilmaiyou,buy oil (mǎi yóu 買油),1869,BUY,買油
 sawtooljuzi,saw (tool) (jù zi 鋸子),1948,SAW,鋸子
 filetoolcuodao,file (tool) (cuò dāo 銼刀),,,銼刀
-suitablepleasingheyi,"suitable, pleasing (hé yì 合意)",,,合意
 drilltoolchanzi,drill (tool) (chān zi 鉆子),,,鉆子
 awlzhuizi,awl (zhuī zi 錐子),278,AWL,錐子
 planetoolbaozi,plane (tool) (bào zi 鉋子),,,鉋子
 smallknifexiaodaoer,small knife (xiǎo dāo ér 小刀兒),1352,KNIFE,小刀兒
 hookgouzi,hook (gōu zi 鉤子),1071,HOOK,鉤子
 nailtooldingzi,nail (tool) (dīng zi 釘子),502,NAIL (TOOL),釘子
-rarescarcexi,"rare, scarce (xī 稀)",209,RARE,稀
 yesterdayzuotian,yesterday (zuó tiān 昨天),1174,YESTERDAY,昨天
 stairsladdertizi,"stairs, ladder (tī zi 梯子)",2689,LADDER OR STAIRS,梯子
+difficultnan,difficult (nán 難),584,DIFFICULT,難
 hoetoolchutou,hoe (tool) (chú tóu 鋤頭),284,HOE,鋤頭
 sickletoolliandao,sickle (tool) (lián dāo 鐮刀),341,SICKLE,鐮刀
+differentwrongcha,"different, wrong (chà 差)",2504,DIFFERENT,差
 shoulderpolebiandan,shoulder-pole (biǎn dān 扁擔),,,扁擔
 sievetoolshaizi,sieve (tool) (shāi zi 篩子),86,SIEVE,篩子
 wheellunzi,wheel (lún zi 輪子),710,WHEEL,輪子
@@ -372,16 +375,17 @@ cementshuini,cement (shuǐ ní 水泥),,,水泥
 thedaybeforeyesterdayqiantian,the day before yesterday (qián tiān 前天),1180,DAY BEFORE YESTERDAY,前天
 rubberxiangjiao,rubber (xiàng jiāo 橡膠),,,橡膠
 varnishpaintqi,"varnish, paint (qī 漆)",647,PAINT (PIGMENTS),漆
+swallowtun,swallow (tūn 呑),897,SWALLOW,呑
 glassboli,glass (bō lí 玻璃),604,GLASS,玻璃
 moneyqian,money (qián 錢),1559,MONEY,錢
 storeshangdian,store (shāng diàn 商店),752,STORE,商店
 restaurantfanguan,restaurant (fàn guǎn 飯館),,,飯館
-frostshuang,frost (shuāng 霜),2034,FROST,霜
 postofficeyouju,post office (yóu jú 郵局),,,郵局
 keepinthemouthhan,keep in the mouth (hán 含),,,含
 postagestampyoupiao,postage stamp (yóu piào 郵票),596,POSTAGE STAMP,郵票
 stopstationchezhan,"stop, station (chē zhàn 車站)",1928,CEASE,車站
 pierquaymatou,"pier, quay (mǎ tóu 碼頭)",,,碼頭
+foampaomo,foam (pào mò 泡沫),1768,FOAM,泡沫
 threedaysbeforedaqiantian,three days before (dà qián tiān 大前天),,,大前天
 automobileqiche,automobile (qì chē 汽車),,,汽車
 bicyclezixingche,bicycle (zì xíng chē 自行車),747,BICYCLE,自行車
@@ -390,6 +394,7 @@ steamshiplunchuan,steamship (lún chuán 輪船),,,輪船
 steamshipqichuan,steamship (qì chuán 汽船),,,汽船
 boatsmallshipxiaochuaner,boat (small ship) (xiǎo chuán ér 小船兒),1844,BOAT,小船兒
 streetjiedao,street (jiē dào 街道),1362,STREET,街道
+sidewalkpavementrenxingdao,sidewalk (pavement) (rén xíng dào 人行道),,,人行道
 alleylanexiang,"alley, lane (xiàng 巷)",,,巷
 givebirthshengshengyu,give birth (shēng (shēng yù) 生(生育)),1195,GIVE BIRTH,生(生育)
 bridgeqiao,bridge (qiáo 橋),1011,BRIDGE,橋
@@ -399,76 +404,72 @@ schooleducationalinstitutionxuexiao,school (educational institution) (xué xiào
 bookshu,book (shū 書),963,BOOK,書
 notebookbookletbenzi,"notebook, booklet (běn zi 本子)",,,本子
 paperzhi,paper (zhǐ 紙),648,PAPER,紙
-inkstoneyantai,inkstone (yàn tái 硯臺),,,硯臺
 writingbrushmaobi,writing brush (máo bǐ 毛筆),,,毛筆
 fountainpengangbi,fountain pen (gāng bǐ 鋼筆),,,鋼筆
-lionshizi,lion (shī zi 獅子),1386,LION,獅子
 letterxin,letter (xìn 信),1612,LETTER,信
 milletunhuskedriceguzi,millet (unhusked rice) (gǔ zi 谷子),931,MILLET,谷子
-envelopexinfenger,envelope (xìn fēng ér 信封兒),,,信封兒
-letterpaperxinzhi,letter paper (xìn zhǐ 信紙),,,信紙
+youngnianqing,young (nián qīng 年輕),1207,YOUNG,年輕
+tastelessdan,tasteless (dàn 淡),1771,TASTELESS,淡
 nightopposedtodayyejian,night (opposed to day) (yè jiān 夜間),1233,NIGHT,夜間
-rottensoursou,"rotten, sour (sōu 餿)",1728,ROTTEN,餿
 rubbersealxiangpiquaner,rubber seal (xiàng pí quān ér 橡皮圈兒),,,橡皮圈兒
 sealstamptuzhang,"seal, stamp (tú zhāng 圖章)",651,SEAL,圖章
 untidychaoticluan,"untidy, chaotic (luàn 亂)",,,亂
 badgeemblemhuizhang,"badge, emblem (huī zhāng 徽章)",,,徽章
 fotopicturexiangpian,foto (picture) (xiāng piàn 相片),2401,PICTURE,相片
-kneadnie,knead (niē 捏),274,KNEAD,捏
 filmmoviedianying,film (movie) (diàn yǐng 電影),216,MOVIE,電影
 historystorygushi,"history, story (gù shì 故事)",2060,STORY,故事
-ballqiu,ball (qiú 球),1845,BALL,球
+saltyxian,salty (xián 鹹),1091,SALTY,鹹
 swingqiuqian,swing (qiū qiān 秋千),,,秋千
+alleverybodydajia,"all, everybody (dà jiā 大家)",98,ALL,大家
 kitefengzheng,kite (fēng zhēng 風箏),307,HAWK,風箏
+tweaktwitchqia,"tweak, twitch (qiā 掐)",1414,SQUEEZE,掐
 firecrackerpaozhang,firecracker (pào zhàng 炮仗),,,炮仗
 morningzaochen,morning (zǎo chén 早晨),1339,MORNING,早晨
-whistleshaozi,whistle (shào zi 哨子),1025,WHISTLE,哨子
-pluckpickzhai,"pluck, pick (zhāi 摘)",2148,PICK,摘
 headtou,head (tóu 頭),1256,HEAD,頭
 hairofheadtoufa,hair (of head) (tóu fà 頭髮),2648,HAIR (HEAD),頭髮
 foreheadqiane,forehead (qián é 前額),123,FOREHEAD,前額
 eyeyanjing,eye (yǎn jīng 眼睛),1248,EYE,眼睛
 nosebizi,nose (bí zi 鼻子),1221,NOSE,鼻子
-learnxue,learn (xué 學),504,LEARN,學
 earerduo,ear (ěr duǒ 耳朵),1247,EAR,耳朵
 mouthzui,mouth (zuǐ 嘴),674,MOUTH,嘴
 tongueshetou,tongue (shé tóu 舌頭),1205,TONGUE,舌頭
 neckbozi,neck (bó zi 脖子),1333,NECK,脖子
 forenoonshangwu,forenoon (shàng wǔ 上午),2775,FORENOON,上午
+wefirstpersonpluralwomen,we (first person plural) (wǒ men 我們),1212,WE,我們
 armpitjiazhiwo,armpit (jiā zhī wō 夾肢窩),1886,ARMPIT,夾肢窩
 armgebo,arm (gē bó 胳膊),1673,ARM,胳膊
+pigeondovegezi,"pigeon, dove (gē zi 鴿子)",1853,DOVE,鴿子
 lefthandleftsidezuoshou,"left hand, left side (zuǒ shǒu 左手)",2182,LEFT HAND,左手
 righthandrightsideyoushou,"right hand, right side (yòu shǒu 右手)",2183,RIGHT HAND,右手
 fingertipshouzhitou,fingertip (shǒu zhǐ tóu 手指頭),2773,FINGERTIP,手指頭
 thumbdamuzhi,thumb (dà mǔ zhǐ 大姆指),1781,THUMB,大姆指
-sneezepenti,sneeze (pēn tì 噴嚏),1621,SNEEZE,噴嚏
 littlefingerxiaomuzhi,little finger (xiǎo mǔ zhǐ 小姆指),2774,LITTLE FINGER,小姆指
 fingernailzhijia,fingernail (zhǐ jiǎ 指甲),1258,FINGERNAIL,指甲
 buttockspigu,buttocks (pì gǔ 屁股),834,BUTTOCKS,屁股
 thighupperlegdatui,thigh (upper leg) (dà tuǐ 大腿),800,THIGH,大腿
+inhalexi,inhale (xī 吸),2705,INHALE,吸
 windfeng,wind (fēng 風),960,WIND,風
 noonzhongwu,noon (zhōng wǔ 中午),12,MIDDAY,中午
 kneexigai,knee (xī gài 膝蓋),1371,KNEE,膝蓋
 mannanren,man (nán rén 男人),1554,MAN,男人
 womannuren,woman (nǚ rén 女人),962,WOMAN,女人
-takeapicturezhaoxiang,take a picture (zhào xiāng 照相),2710,TAKE A PHOTO,照相
+pluckpickzhai,"pluck, pick (zhāi 摘)",2148,PICK,摘
 oldmanlaotouer,old man (lǎo tóu ér 老頭兒),406,OLD MAN,老頭兒
 oldwomanlaotaipo,old woman (lǎo tài pó 老太婆),907,OLD WOMAN,老太婆
 youngfellowxiaohuozi,young fellow (xiǎo huǒ zi 小夥子),,,小夥子
 childxiaohaier,child (xiǎo hái ér 小孩兒),1304,CHILD (YOUNG HUMAN),小孩兒
 boynanhaier,boy (nán hái ér 男孩兒),1366,BOY,男孩兒
 girlnuhaier,girl (nǚ hái ér 女孩兒),1646,GIRL,女孩兒
+wiperubca,"wipe, rub (cā 擦)",1449,RUB,擦
 deafpersonlongzi,deaf person (lóng zi 聾子),458,DEAF PERSON,聾子
 afternoonxiawu,afternoon (xià wǔ 下午),1807,AFTERNOON,下午
 blindpersonxiazi,blind person (xiā zi 瞎子),457,BLIND PERSON,瞎子
 mutepersonyaba,mute person (yǎ ba 啞吧),2320,MUTE PERSON,啞吧
-comfortableshufu,comfortable (shū fú 舒服),,,舒服
 stammererjieba,stammerer (jié bā 結巴),,,結巴
 personwithapockmarkedfacemazi,person with a pockmarked face (má zi 麻子),,,麻子
 baldheadtuzi,baldhead (tū zi 禿子),,,禿子
 personwithahumpbacktuozi,person with a humpback (tuó zi 駝子),,,駝子
 lamepersonbozi,lame person (bǒ zi 跛子),2322,LAME PERSON,跛子
-selectxuanze,select (xuǎn zé 選擇),1750,CHOOSE,選擇
 madpersonfengzi,mad person (fēng zi 瘋子),2321,MAD PERSON,瘋子
 bachelordanshenhan,bachelor (dān shēn hàn 單身漢),,,單身漢
 widowguafu,widow (guǎ fù 寡婦),1756,WIDOW,寡婦
@@ -477,6 +478,8 @@ twinsshuangbaotai,twins (shuāng bāo tāi 雙胞胎),1005,TWINS,雙胞胎
 thiefxiaotou,thief (xiǎo tōu 小偷),1160,THIEF,小偷
 robberqiangdao,robber (qiáng dào 強盜),2073,ROB (VERB),強盜
 grandfatheryeye,grandfather (yé yé 爺爺),1383,GRANDFATHER,爺爺
+leopardpantherbaozi,leopard // panther (bào zi 豹子),1139,LEOPARD,豹子
+latewan,late (wǎn 晚),477,LATE,晚
 grandmothernainai,grandmother (nǎi nǎi 奶奶),1496,GRANDMOTHER,奶奶
 fatherdaddybaba,father (daddy) (bà bà 爸爸),1217,FATHER,爸爸
 mothermommymama,mother (mommy) (mā mā 媽媽),1216,MOTHER,媽媽
@@ -490,7 +493,6 @@ unclehusbandoffatherssistergufu,uncle (husband of father's sister) (gū fù 姑�
 auntfatherssistergumu,aunt (father's sister) (gū mǔ 姑母),2691,PATERNAL AUNT (FATHER'S SISTER),姑母
 maternalgrandfatherwaigong,maternal grandfather (wài gōng 外公),2178,MATERNAL GRANDFATHER,外公
 maternalgrandmotherwaipo,maternal grandmother (wài pó 外婆),2177,MATERNAL GRANDMOTHER,外婆
-searchzhao,search (zhǎo 找),1468,LOOK FOR,找
 unclemothersbrotherjiufu,uncle (mother's brother) (jiù fù 舅父),2692,MATERNAL UNCLE (MOTHER'S BROTHER),舅父
 thissideherezhebian,"this side, here (zhè biān 這邊)",136,HERE,這邊
 auntmotherssisterjiumu,aunt (mother's sister) (jiù mǔ 舅母),2693,MATERNAL AUNT (MOTHER'S SISTER),舅母
@@ -503,6 +505,7 @@ fatherinlawhusbandsfathergonggong,father-in-law (husband's father) (gōng gōng 
 motherinlawhusbandsmotherpopo,mother-in-law (husband's mother) (pó pó 婆婆),2256,MOTHER-IN-LAW (OF WOMAN),婆婆
 husbandzhangfu,husband (zhàng fū 丈夫),1200,HUSBAND,丈夫
 wifeqizi,wife (qī zi 妻子),1199,WIFE,妻子
+oldagedlaobunianqing,"old, aged (lǎo (bù nián qīng) 老(不年輕))",2112,OLD (AGED),老(不年輕)
 elderbrothergege,elder brother (gē gē 哥哥),1759,OLDER BROTHER,哥哥
 trembleduosuo,tremble (duō suo 哆嗦),52,SHIVER,哆嗦
 sisterinlawelderbrotherswifesaozi,sister-in-law (elder brother's wife) (sǎo zi 嫂子),2695,SISTER-IN-LAW (OLDER BROTHER'S WIFE),嫂子
@@ -544,10 +547,8 @@ powderfen,powder (fěn 粉),1798,GUNPOWDER,粉
 chinesenewyearsevechuxi,Chinese New Year's Eve (chú xī 除夕),2188,NEW YEAR'S EVE,除夕
 therenaer,there (nà ér 那兒),1937,THERE,那兒
 dustmozi,dust (mò zi 末子),2,DUST,末子
-foampaomo,foam (pào mò 泡沫),1768,FOAM,泡沫
-garlicsuan,garlic (suàn 蒜),2368,GARLIC,蒜
+strongqiangzhuang,strong (qiáng zhuàng 強壯),785,STRONG,強壯
 salivaspitkoushui,"saliva, spit (kǒu shuǐ 口水)",1503,SALIVA,口水
-garbagetrashlaji,"garbage, trash (lā jī 垃圾)",909,GARBAGE,垃圾
 cornerjiaoluo,corner (jiǎo luò 角落),192,CORNER,角落
 holecavitykulong,"hole, cavity (kū lóng 窟窿)",1667,HOLE,窟窿
 pigstyzhuquan,pigsty (zhū quān 豬圈),,,豬圈
@@ -559,11 +560,14 @@ affairmattershiqing,"affair, matter (shì qíng 事情)",2214,AFFAIR,事情
 blowofwindguafeng,blow (of wind) (guā fēng 刮風),175,BLOW (OF WIND),刮風
 benecessaryzhide,be necessary (zhí dé 値得),1030,NECESSARY,値得
 rainxiayu,rain (xià yǔ 下雨),1253,RAIN (RAINING),下雨
+flashlightningdashan,flash (lightning) (dǎ shǎn 打閃),2377,FLASH (VERB),打閃
 thunderdalei,thunder (dǎ léi 打雷),1150,THUNDER,打雷
 freezejiebing,freeze (jié bīng 結冰),1431,FREEZE,結冰
 meltofsnowhuaxue,melt (of snow) (huà xuě 化雪),2334,MELT,化雪
 getwetintherainlinyu,get wet in the rain (lín yǔ 淋雨),,,淋雨
+boiloutshuan,boil out (shuàn 涮),,,涮
 fadeloosecolortuise,fade (loose color) (tuì sè 退色),2704,FADE (LOOSE COLOR),退色
+falldowndiaodiaoxialai,fall (down) (diào (diào xià lái) 掉(掉下來)),1280,FALL,掉(掉下來)
 rainyu,rain (yǔ 雨),658,RAIN (PRECIPITATION),雨
 silveryinzi,silver (yín zi 銀子),759,SILVER,銀子
 lookseekan,"look, see (kàn 看)",1409,SEE,看
@@ -573,7 +577,7 @@ hearting,hear (tīng 聽),1408,HEAR,聽
 smellsomethingwen,smell (something) (wén 聞),1586,SMELL (PERCEIVE),聞
 eatchi,eat (chī 吃),1336,EAT,吃
 drinkhe,drink (hē 喝),1401,DRINK,喝
-inhalexi,inhale (xī 吸),2705,INHALE,吸
+strangeqiguai,strange (qí guài 奇怪),600,STRANGE,奇怪
 biteyao,bite (yǎo 咬),1403,BITE,咬
 generousdafang,generous (dà fāng 大方),,,大方
 gnawnie,gnaw (niè 嚙),2706,GNAW,嚙
@@ -581,21 +585,19 @@ coppertong,copper (tóng 銅),1825,COPPER,銅
 chewjue,chew (jué 嚼),321,CHEW,嚼
 lickwithtonguetian,lick (with tongue) (tiǎn 舔),319,LICK,舔
 riptearsi,"rip, tear (sī 撕)",1735,TEAR (SHRED),撕
-swallowtun,swallow (tūn 呑),897,SWALLOW,呑
 splashpen,splash (pēn 噴),365,SPLASH,噴
 blowchui,blow (chuī 吹),176,BLOW (WITH MOUTH),吹
 tastechang,taste (cháng 嚐),21,TASTE (SOMETHING),嚐
 takeholdna,"take, hold (ná 拿)",2104,HOLD OR TAKE,拿
-tweaktwitchqia,"tweak, twitch (qiā 掐)",1414,SQUEEZE,掐
+kneadnie,knead (niē 捏),274,KNEAD,捏
 ironzhi,iron (zhí 鉄),621,IRON,鉄
 strokewithhandmo,stroke (with hand) (mō 摸),1449,RUB,摸
 catchfishlao,catch (fish) (lāo 撈),702,CATCH,撈
-wiperubca,"wipe, rub (cā 擦)",1449,RUB,擦
+searchzhao,search (zhǎo 找),1468,LOOK FOR,找
 toruboneshandscuo,to rub one's hands (cuō 搓),1449,RUB,搓
 holdinhandliftinhandti,"hold (in hand), lift (in hand) (tí 提)",501,LIFT,提
 raisesomethingwithhandju,raise (something with hand) (jǔ 舉),501,LIFT,舉
-grapeputao,grape (pú táo 葡萄),920,GRAPE,葡萄
-supportrelyontuo,"support, rely on (tuō 托)",,,托
+carryhorizontallyduan,carry horizontally (duān 端),2763,CARRY HORIZONTALLY,端
 steelgang,steel (gāng 鋼),2343,STEEL,鋼
 holdintwohandspeng,hold in two hands (pěng 捧),412,CARRY IN HAND,捧
 liftcarrytai,"lift, carry (tái 擡)",700,CARRY,擡
@@ -620,7 +622,6 @@ hidecovergai,"hide, cover (gài 蓋)",761,COVER,蓋
 coverzhao,cover (zhào 罩),761,COVER,罩
 wrapcovertao,"wrap, cover (tào 套)",1113,WRAP,套
 tinxi,tin (xī 錫),893,TIN (METAL),錫
-fearpa,fear (pà 怕),1419,FEAR (BE AFRAID),怕
 wrapspinjuan,"wrap, spin (juǎn 卷)",121,SPIN,卷
 diligentqinkuai,diligent (qín kuài 勤快),2077,DILIGENT,勤快
 wrapbundlebao,"wrap, bundle (bāo 包)",1113,WRAP,包
@@ -639,9 +640,9 @@ strenghdan,strengh (dàn 彈),,,彈
 throwthrowawayreng,"throw, throw away (rēng 扔)",1456,THROW,扔
 fillinfilluptian,"fill in, fill up (tián 塡)",2006,FILL,塡
 burymai,bury (mái 埋),1719,BURY,埋
+coughhaisou,cough (hāi sòu 咳嗽),879,COUGH,咳嗽
 walkgoonfootleavezou,"walk, go (on foot), leave (zǒu 走)",1443,WALK,走
 runpao,run (pǎo 跑),1519,RUN,跑
-planintenddasuan,"plan, intend (dǎ suàn 打算)",22,INTEND,打算
 earlyzao,early (zǎo 早),672,EARLY,早
 jumptiao,jump (tiào 跳),1829,JUMP,跳
 kerosinemeiyou,kerosine (méi yóu 煤油),,,煤油
@@ -656,7 +657,6 @@ squeezepushagainstji,"squeeze, push against (jǐ 擠)",1414,SQUEEZE,擠
 hideduo,hide (duǒ 躱),2485,HIDE (ONESELF),躱
 carryonshoulderorbacktiao,carry (on shoulder or back) (tiāo 挑),413,CARRY ON SHOULDER,挑
 petrolqiyou,petrol (qì yóu 汽油),2344,PETROL,汽油
-happygaoxing,happy (gāo xìng 髙興),1495,HAPPY,髙興
 collectcuo,collect (cuò 措),7,GATHER,措
 followgen,follow (gēn 跟),1085,FOLLOW,跟
 fleerunawaytaopao,"flee, run away (táo pǎo 逃跑)",2142,RUN AWAY,逃跑
@@ -664,8 +664,8 @@ takeoffclothestuo,take off (clothes) (tuō 脫),1755,UNDRESS,脫
 wearonheaddai,wear (on head) (dài 戴),976,WEAR,戴
 washxi,wash (xǐ 洗),1453,WASH,洗
 brushshua,brush (shuā 刷),1821,BRUSH,刷
-boiloutshuan,boil out (shuàn 涮),,,涮
 gargleshukou,gargle (shù kǒu 漱口),,,漱口
+suitablepleasingheyi,"suitable, pleasing (hé yì 合意)",,,合意
 washonselfxianzao,wash (onself) (xiǎn zǎo 冼澡),1453,WASH,冼澡
 stoneshitou,stone (shí tóu 石頭),857,STONE,石頭
 takeasunbathshai,take a sunbath (shài 曬),,,曬
@@ -675,6 +675,7 @@ dyehairran,dye (hair) (rǎn 染),157,DYE,染
 cutjian,cut (jiǎn 剪),1432,CUT,剪
 cutcai,cut (cái 裁),1432,CUT,裁
 cutintwopartsqie,cut (in two parts) (qiè 切),2156,CUT (WITH KNIFE),切
+forgetwangji,forget (wàng jì 忘記),1523,FORGET,忘記
 cutoffge,cut off (gē 割),1432,CUT,割
 hacktopiecesduo,hack (to pieces) (duò 刴),1432,CUT,刴
 killsha,kill (shā 殺),1417,KILL,殺
@@ -688,21 +689,21 @@ sweepsao,sweep (sǎo 掃),230,SWEEP,掃
 pointtonoddian,"point to, nod (diǎn 點)",2669,POINT (WITH FINGER),點
 gathercollectshoushi,"gather, collect (shōu shí 收拾)",7,GATHER,收拾
 mixblendjiaohe,"mix, blend (jiǎo hé 撹和)",2017,MIX,撹和
-pityfulkelian,pityful (kě lián 可憐),,,可憐
 mixban,mix (bàn 拌),2017,MIX,拌
+selectxuanze,select (xuǎn zé 選擇),1750,CHOOSE,選擇
 safemoneycollectmoneycangshoucun,"safe (money), collect (money) (cáng (shōu cún) 藏(收存))",7,GATHER,藏(收存)
-soilearthtu,"soil, earth (tǔ 土)",1228,EARTH (SOIL),土
-speakshuo,speak (shuō 說),1623,SPEAK,說
 talkmakesmalltalkxiandan,"talk, make smalltalk (xián dàn 閑淡)",2708,TALK,閑淡
 askwen,ask (wèn 問),1309,ASK (INQUIRE),問
 manageli,manage (lǐ 理),,,理
 calljiao,call (jiào 叫),1084,CALL,叫
+shouthan,shout (hǎn 喊),715,SHOUT,喊
 smilexiao,smile (xiào 笑),1451,SMILE,笑
 weepcryku,"weep, cry (kū 哭)",1839,CRY,哭
 shoutscoldma,"shout, scold (mà 駡)",299,SCOLD,駡
-makeajokekaiwanxiao,make a joke (kāi wán xiào 開玩笑),2760,MAKE A JOKE,開玩笑
 dusthuichen,dust (huī chén 灰塵),2,DUST,灰塵
 getangryfapiqi,get angry (fā pí qì 發脾氣),2215,BECOME ANGRY,發脾氣
+arguequarellchaojia,"argue, quarell (chǎo jià 吵架)",1848,QUARREL,吵架
+fightdajia,fight (dǎ jià 打架),1423,FIGHT,打架
 recommendquan,recommend (quàn 勸),2759,RECOMMEND,勸
 boastchuiniu,boast (chuī niú 吹牛),101,BOAST,吹牛
 flatterpaima,flatter (pāi mǎ 拍馬),2709,FLATTER,拍馬
@@ -714,26 +715,28 @@ tigerlaohu,tiger (lǎo hǔ 老虎),846,TIGER,老虎
 cultivatezhongdi,cultivate (zhǒng dì 種地),1541,CULTIVATE,種地
 benotbushi,be not (bù shì 不是),1269,NO,不是
 driveacarkaiche,drive a car (kāi chē 開車),741,DRIVE,開車
-buyclothmaibu,buy cloth (mǎi bù 買布),1869,BUY,買布
 shyhaixiu,shy (hài xiū 害羞),487,SHY,害羞
 buychinesemedicinemaiyaomaizhongyao,buy Chinese medicine (mǎi yào (mǎi zhōng yào) 買藥(買中藥)),1869,BUY,買藥(買中藥)
 livehuo,live (huó 活),1422,BE ALIVE,活
 diesi,die (sǐ 死),1494,DIE,死
 marryofamanjiehunzhinanfang,marry (of a man) (jié hūn (zhǐ nán fāng) 結婚(指男方)),2164,MARRY (AS MAN),結婚(指男方)
 marryofawomanjiehunzhinufang,marry (of a woman) (jié hūn (zhǐ nǚ fāng) 結婚(指女方)),2163,MARRY (AS WOMAN),結婚(指女方)
+lionshizi,lion (shī zi 獅子),1386,LION,獅子
 startclassgotoclassshangke,"start class, go to class (shàng kè 上課)",,,上課
 finishclassxiake,finish class (xià kè 下課),,,下課
 teachjiao,teach (jiào 敎),709,TEACH,敎
+learnxue,learn (xué 學),504,LEARN,學
 playwaner,play (wán ér 玩兒),1413,PLAY,玩兒
 swimyouyong,swim (yóu yǒng 遊泳),1439,SWIM,遊泳
+takeapicturezhaoxiang,take a picture (zhào xiāng 照相),2710,TAKE A PHOTO,照相
 winying,win (yíng 贏),866,WIN,贏
 transportcarryshu,"transport, carry (shū 輸)",2711,TRANSPORT,輸
 restxiuxi,rest (xiū xī 休息),168,REST,休息
-leopardpantherbaozi,leopard // panther (bào zi 豹子),1139,LEOPARD,豹子
 sleepshuijue,sleep (shuì jué 睡覺),1585,SLEEP,睡覺
 yawndaaqian,yawn (dǎ ā qiàn 打呵欠),1028,YAWN,打呵欠
 dozeoffdakeshui,doze off (dǎ kē shuì 打瞌睡),,,打瞌睡
 shiverdalengjin,shiver (dǎ lěng jìn 打冷噤),52,SHIVER,打冷噤
+sneezepenti,sneeze (pēn tì 噴嚏),1621,SNEEZE,噴嚏
 scratchtorelieveitchzhuayang,scratch (to relieve itch) (zhuā yǎng 抓癢),1436,SCRATCH,抓癢
 peepisssasaniao,"pee, piss (sā (sā niào) 撒(撒尿))",592,PISS,撒(撒尿)
 defecateshitlalashi,"defecate, shit (lā (lā shǐ) 拉(拉屎))",676,SHIT (DEFECATE),拉(拉屎)
@@ -750,12 +753,14 @@ makeresponsibleforguai,make responsible for (guài 怪),2716,BLAME (SOMEBODY),�
 hatehen,hate (hèn 恨),1607,HATE,恨
 deerlu,deer (lù 鹿),1936,DEER,鹿
 regrethouhui,regret (hòu huǐ 後悔),1875,REGRET,後悔
+fearpa,fear (pà 怕),1419,FEAR (BE AFRAID),怕
 knowzhidao,know (zhī dào 知道),1410,KNOW (SOMETHING),知道
+planintenddasuan,"plan, intend (dǎ suàn 打算)",22,INTEND,打算
 believetrustxiangxin,"believe, trust (xiāng xìn 相信)",1890,BELIEVE,相信
 doubthuaiyi,doubt (huái yí 懷疑),1308,DOUBT,懷疑
 takecarexiaoxin,take care (xiǎo xīn 小心),2758,CAREFUL,小心
 misslongforxiangnian,"miss, long for (xiǎng niàn 想念)",2328,MISS (SOMEBODY),想念
-forgetwangji,forget (wàng jì 忘記),1523,FORGET,忘記
+competentneixing,competent (nèi xíng 內行),,,內行
 monkeyhouzi,monkey (hóu zi 猴子),1350,MONKEY,猴子
 wantyao,want (yào 要),1784,WANT,要
 refrainfromdonotwantbuyao,"refrain from, do not want (bù yào 不要)",,,不要
@@ -808,7 +813,9 @@ lightofweightqing,light (of weight) (qīng 輕),1052,LIGHT (WEIGHT),輕
 heavyzhong,heavy (zhòng 重),1210,HEAVY,重
 drygan,dry (gàn 幹),1398,DRY,幹
 wetshi,wet (shī 濕),1726,WET,濕
+stiffofeggschou,stiff (of eggs) (chóu 稠),,,稠
 thickorstrongofteayan,thick or strong (of tea) (yàn 釅),2718,STRONG (OF DRINK),釅
+rarescarcexi,"rare, scarce (xī 稀)",209,RARE,稀
 wildgooseyan,wild goose (yàn 雁),2776,WILD GOOSE,雁
 hardfirmying,"hard, firm (yìng 硬)",1884,HARD,硬
 softflexibleruan,"soft, flexible (ruǎn 軟)",1856,SOFT,軟
@@ -822,42 +829,37 @@ brokenpo,broken (pò 破),588,BROKEN,破
 swallowyanzi,swallow (yàn zi 燕子),897,SWALLOW,燕子
 cleanganjing,clean (gàn jìng 幹淨),704,CLEAN,幹淨
 dirtyangzang,dirty (āng zāng 骯髒),1230,DIRTY,骯髒
+crowdyrenao,crowdy (rè nào 熱鬧),,,熱鬧
+transparentclearqingchu,"transparent, clear (qīng chǔ 淸楚)",989,CLEAR,淸楚
 blurredintransparentmohu,"blurred, intransparent (mó hú 模糊)",,,模糊
 muddyhun,muddy (hún 渾),537,TURBID,渾
 sharpknifekuaifengli,sharp (knife) (kuài (fēng lì) 快(鋒利)),1396,SHARP,快(鋒利)
-quickfastkuaixunsu,"quick, fast (kuài (xùn sù) 快(迅速))",1631,FAST,快(迅速)
-latewan,late (wǎn 晚),477,LATE,晚
+comfortableshufu,comfortable (shū fú 舒服),,,舒服
 goodhao,good (hǎo 好),1035,GOOD,好
-badhuai,bad (huài 壞),1292,BAD,壞
-difficultnan,difficult (nán 難),584,DIFFICULT,難
 easyrongyi,easy (róng yì 容易),686,EASY,容易
 expensivegui,expensive (guì 貴),1426,EXPENSIVE,貴
+cheapbianyi,cheap (biàn yí 便宜),1887,CHEAP,便宜
+hotre,hot (rè 熱),2272,HOT OR WARM,熱
 hotfoodsharpfoodtang,"hot (food), sharp (food) (tàng 燙)",544,SPICY,燙
 magpiexique,magpie (xǐ què 喜鵲),2039,MAGPIE,喜鵲
 warmnuanhuo,warm (nuǎn huo 暖和),1232,WARM,暖和
 lukewarmwen,lukewarm (wēn 溫),,,溫
 coldcoolliang,"cold, cool (liáng 涼)",2483,COLD (OF WEATHER),涼
-stinkingchou,stinking (chòu 臭),42,STINKING,臭
-saltyxian,salty (xián 鹹),1091,SALTY,鹹
-tastelessdan,tasteless (dàn 淡),1771,TASTELESS,淡
+rottensoursou,"rotten, sour (sōu 餿)",1728,ROTTEN,餿
 hungrye,hungry (è 餓),1533,BE HUNGRY,餓
 thirstyke,thirsty (kě 渴),847,THIRSTY,渴
 sparrowmaque,sparrow (má què 麻雀),1854,SPARROW,麻雀
-tiredlei,tired (lèi 累),1757,TIRED,累
 itchyyang,itchy (yǎng 癢),149,ITCHY,癢
 busymang,busy (máng 忙),2755,BUSY,忙
 idlexian,idle (xián 閑),2756,IDLE,閑
 fatobesepang,"fat, obese (pàng 胖)",1279,FAT (OBESE),胖
 fatoilyfei,"fat, oily (féi 肥)",2719,FAT (OILY),肥
 thinshou,thin (shòu 瘦),1400,THIN (SLIM),瘦
-oldagedlaobunianqing,"old, aged (lǎo (bù nián qīng) 老(不年輕))",2112,OLD (AGED),老(不年輕)
-youngnianqing,young (nián qīng 年輕),1207,YOUNG,年輕
-pigeondovegezi,"pigeon, dove (gē zi 鴿子)",1853,DOVE,鴿子
 goodlookingbeautifulhaokanpiaoliang,"goodlooking, beautiful (hǎo kàn 、 piào liàng 好看、漂亮)",2410,GOOD-LOOKING,好看、漂亮
 uglynankanchou,ugly (nán kàn 、 chǒu 難看、醜),1548,UGLY,難看、醜
-strongqiangzhuang,strong (qiáng zhuàng 強壯),785,STRONG,強壯
 stupidsha,stupid (shǎ 傻),1518,STUPID,傻
 honestlaoshi,honest (lǎo shí 老實),1120,HONEST,老實
+cunningjiaohua,cunning (jiǎo huá 狡猾),2335,CUNNING,狡猾
 honestfrankzhishuang,"honest, frank (zhí shuǎng 直爽)",1120,HONEST,直爽
 cheapstingyxiaoqi,"cheap, stingy (xiǎo qì 小氣)",1774,STINGY,小氣
 proudjiaoao,proud (jiāo ào 驕傲),174,PROUD,驕傲
@@ -866,21 +868,19 @@ modestqianxu,modest (qiān xū 謙虛),,,謙虛
 wellbehavedguai,well-behaved (guāi 乖),,,乖
 lazylan,lazy (lǎn 懶),1564,LAZY,懶
 capablenenggan,capable (néng gàn 能幹),,,能幹
-competentneixing,competent (nèi xíng 內行),,,內行
+happygaoxing,happy (gāo xìng 髙興),1495,HAPPY,髙興
+frostshuang,frost (shuāng 霜),2034,FROST,霜
 cattleshengkou,cattle (shēng kǒu 牲口),1153,CATTLE,牲口
+pityfulkelian,pityful (kě lián 可憐),,,可憐
 havingbadluckdaomei,having bad luck (dào méi 倒黴),,,倒黴
-strangeqiguai,strange (qí guài 奇怪),600,STRANGE,奇怪
 scaryhaipa,scary (hài pà 害怕),,,害怕
-maremuma,mare (mǔ mǎ 母馬),938,MARE,母馬
 ifirstpersonsingularwo,I (first person singular) (wǒ 我),1209,I,我
 yousecondpersonsingularni,you (second person singular) (nǐ 你),1215,THOU,你
 hesheitthirdpersonsingularta,"he, she, it (third person singular) (tā 他)",262,HE OR SHE OR IT,他
-wefirstpersonpluralwomen,we (first person plural) (wǒ men 我們),1212,WE,我們
 bullgongniu,bull (gōng niú 公牛),1008,BULL,公牛
 wefirstpersonpluralinclusivezanmen,we (first person plural inclusive) (zán men 咱們),1131,WE (INCLUSIVE),咱們
 yousecondpersonpluralnimen,you (second person plural) (nǐ men 你們),1213,YOU,你們
 theythirdpersonpluraltamen,they (third person plural) (tā men 他們),817,THEY,他們
-alleverybodydajia,"all, everybody (dà jiā 大家)",98,ALL,大家
 selfoneselfziji,"self, oneself (zì jǐ 自己)",1993,SELF,自己
 howmuchtowhichdegreeduome,"how much, to which degree (duō me 多麽)",531,HOW MUCH,多麽
 theytheothersthirdpersonpluralrenjia,"they, the others (third person plural) (rén jiā 人家)",817,THEY,人家
