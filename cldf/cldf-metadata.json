@@ -4,14 +4,12 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": "http://concepticon.clld.org/contributions/BeijingDaxue-1964-905",
     "dc:identifier": "https://github.com/digling/cddb/",
-    "dc:license": [
-        "GPL-3.0",
-        "GNU General Public License v3.0 only",
-        "http://www.opensource.org/licenses/GPL-3.0"
-    ],
+    "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:source": "sources.bib",
     "dc:title": "Chinese Dialect Vocabularies",
+    "dcat:accessURL": "https://github.com/lexibank/beidasinitic",
     "rdf:ID": "beidasinitic",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -19,8 +17,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.1.1-94-g1e52df9",
-                "concepticon_version": "v1.1.0-78-g0717e41"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
             }
         }
     ],
@@ -193,7 +191,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Chinese_Gloss"
+                        "name": "Chinese"
                     }
                 ],
                 "primaryKey": [
@@ -208,7 +206,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },

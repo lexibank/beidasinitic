@@ -15,11 +15,12 @@ from pylexibank.util import pb, getEvoBibAsBibtex
 
 @attr.s
 class BDConcept(Concept):
-    Chinese_Gloss = attr.ib(default=None)
+    Chinese = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'beidasinitic'
     concept_class = BDConcept
 
     def cmd_download(self, **kw):
@@ -40,7 +41,7 @@ class Dataset(BaseDataset):
                         ID=slug(wl[k, 'concept']),
                         Name=wl[k, 'concept'],
                         Concepticon_ID=wl[k, 'concepticon_id'],
-                        Chinese_Gloss=wl[k, 'chinese'])
+                        Chinese=wl[k, 'chinese'])
                     ds.add_lexemes(
                         Language_ID=wl[k, 'doculect'],
                         Parameter_ID=slug(wl[k, 'concept']),
