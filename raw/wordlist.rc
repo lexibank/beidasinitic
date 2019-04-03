@@ -1,0 +1,8 @@
+# Basic namespaces
+counterpart	str	counterpart
+doculect	str	language,doculect,dialect,taxon,taxa
+concept	str	gloss,concept,concepts
+iso	str	iso,isocode
+tokens	lambda x:x.split()	tokens,tokenized_counterpart,ipatokens
+segments	lambda x:x.split()	segments
+

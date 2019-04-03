@@ -2,7 +2,9 @@
     "@context": "http://www.w3.org/ns/csvw",
     "dc:bibliographicCitation": "B\u011bij\u012bng D\u00e0xu\u00e9 \u5317\u4eac\u5927\u5b66 (1964): {H}\u00e0ny\u01d4 f\u0101ngy\u00e1n c\u00edhu\u00ec \u6c49\u8bed\u65b9\u8a00\u8bcd\u6c47 [Chinese dialect vocabularies]. Beijing: Wenzi Gaige.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": "http://concepticon.clld.org/contributions/BeijingDaxue-1964-905",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/BeijingDaxue-1964-905"
+    ],
     "dc:identifier": "https://github.com/digling/cddb/",
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:source": "sources.bib",
@@ -17,8 +19,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.3.2",
-                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
             }
         }
     ],
@@ -52,7 +54,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -152,6 +154,26 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
                         "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
                     },
                     {
                         "datatype": "string",
