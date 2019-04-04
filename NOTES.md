@@ -1,0 +1,1 @@
+This dataset, which is well-known among Sinologists, comprises 18 dialect varieties, collected during the 1950s and was digitized during 2012 and 2016. We offer the data in morpheme-segmented form, with a slightly adjusted IPA transcription.
