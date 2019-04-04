@@ -36,20 +36,13 @@ class Dataset(BaseDataset):
 
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
-            for k in pb(wl, desc='wl-to-cldf'):
+            ds.add_concepts(id_factory=lambda c: c.number)
+            ds.add_languages(id_factory=lambda c: c['ID'])
+            for k in pb(wl, desc='wl-to-cldf', total=len(wl)):
                 if wl[k, 'value']:
-                    ds.add_language(
-                        ID=wl[k, 'doculect'],
-                        Name=wl[k, 'doculect'],
-                        Glottocode=wl[k, 'glottolog'])
-                    ds.add_concept(
-                        ID=slug(wl[k, 'concept']),
-                        Name=wl[k, 'concept'],
-                        Concepticon_ID=wl[k, 'concepticon_id'],
-                        Chinese=wl[k, 'chinese'])
                     ds.add_lexemes(
                         Language_ID=wl[k, 'doculect'],
-                        Parameter_ID=slug(wl[k, 'concept']),
+                        Parameter_ID=wl[k, 'beida_id'],
                         Value=wl[k, 'value'],
                         Form=wl[k, 'form'],
                         Segments=syllabify(

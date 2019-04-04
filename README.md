@@ -16,7 +16,7 @@ Conceptlists in Concepticon:
 
 [![Build Status](https://travis-ci.org/lexibank/beidasinitic.svg?branch=master)](https://travis-ci.org/lexibank/beidasinitic)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 83%](https://img.shields.io/badge/Concepticon-83%25-yellowgreen.svg "Concepticon: 83%")
+![Concepticon: 79%](https://img.shields.io/badge/Concepticon-79%25-yellow.svg "Concepticon: 79%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
