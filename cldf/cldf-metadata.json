@@ -9,7 +9,6 @@
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:source": "sources.bib",
     "dc:title": "Chinese Dialect Vocabularies",
-    "dcat:accessURL": "https://github.com/lexibank/beidasinitic",
     "rdf:ID": "beidasinitic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -19,8 +18,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
-                "concepticon_version": "pyconcepticon-1.4.0-176-ga518a97"
+                "glottolog_version": "v3.4",
+                "concepticon_version": "v2.0"
             }
         }
     ],

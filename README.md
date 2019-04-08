@@ -11,8 +11,11 @@ Available online at https://github.com/digling/cddb/
 Conceptlists in Concepticon:
 - [BeijingDaxue-1964-905](http://concepticon.clld.org/contributions/BeijingDaxue-1964-905)
 
-## Statistics
+## Notes
 
+This dataset, which is well-known among Sinologists, comprises 18 dialect varieties, collected during the 1950s and was digitized during 2012 and 2016. We offer the data in morpheme-segmented form, with a slightly adjusted IPA transcription.
+
+## Statistics
 
 [![Build Status](https://travis-ci.org/lexibank/beidasinitic.svg?branch=master)](https://travis-ci.org/lexibank/beidasinitic)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
@@ -25,8 +28,8 @@ Conceptlists in Concepticon:
 - **Concepts:** 905
 - **Lexemes:** 18,069
 - **Synonymy:** 1.11
-- **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 128,880
-- **Segments:** 229 (0 BIPA errors, 0 CTLS sound class errors, 228 CLTS modified)
+- **Segments:** 229 (0 BIPA errors, 0 CTLS sound class errors, 229 CLTS modified)
 - **Inventory size (avg):** 53.50
+
