@@ -1,0 +1,1115 @@
+Grapheme	IPA
+$	NULL
+*/a	*/a
+*/e	*/e
+*/i	*/i
+*/o	*/o
+*/u	*/u
+*/y	*/y
+*/ã	*/ã
+*/æ̃	*/æ̃
+*/ĩ	*/ĩ
+*/ɑ	*/ɑ
+*/ɔ	*/ɔ
+*/ə	*/ə
+*/ə̃	*/ə̃
+*/ɛ	*/ɛ
+*/ɿ	*/ɿ
+*/ʅ	*/ʅ
+*/ẽ	*/ẽ
++	+
+^	NULL
+_	NULL
+a	a
+ai	ai
+au	au
+ay	ay
+aĩ	ai
+aũ	au
+b	b
+d	d
+dʑ	dʑ
+e	e
+ei	ei
+eu	eu
+ey	ey
+eĩ	ei
+eũ	eu
+f	f
+g	g
+h	h
+i	i
+i$	i
+ia	j a
+iai	j ai
+iau	j au
+iay	j ay
+iaĩ	j ai
+iaũ	j au
+ie	j e
+iei	j ei
+ieu	j eu
+iey	j ey
+ieĩ	j ei
+ieũ	j eu
+ii	ii
+ii	j i
+iii	j ii
+iiu	j iu
+iiy	j iy
+iiĩ	j ii
+iiũ	j iu
+io	j o
+ioi	j oi
+iou	j ou
+ioy	j oy
+ioĩ	j oi
+ioũ	j ou
+iu	iu
+iu	j u
+iui	j ui
+iuu	j uu
+iuy	j uy
+iuĩ	j ui
+iuũ	j uu
+iy	iy
+iã	j ã
+iãi	j ãi
+iãu	j ãu
+iãy	j ãy
+iãĩ	j ãi
+iãũ	j ãu
+iĩ	ii
+iœ	j œ
+iœi	j œi
+iœu	j œu
+iœy	j œy
+iœĩ	j œi
+iœũ	j œu
+iũ	iu
+iũ	j ũ
+iũi	j ũi
+iũu	j ũu
+iũy	j ũy
+iũĩ	j ũi
+iũũ	j ũu
+iɐ	j ɐ
+iɐi	j ɐi
+iɐu	j ɐu
+iɐy	j ɐy
+iɐĩ	j ɐi
+iɐũ	j ɐu
+iɑ	j ɑ
+iɑi	j ɑi
+iɑu	j ɑu
+iɑy	j ɑy
+iɑĩ	j ɑi
+iɑũ	j ɑu
+iɑ̃	j ɑ̃
+iɑ̃i	j ɑ̃i
+iɑ̃u	j ɑ̃u
+iɑ̃y	j ɑ̃y
+iɑ̃ĩ	j ɑ̃i
+iɑ̃ũ	j ɑ̃u
+iɒ	j ɒ
+iɒi	j ɒi
+iɒu	j ɒu
+iɒy	j ɒy
+iɒĩ	j ɒi
+iɒũ	j ɒu
+iɔ	j ɔ
+iɔi	j ɔi
+iɔu	j ɔu
+iɔy	j ɔy
+iɔĩ	j ɔi
+iɔũ	j ɔu
+iɔ̃	j ɔ̃
+iɔ̃i	j ɔ̃i
+iɔ̃u	j ɔ̃u
+iɔ̃y	j ɔ̃y
+iɔ̃ĩ	j ɔ̃i
+iɔ̃ũ	j ɔ̃u
+iə	j ə
+iəi	j əi
+iəu	j əu
+iəy	j əy
+iəĩ	j əi
+iəũ	j əu
+iə̃	j ə̃
+iə̃i	j ə̃i
+iə̃u	j ə̃u
+iə̃y	j ə̃y
+iə̃ĩ	j ə̃i
+iə̃ũ	j ə̃u
+iɛ	j ɛ
+iɛi	j ɛi
+iɛu	j ɛu
+iɛy	j ɛy
+iɛĩ	j ɛi
+iɛũ	j ɛu
+iɛ̃	j ɛ̃
+iɛ̃i	j ɛ̃i
+iɛ̃u	j ɛ̃u
+iɛ̃y	j ɛ̃y
+iɛ̃ĩ	j ɛ̃i
+iɛ̃ũ	j ɛ̃u
+iɜ	j ɜ
+iɜi	j ɜi
+iɜu	j ɜu
+iɜy	j ɜy
+iɜĩ	j ɜi
+iɜũ	j ɜu
+iɤ	j ɤ
+iɤi	j ɤi
+iɤu	j ɤu
+iɤy	j ɤy
+iɤĩ	j ɤi
+iɤũ	j ɤu
+iʊ	j ʊ
+iʊi	j ʊi
+iʊu	j ʊu
+iʊy	j ʊy
+iʊĩ	j ʊi
+iʊũ	j ʊu
+iʊ̃	j ʊ̃
+iʊ̃i	j ʊ̃i
+iʊ̃u	j ʊ̃u
+iʊ̃y	j ʊ̃y
+iʊ̃ĩ	j ʊ̃i
+iʊ̃ũ	j ʊ̃u
+iʏ	j ʏ
+iʏi	j ʏi
+iʏu	j ʏu
+iʏy	j ʏy
+iʏĩ	j ʏi
+iʏũ	j ʏu
+iẽ	j ẽ
+iẽi	j ẽi
+iẽu	j ẽu
+iẽy	j ẽy
+iẽĩ	j ẽi
+iẽũ	j ẽu
+j	j
+k	k
+kʰ	kʰ
+l	l
+m	m
+m̩	m̩
+n	n
+n$	n
+n̩	n̩
+o	o
+oi	oi
+ou	ou
+oy	oy
+oĩ	oi
+oũ	ou
+p	p
+pfʰ	fʰ
+pʰ	pʰ
+r/o	r/o
+s	s
+t	t
+ts	ts
+tsʰ	tsʰ
+tɕ	tɕ
+tɕʰ	tɕʰ
+tʂʰ	ʈʂʰ
+tʃ	tʃ
+tʃʰ	tʃʰ
+tʰ	tʰ
+t↑	tʰ
+u	u
+u$	u
+ua	w a
+uai	w ai
+uau	w au
+uay	w ay
+uaĩ	w ai
+uaũ	w au
+ue	w e
+uei	w ei
+ueu	w eu
+uey	w ey
+ueĩ	w ei
+ueũ	w eu
+ui	ui
+ui	w i
+uii	w ii
+uiu	w iu
+uiy	w iy
+uiĩ	w ii
+uiũ	w iu
+uo	w o
+uoi	w oi
+uou	w ou
+uoy	w oy
+uoĩ	w oi
+uoũ	w ou
+uu	uu
+uu	w u
+uui	w ui
+uuu	w uu
+uuy	w uy
+uuĩ	w ui
+uuũ	w uu
+uy	uy
+uã	w ã
+uãi	w ãi
+uãu	w ãu
+uãy	w ãy
+uãĩ	w ãi
+uãũ	w ãu
+uĩ	ui
+uœ	w œ
+uœi	w œi
+uœu	w œu
+uœy	w œy
+uœĩ	w œi
+uœũ	w œu
+uũ	uu
+uũ	w ũ
+uũi	w ũi
+uũu	w ũu
+uũy	w ũy
+uũĩ	w ũi
+uũũ	w ũu
+uɐ	w ɐ
+uɐi	w ɐi
+uɐu	w ɐu
+uɐy	w ɐy
+uɐĩ	w ɐi
+uɐũ	w ɐu
+uɑ	w ɑ
+uɑi	w ɑi
+uɑu	w ɑu
+uɑy	w ɑy
+uɑĩ	w ɑi
+uɑũ	w ɑu
+uɑ̃	w ɑ̃
+uɑ̃i	w ɑ̃i
+uɑ̃u	w ɑ̃u
+uɑ̃y	w ɑ̃y
+uɑ̃ĩ	w ɑ̃i
+uɑ̃ũ	w ɑ̃u
+uɒ	w ɒ
+uɒi	w ɒi
+uɒu	w ɒu
+uɒy	w ɒy
+uɒĩ	w ɒi
+uɒũ	w ɒu
+uɔ	w ɔ
+uɔi	w ɔi
+uɔu	w ɔu
+uɔy	w ɔy
+uɔĩ	w ɔi
+uɔũ	w ɔu
+uɔ̃	w ɔ̃
+uɔ̃i	w ɔ̃i
+uɔ̃u	w ɔ̃u
+uɔ̃y	w ɔ̃y
+uɔ̃ĩ	w ɔ̃i
+uɔ̃ũ	w ɔ̃u
+uə	w ə
+uəi	w əi
+uəu	w əu
+uəy	w əy
+uəĩ	w əi
+uəũ	w əu
+uə̃	w ə̃
+uə̃i	w ə̃i
+uə̃u	w ə̃u
+uə̃y	w ə̃y
+uə̃ĩ	w ə̃i
+uə̃ũ	w ə̃u
+uɛ	w ɛ
+uɛi	w ɛi
+uɛu	w ɛu
+uɛy	w ɛy
+uɛĩ	w ɛi
+uɛũ	w ɛu
+uɛ̃	w ɛ̃
+uɛ̃i	w ɛ̃i
+uɛ̃u	w ɛ̃u
+uɛ̃y	w ɛ̃y
+uɛ̃ĩ	w ɛ̃i
+uɛ̃ũ	w ɛ̃u
+uɜ	w ɜ
+uɜi	w ɜi
+uɜu	w ɜu
+uɜy	w ɜy
+uɜĩ	w ɜi
+uɜũ	w ɜu
+uɤ	w ɤ
+uɤi	w ɤi
+uɤu	w ɤu
+uɤy	w ɤy
+uɤĩ	w ɤi
+uɤũ	w ɤu
+uʊ	w ʊ
+uʊi	w ʊi
+uʊu	w ʊu
+uʊy	w ʊy
+uʊĩ	w ʊi
+uʊũ	w ʊu
+uʊ̃	w ʊ̃
+uʊ̃i	w ʊ̃i
+uʊ̃u	w ʊ̃u
+uʊ̃y	w ʊ̃y
+uʊ̃ĩ	w ʊ̃i
+uʊ̃ũ	w ʊ̃u
+uʏ	w ʏ
+uʏi	w ʏi
+uʏu	w ʏu
+uʏy	w ʏy
+uʏĩ	w ʏi
+uʏũ	w ʏu
+uẽ	w ẽ
+uẽi	w ẽi
+uẽu	w ẽu
+uẽy	w ẽy
+uẽĩ	w ẽi
+uẽũ	w ẽu
+v	v
+w	w
+x	x
+y	y
+ya	ɥ a
+yai	ɥ ai
+yau	ɥ au
+yay	ɥ ay
+yaĩ	ɥ ai
+yaũ	ɥ au
+ye	ɥ e
+yei	ɥ ei
+yeu	ɥ eu
+yey	ɥ ey
+yeĩ	ɥ ei
+yeũ	ɥ eu
+yi	ɥ i
+yii	ɥ ii
+yiu	ɥ iu
+yiy	ɥ iy
+yiĩ	ɥ ii
+yiũ	ɥ iu
+yo	ɥ o
+yoi	ɥ oi
+you	ɥ ou
+yoy	ɥ oy
+yoĩ	ɥ oi
+yoũ	ɥ ou
+yu	ɥ u
+yui	ɥ ui
+yuu	ɥ uu
+yuy	ɥ uy
+yuĩ	ɥ ui
+yuũ	ɥ uu
+yã	ɥ ã
+yãi	ɥ ãi
+yãu	ɥ ãu
+yãy	ɥ ãy
+yãĩ	ɥ ãi
+yãũ	ɥ ãu
+yœ	ɥ œ
+yœi	ɥ œi
+yœu	ɥ œu
+yœy	ɥ œy
+yœĩ	ɥ œi
+yœũ	ɥ œu
+yũ	ɥ ũ
+yũi	ɥ ũi
+yũu	ɥ ũu
+yũy	ɥ ũy
+yũĩ	ɥ ũi
+yũũ	ɥ ũu
+yɐ	ɥ ɐ
+yɐi	ɥ ɐi
+yɐu	ɥ ɐu
+yɐy	ɥ ɐy
+yɐĩ	ɥ ɐi
+yɐũ	ɥ ɐu
+yɑ	ɥ ɑ
+yɑi	ɥ ɑi
+yɑu	ɥ ɑu
+yɑy	ɥ ɑy
+yɑĩ	ɥ ɑi
+yɑũ	ɥ ɑu
+yɑ̃	ɥ ɑ̃
+yɑ̃i	ɥ ɑ̃i
+yɑ̃u	ɥ ɑ̃u
+yɑ̃y	ɥ ɑ̃y
+yɑ̃ĩ	ɥ ɑ̃i
+yɑ̃ũ	ɥ ɑ̃u
+yɒ	ɥ ɒ
+yɒi	ɥ ɒi
+yɒu	ɥ ɒu
+yɒy	ɥ ɒy
+yɒĩ	ɥ ɒi
+yɒũ	ɥ ɒu
+yɔ	ɥ ɔ
+yɔi	ɥ ɔi
+yɔu	ɥ ɔu
+yɔy	ɥ ɔy
+yɔĩ	ɥ ɔi
+yɔũ	ɥ ɔu
+yɔ̃	ɥ ɔ̃
+yɔ̃i	ɥ ɔ̃i
+yɔ̃u	ɥ ɔ̃u
+yɔ̃y	ɥ ɔ̃y
+yɔ̃ĩ	ɥ ɔ̃i
+yɔ̃ũ	ɥ ɔ̃u
+yə	ɥ ə
+yəi	ɥ əi
+yəu	ɥ əu
+yəy	ɥ əy
+yəĩ	ɥ əi
+yəũ	ɥ əu
+yə̃	ɥ ə̃
+yə̃i	ɥ ə̃i
+yə̃u	ɥ ə̃u
+yə̃y	ɥ ə̃y
+yə̃ĩ	ɥ ə̃i
+yə̃ũ	ɥ ə̃u
+yɛ	ɥ ɛ
+yɛi	ɥ ɛi
+yɛu	ɥ ɛu
+yɛy	ɥ ɛy
+yɛĩ	ɥ ɛi
+yɛũ	ɥ ɛu
+yɛ̃	ɥ ɛ̃
+yɛ̃i	ɥ ɛ̃i
+yɛ̃u	ɥ ɛ̃u
+yɛ̃y	ɥ ɛ̃y
+yɛ̃ĩ	ɥ ɛ̃i
+yɛ̃ũ	ɥ ɛ̃u
+yɜ	ɥ ɜ
+yɜi	ɥ ɜi
+yɜu	ɥ ɜu
+yɜy	ɥ ɜy
+yɜĩ	ɥ ɜi
+yɜũ	ɥ ɜu
+yɤ	ɥ ɤ
+yɤi	ɥ ɤi
+yɤu	ɥ ɤu
+yɤy	ɥ ɤy
+yɤĩ	ɥ ɤi
+yɤũ	ɥ ɤu
+yʊ	ɥ ʊ
+yʊi	ɥ ʊi
+yʊu	ɥ ʊu
+yʊy	ɥ ʊy
+yʊĩ	ɥ ʊi
+yʊũ	ɥ ʊu
+yʊ̃	ɥ ʊ̃
+yʊ̃i	ɥ ʊ̃i
+yʊ̃u	ɥ ʊ̃u
+yʊ̃y	ɥ ʊ̃y
+yʊ̃ĩ	ɥ ʊ̃i
+yʊ̃ũ	ɥ ʊ̃u
+yʏ	ɥ ʏ
+yʏi	ɥ ʏi
+yʏu	ɥ ʏu
+yʏy	ɥ ʏy
+yʏĩ	ɥ ʏi
+yʏũ	ɥ ʏu
+yẽ	ɥ ẽ
+yẽi	ɥ ẽi
+yẽu	ɥ ẽu
+yẽy	ɥ ẽy
+yẽĩ	ɥ ẽi
+yẽũ	ɥ ẽu
+z	z
+²	²
+²$	²
+²²	²²
+²²$	²²
+²²/²⁴	²²/²⁴
+²²/³¹	²²/³¹
+²³	²³
+²³$	²³
+²³/³³	²³/³³
+²³/⁴	²³/⁴
+²³/⁵⁵	²³/⁵⁵
+²¹	²¹
+²¹$	²¹
+²¹/²³	²¹/²³
+²¹/²¹³	²¹/²¹³
+²¹/²¹⁴	²¹/²¹⁴
+²¹/²⁴	²¹/²⁴
+²¹/³³	²¹/³³
+²¹/³¹	²¹/³¹
+²¹/³⁵	²¹/³⁵
+²¹/⁴	²¹/⁴
+²¹/⁴¹	²¹/⁴¹
+²¹/⁴⁴	²¹/⁴⁴
+²¹/⁴⁵	²¹/⁴⁵
+²¹/⁵³	²¹/⁵³
+²¹/⁵¹³	²¹/⁵¹³
+²¹/⁵⁵	²¹/⁵⁵
+²¹²	²¹²
+²¹²$	²¹²
+²¹³	²¹³
+²¹³$	²¹³
+²¹³/⁵³	²¹³/⁵³
+²¹³/⁵⁵	²¹³/⁵⁵
+²¹⁰/²¹⁴	²¹⁰/²¹⁴
+²¹⁴$	²¹⁴
+²⁴	²⁴
+²⁴$	²⁴
+²⁴/²¹	²⁴/²¹
+²⁴/²¹³	²⁴/²¹³
+²⁴/³¹	²⁴/³¹
+²⁴/³⁵	²⁴/³⁵
+²⁴/⁵³	²⁴/⁵³
+²⁴²$	²⁴²
+²⁴²/⁴⁴	²⁴²/⁴⁴
+³/²¹	³/²¹
+³²	³²
+³²$	³²
+³²/⁵	³²/⁵
+³³	³³
+³³$	³³
+³³/²³	³³/²³
+³³/²⁴	³³/²⁴
+³³/³¹	³³/³¹
+³³/⁴¹	³³/⁴¹
+³³/⁵⁵	³³/⁵⁵
+³¹	³¹
+³¹$	³¹
+³¹/²³	³¹/²³
+³¹/²¹³	³¹/²¹³
+³¹/²⁴²	³¹/²⁴²
+³¹/¹³	³¹/¹³
+³¹/¹¹	³¹/¹¹
+³¹/⁴	³¹/⁴
+³¹/⁴⁴	³¹/⁴⁴
+³¹/⁵²	³¹/⁵²
+³¹/⁵³	³¹/⁵³
+³⁴	³⁴
+³⁴$	³⁴
+³⁴/⁴²	³⁴/⁴²
+³⁴/⁵⁵	³⁴/⁵⁵
+³⁵	³⁵
+³⁵$	³⁵
+³⁵/²²	³⁵/²²
+³⁵/²³	³⁵/²³
+³⁵/²¹	³⁵/²¹
+³⁵/²¹³	³⁵/²¹³
+³⁵/²¹⁴	³⁵/²¹⁴
+³⁵/³³	³⁵/³³
+³⁵/⁴¹	³⁵/⁴¹
+³⁵/⁴⁴	³⁵/⁴⁴
+³⁵/⁵¹³	³⁵/⁵¹³
+¹	¹
+¹²	¹²
+¹²$	¹²
+¹²/¹¹	¹²/¹¹
+¹³	¹³
+¹³$	¹³
+¹³/³¹	¹³/³¹
+¹³/⁴⁴	¹³/⁴⁴
+¹¹	¹¹
+¹¹$	¹¹
+¹¹/²⁴	¹¹/²⁴
+¹¹/³³	¹¹/³³
+¹¹/⁵¹	¹¹/⁵¹
+¹¹/⁵⁵	¹¹/⁵⁵
+ã	ã
+ã	ã
+ãi	ãi
+ãu	ãu
+ãy	ãy
+ãĩ	ãi
+ãũ	ãu
+æ	æ
+æ̃	æ̃
+õ	õ
+ø	ø
+ĩ	ĩ
+ĩa	j a
+ĩai	j ai
+ĩau	j au
+ĩay	j ay
+ĩaĩ	j ai
+ĩaũ	j au
+ĩe	j e
+ĩei	j ei
+ĩeu	j eu
+ĩey	j ey
+ĩeĩ	j ei
+ĩeũ	j eu
+ĩi	j i
+ĩii	j ii
+ĩiu	j iu
+ĩiy	j iy
+ĩiĩ	j ii
+ĩiũ	j iu
+ĩo	j o
+ĩoi	j oi
+ĩou	j ou
+ĩoy	j oy
+ĩoĩ	j oi
+ĩoũ	j ou
+ĩu	j u
+ĩui	j ui
+ĩuu	j uu
+ĩuy	j uy
+ĩuĩ	j ui
+ĩuũ	j uu
+ĩã	j ã
+ĩãi	j ãi
+ĩãu	j ãu
+ĩãy	j ãy
+ĩãĩ	j ãi
+ĩãũ	j ãu
+ĩœ	j œ
+ĩœi	j œi
+ĩœu	j œu
+ĩœy	j œy
+ĩœĩ	j œi
+ĩœũ	j œu
+ĩũ	j ũ
+ĩũi	j ũi
+ĩũu	j ũu
+ĩũy	j ũy
+ĩũĩ	j ũi
+ĩũũ	j ũu
+ĩɐ	j ɐ
+ĩɐi	j ɐi
+ĩɐu	j ɐu
+ĩɐy	j ɐy
+ĩɐĩ	j ɐi
+ĩɐũ	j ɐu
+ĩɑ	j ɑ
+ĩɑi	j ɑi
+ĩɑu	j ɑu
+ĩɑy	j ɑy
+ĩɑĩ	j ɑi
+ĩɑũ	j ɑu
+ĩɑ̃	j ɑ̃
+ĩɑ̃i	j ɑ̃i
+ĩɑ̃u	j ɑ̃u
+ĩɑ̃y	j ɑ̃y
+ĩɑ̃ĩ	j ɑ̃i
+ĩɑ̃ũ	j ɑ̃u
+ĩɒ	j ɒ
+ĩɒi	j ɒi
+ĩɒu	j ɒu
+ĩɒy	j ɒy
+ĩɒĩ	j ɒi
+ĩɒũ	j ɒu
+ĩɔ	j ɔ
+ĩɔi	j ɔi
+ĩɔu	j ɔu
+ĩɔy	j ɔy
+ĩɔĩ	j ɔi
+ĩɔũ	j ɔu
+ĩɔ̃	j ɔ̃
+ĩɔ̃i	j ɔ̃i
+ĩɔ̃u	j ɔ̃u
+ĩɔ̃y	j ɔ̃y
+ĩɔ̃ĩ	j ɔ̃i
+ĩɔ̃ũ	j ɔ̃u
+ĩə	j ə
+ĩəi	j əi
+ĩəu	j əu
+ĩəy	j əy
+ĩəĩ	j əi
+ĩəũ	j əu
+ĩə̃	j ə̃
+ĩə̃i	j ə̃i
+ĩə̃u	j ə̃u
+ĩə̃y	j ə̃y
+ĩə̃ĩ	j ə̃i
+ĩə̃ũ	j ə̃u
+ĩɛ	j ɛ
+ĩɛi	j ɛi
+ĩɛu	j ɛu
+ĩɛy	j ɛy
+ĩɛĩ	j ɛi
+ĩɛũ	j ɛu
+ĩɛ̃	j ɛ̃
+ĩɛ̃i	j ɛ̃i
+ĩɛ̃u	j ɛ̃u
+ĩɛ̃y	j ɛ̃y
+ĩɛ̃ĩ	j ɛ̃i
+ĩɛ̃ũ	j ɛ̃u
+ĩɜ	j ɜ
+ĩɜi	j ɜi
+ĩɜu	j ɜu
+ĩɜy	j ɜy
+ĩɜĩ	j ɜi
+ĩɜũ	j ɜu
+ĩɤ	j ɤ
+ĩɤi	j ɤi
+ĩɤu	j ɤu
+ĩɤy	j ɤy
+ĩɤĩ	j ɤi
+ĩɤũ	j ɤu
+ĩʊ	j ʊ
+ĩʊi	j ʊi
+ĩʊu	j ʊu
+ĩʊy	j ʊy
+ĩʊĩ	j ʊi
+ĩʊũ	j ʊu
+ĩʊ̃	j ʊ̃
+ĩʊ̃i	j ʊ̃i
+ĩʊ̃u	j ʊ̃u
+ĩʊ̃y	j ʊ̃y
+ĩʊ̃ĩ	j ʊ̃i
+ĩʊ̃ũ	j ʊ̃u
+ĩʏ	j ʏ
+ĩʏi	j ʏi
+ĩʏu	j ʏu
+ĩʏy	j ʏy
+ĩʏĩ	j ʏi
+ĩʏũ	j ʏu
+ĩẽ	j ẽ
+ĩẽi	j ẽi
+ĩẽu	j ẽu
+ĩẽy	j ẽy
+ĩẽĩ	j ẽi
+ĩẽũ	j ẽu
+ŋ	ŋ
+ŋ̍	ŋ̍
+œ	œ
+œi	œi
+œu	œu
+œy	œy
+œĩ	œi
+œũ	œu
+ũ	ũ
+ũ	ũ
+ũa	w a
+ũai	w ai
+ũau	w au
+ũay	w ay
+ũaĩ	w ai
+ũaũ	w au
+ũe	w e
+ũei	w ei
+ũeu	w eu
+ũey	w ey
+ũeĩ	w ei
+ũeũ	w eu
+ũi	w i
+ũi	ũi
+ũii	w ii
+ũiu	w iu
+ũiy	w iy
+ũiĩ	w ii
+ũiũ	w iu
+ũo	w o
+ũoi	w oi
+ũou	w ou
+ũoy	w oy
+ũoĩ	w oi
+ũoũ	w ou
+ũu	w u
+ũu	ũu
+ũui	w ui
+ũuu	w uu
+ũuy	w uy
+ũuĩ	w ui
+ũuũ	w uu
+ũy	ũy
+ũã	w ã
+ũãi	w ãi
+ũãu	w ãu
+ũãy	w ãy
+ũãĩ	w ãi
+ũãũ	w ãu
+ũĩ	ũi
+ũœ	w œ
+ũœi	w œi
+ũœu	w œu
+ũœy	w œy
+ũœĩ	w œi
+ũœũ	w œu
+ũũ	w ũ
+ũũ	ũu
+ũũi	w ũi
+ũũu	w ũu
+ũũy	w ũy
+ũũĩ	w ũi
+ũũũ	w ũu
+ũɐ	w ɐ
+ũɐi	w ɐi
+ũɐu	w ɐu
+ũɐy	w ɐy
+ũɐĩ	w ɐi
+ũɐũ	w ɐu
+ũɑ	w ɑ
+ũɑi	w ɑi
+ũɑu	w ɑu
+ũɑy	w ɑy
+ũɑĩ	w ɑi
+ũɑũ	w ɑu
+ũɑ̃	w ɑ̃
+ũɑ̃i	w ɑ̃i
+ũɑ̃u	w ɑ̃u
+ũɑ̃y	w ɑ̃y
+ũɑ̃ĩ	w ɑ̃i
+ũɑ̃ũ	w ɑ̃u
+ũɒ	w ɒ
+ũɒi	w ɒi
+ũɒu	w ɒu
+ũɒy	w ɒy
+ũɒĩ	w ɒi
+ũɒũ	w ɒu
+ũɔ	w ɔ
+ũɔi	w ɔi
+ũɔu	w ɔu
+ũɔy	w ɔy
+ũɔĩ	w ɔi
+ũɔũ	w ɔu
+ũɔ̃	w ɔ̃
+ũɔ̃i	w ɔ̃i
+ũɔ̃u	w ɔ̃u
+ũɔ̃y	w ɔ̃y
+ũɔ̃ĩ	w ɔ̃i
+ũɔ̃ũ	w ɔ̃u
+ũə	w ə
+ũəi	w əi
+ũəu	w əu
+ũəy	w əy
+ũəĩ	w əi
+ũəũ	w əu
+ũə̃	w ə̃
+ũə̃i	w ə̃i
+ũə̃u	w ə̃u
+ũə̃y	w ə̃y
+ũə̃ĩ	w ə̃i
+ũə̃ũ	w ə̃u
+ũɛ	w ɛ
+ũɛi	w ɛi
+ũɛu	w ɛu
+ũɛy	w ɛy
+ũɛĩ	w ɛi
+ũɛũ	w ɛu
+ũɛ̃	w ɛ̃
+ũɛ̃i	w ɛ̃i
+ũɛ̃u	w ɛ̃u
+ũɛ̃y	w ɛ̃y
+ũɛ̃ĩ	w ɛ̃i
+ũɛ̃ũ	w ɛ̃u
+ũɜ	w ɜ
+ũɜi	w ɜi
+ũɜu	w ɜu
+ũɜy	w ɜy
+ũɜĩ	w ɜi
+ũɜũ	w ɜu
+ũɤ	w ɤ
+ũɤi	w ɤi
+ũɤu	w ɤu
+ũɤy	w ɤy
+ũɤĩ	w ɤi
+ũɤũ	w ɤu
+ũʊ	w ʊ
+ũʊi	w ʊi
+ũʊu	w ʊu
+ũʊy	w ʊy
+ũʊĩ	w ʊi
+ũʊũ	w ʊu
+ũʊ̃	w ʊ̃
+ũʊ̃i	w ʊ̃i
+ũʊ̃u	w ʊ̃u
+ũʊ̃y	w ʊ̃y
+ũʊ̃ĩ	w ʊ̃i
+ũʊ̃ũ	w ʊ̃u
+ũʏ	w ʏ
+ũʏi	w ʏi
+ũʏu	w ʏu
+ũʏy	w ʏy
+ũʏĩ	w ʏi
+ũʏũ	w ʏu
+ũẽ	w ẽ
+ũẽi	w ẽi
+ũẽu	w ẽu
+ũẽy	w ẽy
+ũẽĩ	w ẽi
+ũẽũ	w ẽu
+ȵ	ȵ
+ɐ	ɐ
+ɐi	ɐi
+ɐu	ɐu
+ɐy	ɐy
+ɐĩ	ɐi
+ɐũ	ɐu
+ɑ	ɑ
+ɑi	ɑi
+ɑu	ɑu
+ɑy	ɑy
+ɑĩ	ɑi
+ɑũ	ɑu
+ɑ̃	ɑ̃
+ɑ̃i	ɑ̃i
+ɑ̃u	ɑ̃u
+ɑ̃y	ɑ̃y
+ɑ̃ĩ	ɑ̃i
+ɑ̃ũ	ɑ̃u
+ɒ	ɒ
+ɒi	ɒi
+ɒu	ɒu
+ɒy	ɒy
+ɒĩ	ɒi
+ɒũ	ɒu
+ɔ	ɔ
+ɔi	ɔi
+ɔu	ɔu
+ɔy	ɔy
+ɔĩ	ɔi
+ɔũ	ɔu
+ɔ̃	ɔ̃
+ɔ̃i	ɔ̃i
+ɔ̃u	ɔ̃u
+ɔ̃y	ɔ̃y
+ɔ̃ĩ	ɔ̃i
+ɔ̃ũ	ɔ̃u
+ɕ	ɕ
+ə	ə
+ə$	ə
+əi	əi
+əu	əu
+əy	əy
+əĩ	əi
+əũ	əu
+ə̃	ə̃
+ə̃i	ə̃i
+ə̃u	ə̃u
+ə̃y	ə̃y
+ə̃ĩ	ə̃i
+ə̃ũ	ə̃u
+ɚ/ə	ɚ/ə
+ɛ	ɛ
+ɛ$	ɛ
+ɛi	ɛi
+ɛu	ɛu
+ɛy	ɛy
+ɛĩ	ɛi
+ɛũ	ɛu
+ɛ̃	ɛ̃
+ɛ̃i	ɛ̃i
+ɛ̃u	ɛ̃u
+ɛ̃y	ɛ̃y
+ɛ̃ĩ	ɛ̃i
+ɛ̃ũ	ɛ̃u
+ɜ	ɜ
+ɜi	ɜi
+ɜu	ɜu
+ɜy	ɜy
+ɜĩ	ɜi
+ɜũ	ɜu
+ɤ	ɤ
+ɤi	ɤi
+ɤu	ɤu
+ɤy	ɤy
+ɤĩ	ɤi
+ɤũ	ɤu
+ɦ	ɦ
+ɪ	ɪ
+ɬ	ɬ
+ɯ	ɯ
+ɵ	ɵ
+ɿ	ɿ
+ɿ$	ɿ
+ʂ	ʂ
+ʃ	ʃ
+ʅ	ʅ
+ʈʂ	ʈʂ
+ʈʂʰ	ʈʂʰ
+ʊ	ʊ
+ʊi	ʊi
+ʊu	ʊu
+ʊy	ʊy
+ʊĩ	ʊi
+ʊũ	ʊu
+ʊ̃	ʊ̃
+ʊ̃i	ʊ̃i
+ʊ̃u	ʊ̃u
+ʊ̃y	ʊ̃y
+ʊ̃ĩ	ʊ̃i
+ʊ̃ũ	ʊ̃u
+ʏ	ʏ
+ʏi	ʏi
+ʏu	ʏu
+ʏy	ʏy
+ʏĩ	ʏi
+ʏũ	ʏu
+ʐ	ʐ
+ʔ	ʔ
+ʮ	ʮ
+ʰt	tʰ
+ʰtõ⁴¹	tʰ ɔ̃ ⁴¹
+β	β
+ᴇ	ᴇ/ɛ
+ẽ	ẽ
+ẽ	ẽ
+ẽi	ẽi
+ẽu	ẽu
+ẽy	ẽy
+ẽĩ	ẽi
+ẽũ	ẽu
+⁰	⁰
+⁰$	⁰
+⁰/⁰	⁰/⁰
+⁴	⁴
+⁴$	⁴
+⁴/²³	⁴/²³
+⁴/²¹	⁴/²¹
+⁴²	⁴²
+⁴²$	⁴²
+⁴²/²¹³	⁴²/²¹³
+⁴²/⁵⁵	⁴²/⁵⁵
+⁴¹	⁴¹
+⁴¹$	⁴¹
+⁴⁴	⁴⁴
+⁴⁴$	⁴⁴
+⁴⁴/²¹³	⁴⁴/²¹³
+⁴⁴/²⁴²	⁴⁴/²⁴²
+⁴⁴/³¹	⁴⁴/³¹
+⁴⁴/¹³	⁴⁴/¹³
+⁴⁴/⁴¹	⁴⁴/⁴¹
+⁴⁴/⁵²	⁴⁴/⁵²
+⁴⁴/⁵³	⁴⁴/⁵³
+⁴⁴/⁵¹³	⁴⁴/⁵¹³
+⁴⁴³	⁴⁴³
+⁴⁴³$	⁴⁴³
+⁴⁴⁴/⁵¹³	⁴⁴⁴/⁵¹³
+⁴⁵	⁴⁵
+⁴⁵$	⁴⁵
+⁴⁵/²³	⁴⁵/²³
+⁴⁵/³¹	⁴⁵/³¹
+⁴⁵¹$	⁴⁵¹
+⁴⁵⁴	⁴⁵⁴
+⁴⁵⁴$	⁴⁵⁴
+⁵	⁵
+⁵$	⁵
+⁵/²¹	⁵/²¹
+⁵/³²	⁵/³²
+⁵²	⁵²
+⁵²$	⁵²
+⁵²/²¹³	⁵²/²¹³
+⁵²/²⁴²	⁵²/²⁴²
+⁵²/³¹	⁵²/³¹
+⁵²/⁴⁴	⁵²/⁴⁴
+⁵³	⁵³
+⁵³$	⁵³
+⁵³/²¹³	⁵³/²¹³
+⁵³/¹³	⁵³/¹³
+⁵¹	⁵¹
+⁵¹$	⁵¹
+⁵¹/¹¹	⁵¹/¹¹
+⁵¹³	⁵¹³
+⁵¹³$	⁵¹³
+⁵⁵	⁵⁵
+⁵⁵$	⁵⁵
+⁵⁵/²¹	⁵⁵/²¹
+⁵⁵/²¹²	⁵⁵/²¹²
+⁵⁵/²¹⁴	⁵⁵/²¹⁴
+⁵⁵/³³	⁵⁵/³³
+⁵⁵/³⁴	⁵⁵/³⁴
+⁵⁵/⁴²	⁵⁵/⁴²
+⁵⁵/⁵¹	⁵⁵/⁵¹
+∼	NULL
+∼$	NULL
