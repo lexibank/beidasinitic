@@ -34,6 +34,7 @@ class Dataset(BaseDataset):
         wl = lingpy.Wordlist(self.raw.posix('words.tsv'), 
                 conf=self.raw.posix('wordlist.rc'))
 
+
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
             ds.add_concepts(id_factory=lambda c: c.number)
@@ -45,8 +46,8 @@ class Dataset(BaseDataset):
                         Parameter_ID=wl[k, 'beida_id'],
                         Value=wl[k, 'value'],
                         Form=wl[k, 'form'],
-                        Segments=syllabify(
-                            [{'t↑h': 'tʰ', 'ᴇ': 'ᴇ/ɛ̝'}.get(
-                                x, x) for x in wl[k, 'segments']]
-                            ),
+                        Segments = syllabify([{'t↑h': 'tʰ', 'ᴇ': 'ᴇ/ɛ̝'}.get(
+                                x, x) for x in self.tokenizer(None,
+                            ''.join(wl[k, 'segments']), 
+                            column='IPA')]),
                         Source='Cihui')
