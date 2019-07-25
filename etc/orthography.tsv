@@ -1,7 +1,10 @@
 Grapheme	IPA
 $	NULL
 */a	*/a
+*/ai	*/ai
+*/au	*/au
 */e	*/e
+*/ei	*/ei
 */i	*/i
 */o	*/o
 */u	*/u
@@ -24,8 +27,10 @@ a	a
 ai	ai
 au	au
 ay	ay
+aæ̃	æ̃
 aĩ	ai
 aũ	au
+aə	aə
 b	b
 d	d
 dʑ	dʑ
@@ -40,6 +45,7 @@ g	g
 h	h
 i	i
 i$	i
+i*/ə	j */ə
 ia	j a
 iai	j ai
 iau	j au
@@ -52,7 +58,6 @@ ieu	j eu
 iey	j ey
 ieĩ	j ei
 ieũ	j eu
-ii	ii
 ii	j i
 iii	j ii
 iiu	j iu
@@ -60,25 +65,26 @@ iiy	j iy
 iiĩ	j ii
 iiũ	j iu
 io	j o
+io*/u	j */ou
 ioi	j oi
 iou	j ou
 ioy	j oy
 ioĩ	j oi
 ioũ	j ou
-iu	iu
 iu	j u
 iui	j ui
 iuu	j uu
 iuy	j uy
 iuĩ	j ui
 iuũ	j uu
-iy	iy
+iy	j y
 iã	j ã
 iãi	j ãi
 iãu	j ãu
 iãy	j ãy
 iãĩ	j ãi
 iãũ	j ãu
+iæ̃	j æ̃
 iĩ	ii
 iœ	j œ
 iœi	j œi
@@ -86,7 +92,6 @@ iœu	j œu
 iœy	j œy
 iœĩ	j œi
 iœũ	j œu
-iũ	iu
 iũ	j ũ
 iũi	j ũi
 iũu	j ũu
@@ -100,6 +105,7 @@ iɐy	j ɐy
 iɐĩ	j ɐi
 iɐũ	j ɐu
 iɑ	j ɑ
+iɑ*/u	j */ɑu
 iɑi	j ɑi
 iɑu	j ɑu
 iɑy	j ɑy
@@ -142,6 +148,7 @@ iə̃y	j ə̃y
 iə̃ĩ	j ə̃i
 iə̃ũ	j ə̃u
 iɛ	j ɛ
+iɛa	j ɛa
 iɛi	j ɛi
 iɛu	j ɛu
 iɛy	j ɛy
@@ -199,11 +206,15 @@ n	n
 n$	n
 n̩	n̩
 o	o
+o*/u	*/ou
+oe	oe
 oi	oi
 ou	ou
 oy	oy
 oĩ	oi
 oũ	ou
+õi	õi
+õũ	õu
 p	p
 pfʰ	fʰ
 pʰ	pʰ
@@ -221,6 +232,11 @@ tʰ	tʰ
 t↑	tʰ
 u	u
 u$	u
+u*/e	w */e
+u*/ei	w */ei
+u*/o	w */o
+u*/ə	w */ə
+u*/ə̃	w */ə̃
 ua	w a
 uai	w ai
 uau	w au
@@ -233,7 +249,6 @@ ueu	w eu
 uey	w ey
 ueĩ	w ei
 ueũ	w eu
-ui	ui
 ui	w i
 uii	w ii
 uiu	w iu
@@ -246,7 +261,6 @@ uou	w ou
 uoy	w oy
 uoĩ	w oi
 uoũ	w ou
-uu	uu
 uu	w u
 uui	w ui
 uuu	w uu
@@ -260,6 +274,8 @@ uãu	w ãu
 uãy	w ãy
 uãĩ	w ãi
 uãũ	w ãu
+uæ	w æ
+uæ̃	w æ̃
 uĩ	ui
 uœ	w œ
 uœi	w œi
@@ -267,7 +283,6 @@ uœu	w œu
 uœy	w œy
 uœĩ	w œi
 uœũ	w œu
-uũ	uu
 uũ	w ũ
 uũi	w ũi
 uũu	w ũu
@@ -410,6 +425,7 @@ yãu	ɥ ãu
 yãy	ɥ ãy
 yãĩ	ɥ ãi
 yãũ	ɥ ãu
+yæ̃	ɥ æ̃
 yœ	ɥ œ
 yœi	ɥ œi
 yœu	ɥ œu
@@ -614,7 +630,6 @@ z	z
 ¹¹/³³	¹¹/³³
 ¹¹/⁵¹	¹¹/⁵¹
 ¹¹/⁵⁵	¹¹/⁵⁵
-ã	ã
 ã	ã
 ãi	ãi
 ãu	ãu
@@ -624,7 +639,9 @@ z	z
 æ	æ
 æ̃	æ̃
 õ	õ
+õĩ	õi
 ø	ø
+øy	øi
 ĩ	ĩ
 ĩa	j a
 ĩai	j ai
@@ -778,7 +795,6 @@ z	z
 œy	œy
 œĩ	œi
 œũ	œu
-ũ	ũ
 ũ	ũ
 ũa	w a
 ũai	w ai
@@ -793,7 +809,6 @@ z	z
 ũeĩ	w ei
 ũeũ	w eu
 ũi	w i
-ũi	ũi
 ũii	w ii
 ũiu	w iu
 ũiy	w iy
@@ -806,7 +821,6 @@ z	z
 ũoĩ	w oi
 ũoũ	w ou
 ũu	w u
-ũu	ũu
 ũui	w ui
 ũuu	w uu
 ũuy	w uy
@@ -827,7 +841,6 @@ z	z
 ũœĩ	w œi
 ũœũ	w œu
 ũũ	w ũ
-ũũ	ũu
 ũũi	w ũi
 ũũu	w ũu
 ũũy	w ũy
@@ -933,11 +946,14 @@ z	z
 ɐ	ɐ
 ɐi	ɐi
 ɐu	ɐu
+ɐui	ɐui/ɐi
 ɐy	ɐy
 ɐĩ	ɐi
 ɐũ	ɐu
 ɑ	ɑ
+ɑ*/u	*/ɑu
 ɑi	ɑi
+ɑo	ɑo
 ɑu	ɑu
 ɑy	ɑy
 ɑĩ	ɑi
@@ -1043,7 +1059,6 @@ z	z
 ʰtõ⁴¹	tʰ ɔ̃ ⁴¹
 β	β
 ᴇ	ᴇ/ɛ
-ẽ	ẽ
 ẽ	ẽ
 ẽi	ẽi
 ẽu	ẽu

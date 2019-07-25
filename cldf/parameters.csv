@@ -215,7 +215,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 214,tea,1373,TEA,茶
 215,ice cream,,,冰淇淋
 216,popsicle,,,冰棍兒
-217,boiled water,,,開水
+217,boiled water,3362,BOILED WATER,開水
 218,cigarette,969,CIGARETTE,紙煙
 219,clothes,1895,CLOTHES,衣服
 220,jacket,2770,JACKET,上衣
@@ -264,7 +264,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 263,chair,1476,CHAIR,椅子
 264,stool,2058,STOOL,凳子
 265,desk,,,書桌
-266,cupboard,,,櫃子
+266,cupboard,3357,CUPBOARD,櫃子
 267,drawer,,,抽屜
 268,box,,,盒子
 269,"case, box",1465,BOX,箱子
@@ -276,14 +276,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 275,pillow,1044,PILLOW,枕頭
 276,mat,195,MAT,席子
 277,bed-curtain,,,帳子
-278,cooking-pot,,,鍋
+278,cooking-pot,2056,WOK,鍋
 279,pancake turner,,,鍋鏟
 280,kitchen knife,2772,KITCHEN KNIFE,菜刀
 281,chopsticks,1987,CHOPSTICKS,筷子
 282,spoon,1378,SPOON,調羹
-283,earthen jug,,,缸
+283,earthen jug,270,JUG,缸
 284,baler,,,水瓢
-285,earthern jug,270,JUG,壇子
+285,earthern jug,3409,EARTHEN JUG,壇子
 286,"pot, jug",,,罐子
 287,bottle,1321,BOTTLE,瓶子
 288,firewood,10,FIREWOOD,木柴
@@ -317,14 +317,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 316,scissors,356,SHEARS,剪子
 317,hammer,1481,HAMMER,錘子
 318,axe,677,AXE,斧頭
-319,pincers,,,鉗子
+319,pincers,272,TONGS,鉗子
 320,tweezers,,,鑷子
 321,chisel,1979,CHISEL,鑿子
 322,saw (tool),1948,SAW,鋸子
-323,file (tool),,,銼刀
+323,file (tool),3407,FILE (TOOL),銼刀
 324,drill (tool),,,鉆子
 325,awl,278,AWL,錐子
-326,plane (tool),,,鉋子
+326,plane (tool),3408,PLANE (TOOL),鉋子
 327,small knife,3233,SMALL KNIFE,小刀兒
 328,hook,1071,HOOK,鉤子
 329,nail (tool),502,NAIL (TOOL),釘子
@@ -332,7 +332,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 331,hoe (tool),284,HOE,鋤頭
 332,sickle (tool),341,SICKLE,鐮刀
 333,shoulder-pole,,,扁擔
-334,sieve (tool),86,SIEVE,篩子
+334,sieve (tool),3353,SIEVE (TOOL),篩子
 335,wheel,710,WHEEL,輪子
 336,wood,1803,WOOD,木頭
 337,bamboo,1927,BAMBOO,竹子
@@ -410,10 +410,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 409,deaf person,458,DEAF PERSON,聾子
 410,blind person,457,BLIND PERSON,瞎子
 411,mute person,2320,MUTE PERSON,啞吧
-412,stammerer,,,結巴
-413,person with a pockmarked face,,,麻子
-414,baldhead,,,禿子
-415,person with a humpback,,,駝子
+412,stammerer,3367,STUTTERER,結巴
+413,person with a pockmarked face,3366,PIMPLEFACE,麻子
+414,baldhead,3415,BALDHEAD,禿子
+415,person with a humpback,99,HUNCHBACK,駝子
 416,lame person,2322,LAME PERSON,跛子
 417,mad person,2321,MAD PERSON,瘋子
 418,bachelor,,,單身漢
@@ -426,8 +426,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 425,father (daddy),1217,FATHER,爸爸
 426,mother (mommy),1216,MOTHER,媽媽
 427,stepmother,236,STEPMOTHER,後母
-428,uncle (father's elder brother),,,伯父
-429,aunt (wife of fatherss elder brother),,,伯母
+428,uncle (father's elder brother),2173,PATERNAL UNCLE (FATHER'S OLDER BROTHER),伯父
+429,aunt (wife of father's elder brother),2170,PATERNAL AUNT (WIFE OF FATHER'S OLDER BROTHER),伯母
 430,uncle,1327,UNCLE,叔父
 431,aunt (wife of father's younger brother),2171,PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER),嬸母
 432,uncle (husband of father's sister),2690,UNCLE (HUSBAND OF FATHER'S SISTER),姑父
@@ -470,21 +470,21 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 469,"in, inside",1606,INSIDE,裏面
 470,"out, outside",762,OUTSIDE,外面
 471,"top, top side // top",1753,TOP,上面
-472,"under, below",1485,BELOW OR UNDER,下面
+472,"under, below",690,BOTTOM,下面
 473,"centre, in the middle of",1093,MIDDLE,中間
 474,side,682,SIDE,旁邊
 475,next to,2917,NEXT TO,隔壁
 476,downtown (inside the city),,,城裏
 477,countryside,,,鄉下
 478,thing,738,THING,東西
-479,powder,1798,GUNPOWDER,粉
+479,powder,3368,POWDER,粉
 480,dust,,,末子
 481,foam,1768,FOAM,泡沫
 482,"saliva, spit",1503,SALIVA,口水
 483,"garbage, trash",909,GARBAGE,垃圾
 484,corner,192,CORNER,角落
 485,"hole, cavity",1667,HOLE,窟窿
-486,pigsty,,,豬圈
+486,pigsty,3369,PIGSTY,豬圈
 487,chicken nest,2764,CHICKEN NEST,雞窩
 488,grave,1773,GRAVE,墳
 489,coffin,2011,COFFIN,棺材
@@ -518,14 +518,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 517,"take, hold",2104,HOLD OR TAKE,拿
 518,knead,274,KNEAD,捏
 519,"tweak, twitch",1414,SQUEEZE,掐
-520,stroke (with hand),,,摸
+520,stroke (with hand),1892,TOUCH,摸
 521,catch (fish),702,CATCH,撈
 522,search,1468,LOOK FOR,找
 523,"pluck, pick",2148,PICK,摘
 524,"wipe, rub",1449,RUB,擦
 525,to rub one's hands,,,搓
 526,"hold (in hand), lift (in hand)",501,LIFT,提
-527,raise (something with hand),,,舉
+527,raise (something with hand),1317,RAISE,舉
 528,"support, rely on",,,托
 529,carry horizontally,2763,CARRY HORIZONTALLY,端
 530,hold in two hands,412,CARRY IN HAND,捧
@@ -572,13 +572,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 571,stride,,,跨
 572,"stand, stand up",570,STAND UP,站
 573,bend down,2761,BEND (ONESELF),蹲
-574,"lean on, depend on",,,靠
+574,"lean on, depend on",3370,RELY ON,靠
 575,"lie down, lie (sleep)",215,LIE DOWN,躺
-576,fall to the ground,,,摔
+576,fall to the ground,2894,TUMBLE (FALL DOWN),摔
 577,"squeeze, push against",,,擠
 578,hide,2485,HIDE (ONESELF),躱
 579,carry (on shoulder or back),413,CARRY ON SHOULDER,挑
-580,collect,,,措
+580,collect,7,GATHER,措
 581,follow,1085,FOLLOW,跟
 582,"flee, run away",2142,RUN AWAY,逃跑
 583,take off (clothes),1755,UNDRESS,脫
@@ -587,9 +587,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 586,brush,1821,BRUSH,刷
 587,boil out,,,涮
 588,gargle,,,漱口
-589,wash (onself),,,冼澡
-590,take a sunbath,,,曬
-591,dry in the sun,2015,MAKE DRY,晾
+589,wash (onself),3371,WASH (ONESELF),冼澡
+590,take a sunbath,3131,SUNBATHE,曬
+591,dry in the sun,3364,DRY IN SUN,晾
 592,iron,3118,IRON (CLOTHES),熨
 593,dye (hair),157,DYE,染
 594,cut,2155,CUT (WITH SCISSORS),剪
@@ -626,7 +626,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 625,flatter,2709,FLATTER,拍馬
 626,"swear, vow",1939,SWEAR,發誓
 627,accompany,1542,ACCOMPANY,陪
-628,do something,2575,DO OR MAKE,做事兒
+628,do something,813,DO,做事兒
 629,work,1086,WORK (ACTIVITY),幹活兒
 630,cultivate,1541,CULTIVATE,種地
 631,drive a car,741,DRIVE,開車
@@ -683,7 +683,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 682,must,971,MUST,應該
 683,be necessary,1030,NECESSARY,値得
 684,be,1579,BE,是
-685,be not,1269,NO,不是
+685,no (negation),1269,NO,不是
 686,"lack, have not",2329,LACK (NOT HAVE),沒有(無)
 687,kiss,578,KISS,接吻
 688,visit a grave,,,上墳
@@ -696,7 +696,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 695,short,2191,LOW (HEIGHT),矮
 696,long,1203,LONG,長
 697,short,1645,SHORT,短
-698,rough,1923,ROUGH,粗
+698,rough,2151,COARSE,粗
 699,fine,2157,FINE OR THIN,細
 700,broad,2531,BROAD,寬
 701,narrow,1267,NARROW,窄
@@ -824,10 +824,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 823,those,,,那些
 824,here,136,HERE,這兒
 825,there,1937,THERE,那兒
-826,"this side, here",,,這邊
-827,"that side, there",,,那邊
-828,this way,,,這麽
-829,that way,,,那麽
+826,"this side, here",3410,OVER HERE,這邊
+827,"that side, there",3411,OVER THERE,那邊
+828,this way,2336,OF THIS KIND (SUCH),這麽
+829,that way,2337,OF THAT KIND (SUCH),那麽
 830,who,1235,WHO,誰
 831,what,1236,WHAT,什麽
 832,which,727,WHICH,哪個
