@@ -1,4 +1,14 @@
 Grapheme	IPA
+uᴇ	u/w ᴇ/ɛ
+iɑŋʔ	i/j ɑ ŋʔ/ŋ
+ɑŋʔ	ɑ ŋʔ/ŋ
+iɯ	i/j ɯ
+onʔ	o nʔ/n
+iɑo	i/j ɑo
+iɤɯ	i/j ɤɯ
+uae	u/w ae
+tʰutn	tʰ u t ⁰
+^taĩã∼⁵⁵	t aĩã/ai ⁵⁵
 $	NULL
 */a	*/a
 */ai	*/ai
@@ -24,12 +34,17 @@ $	NULL
 ^	NULL
 _	NULL
 a	a
+ae	ae
 ai	ai
+aiu	aiu/ai
+aiã	aiã/ai
 au	au
+auə	auə/au
 ay	ay
 aæ̃	æ̃
 aĩ	ai
 aũ	au
+aɔ	aɔ
 aə	aə
 b	b
 d	d
@@ -40,11 +55,13 @@ eu	eu
 ey	ey
 eĩ	ei
 eũ	eu
+eɿ	eɿ
 f	f
 g	g
 h	h
 i	i
 i$	i
+i*/e	i/j */e
 i*/ə	j */ə
 ia	j a
 iai	j ai
@@ -84,7 +101,9 @@ iãu	j ãu
 iãy	j ãy
 iãĩ	j ãi
 iãũ	j ãu
+iæ	i/j æ
 iæ̃	j æ̃
+iø	i/j ø
 iĩ	ii
 iœ	j œ
 iœi	j œi
@@ -172,6 +191,7 @@ iɤu	j ɤu
 iɤy	j ɤy
 iɤĩ	j ɤi
 iɤũ	j ɤu
+iɪ	iɪ
 iʊ	j ʊ
 iʊi	j ʊi
 iʊu	j ʊu
@@ -197,6 +217,10 @@ iẽy	j ẽy
 iẽĩ	j ẽi
 iẽũ	j ẽu
 j	j
+j ɑo	j ɑo
+j ɑŋ	j ɑŋ
+j ɤɯ	j ɤɯ
+jɤɯ	j ɤɯ
 k	k
 kʰ	kʰ
 l	l
@@ -235,6 +259,7 @@ u$	u
 u*/e	w */e
 u*/ei	w */ei
 u*/o	w */o
+u*/æ̃	u/w */æ̃
 u*/ə	w */ə
 u*/ə̃	w */ə̃
 ua	w a
@@ -379,6 +404,7 @@ uʏu	w ʏu
 uʏy	w ʏy
 uʏĩ	w ʏi
 uʏũ	w ʏu
+uᴇ/ɛ	u/w ᴇ/ɛ
 uẽ	w ẽ
 uẽi	w ẽi
 uẽu	w ẽu
@@ -389,6 +415,7 @@ v	v
 w	w
 x	x
 y	y
+y*/ə	y/ɥ */ə
 ya	ɥ a
 yai	ɥ ai
 yau	ɥ au
@@ -426,6 +453,7 @@ yãy	ɥ ãy
 yãĩ	ɥ ãi
 yãũ	ɥ ãu
 yæ̃	ɥ æ̃
+yĩ	y/ɥ ĩ
 yœ	ɥ œ
 yœi	ɥ œi
 yœu	ɥ œu
@@ -958,6 +986,7 @@ z	z
 ɑy	ɑy
 ɑĩ	ɑi
 ɑũ	ɑu
+ɑɑ	ɑː
 ɑ̃	ɑ̃
 ɑ̃i	ɑ̃i
 ɑ̃u	ɑ̃u
@@ -985,6 +1014,7 @@ z	z
 ɕ	ɕ
 ə	ə
 ə$	ə
+ə*/u	*/əu
 əi	əi
 əu	əu
 əy	əy
@@ -1022,11 +1052,13 @@ z	z
 ɤy	ɤy
 ɤĩ	ɤi
 ɤũ	ɤu
+ɤɯ	ɤɯ
 ɦ	ɦ
 ɪ	ɪ
 ɬ	ɬ
 ɯ	ɯ
 ɵ	ɵ
+ɵy	ɵy
 ɿ	ɿ
 ɿ$	ɿ
 ʂ	ʂ
