@@ -47,6 +47,6 @@ class Dataset(BaseDataset):
                         Value=wl[k, "value"],
                         Segments=syllabify(self.tokenizer(
                             '', '^'+''.join(wl[k, 'segments'])+'$',
-                            column='IPA')),
+                            column='IPA'), cldf=True),
                         Source="Cihui",
                     )
