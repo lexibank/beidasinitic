@@ -1,4 +1,4 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
+ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 1,sun,1343,SUN,太陽
 2,moon,1313,MOON,月亮
 3,star,1430,STAR,星
@@ -236,7 +236,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 235,glove,867,GLOVE,手套
 236,socks,329,STOCKING,襪子
 237,"towel, washcloth",1021,TOWEL,毛巾
-238,handkerchief,332,RAG,手帕
+238,handkerchief,1020,HANDKERCHIEF,手帕
 239,bib,,,圍嘴兒
 240,collar,2012,COLLAR,領子
 241,sleeve,2953,SLEEVE,袖子
@@ -346,9 +346,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 345,restaurant,,,飯館
 346,post office,,,郵局
 347,postage stamp,596,POSTAGE STAMP,郵票
-348,"stop, station",1928,CEASE,車站
+348,"stop, station",,,車站
 349,"pier, quay",,,碼頭
-350,automobile,,,汽車
+350,automobile,1111,CAR,汽車
 351,bicycle,747,BICYCLE,自行車
 352,rickshaw,,,人力車
 353,steamship,,,輪船
@@ -568,10 +568,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 567,"walk, go (on foot), leave",1443,WALK,走
 568,run,1519,RUN,跑
 569,jump,1829,JUMP,跳
-570,step (on something with the foot),2065,STEP (VERB),踩
+570,step (on something with the foot),575,TREAD,踩
 571,stride,,,跨
 572,"stand, stand up",570,STAND UP,站
-573,bend down,2761,BEND (ONESELF),蹲
+573,bend down,296,CROUCH,蹲
 574,"lean on, depend on",3370,RELY ON,靠
 575,"lie down, lie (sleep)",215,LIE DOWN,躺
 576,fall to the ground,2894,TUMBLE (FALL DOWN),摔
@@ -711,13 +711,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 710,flat,1633,FLAT,平
 711,straight,,,正
 712,"reverse, opposite",885,OPPOSITE,反
-713,slanted,297,CROOKED,歪
+713,slanted,3075,SLANTED,歪
 714,horizontal,2376,HORIZONTAL,橫
 715,vertical,2375,VERTICAL,竪
 716,"straight, erect",1404,STRAIGHT,直
 717,"slanting, inclined",,,斜
 718,steep,2717,STEEP,陡
-719,bend,2004,BEND,彎
+719,bend,297,CROOKED,彎
 720,bright,679,BRIGHT,亮
 721,dark,706,DARK,暗
 722,black,163,BLACK,黑
@@ -835,7 +835,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese
 834,"which place, where",,,哪邊
 835,how,1239,HOW,怎麽
 836,"how much, to which degree",,,多麽
-837,how much,531,HOW MUCH,多少
+837,how much,822,HOW MANY,多少
 838,how long,2338,HOW LONG,多久
 839,piece (classifier for persons),516,PERSON (CLASSIFIER),一個人
 840,head (classifier for cows),,,一頭牛

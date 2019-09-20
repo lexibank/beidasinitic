@@ -33,6 +33,6 @@ This dataset, which is well-known among Sinologists, comprises 18 dialect variet
 - **Sources:** 1
 - **Synonymy:** 1.11
 - **Invalid lexemes:** 0
-- **Tokens:** 120,801
-- **Segments:** 278 (0 BIPA errors, 0 CTLS sound class errors, 278 CLTS modified)
-- **Inventory size (avg):** 62.56
+- **Tokens:** 120,799
+- **Segments:** 278 (0 BIPA errors, 0 CTLS sound class errors, 277 CLTS modified)
+- **Inventory size (avg):** 62.44

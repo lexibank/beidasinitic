@@ -24,7 +24,7 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0"
+                "concepticon_version": "v2.1.0-47-g4730b7c"
             }
         }
     ],
@@ -229,7 +229,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Chinese"
+                        "name": "Chinese_Gloss"
                     }
                 ],
                 "primaryKey": [

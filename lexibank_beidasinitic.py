@@ -10,7 +10,7 @@ from pylexibank.util import pb, getEvoBibAsBibtex
 
 @attr.s
 class BDConcept(Concept):
-    Chinese = attr.ib(default=None)
+    Chinese_Gloss = attr.ib(default=None)
 
 @attr.s
 class HLanguage(Language):
@@ -41,10 +41,11 @@ class Dataset(BaseDataset):
 
             for k in pb(wl, desc="wl-to-cldf", total=len(wl)):
                 if wl[k, "value"]:
-                    ds.add_lexemes(
+                    ds.add_form_with_segments(
                         Language_ID=langs[wl[k, "doculect"]],
                         Parameter_ID=wl[k, "beida_id"],
                         Value=wl[k, "value"],
+                        Form=wl[k, "form"],
                         Segments=syllabify(self.tokenizer(
                             '', '^'+''.join(wl[k, 'segments'])+'$',
                             column='IPA'), cldf=True),
