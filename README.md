@@ -8,9 +8,9 @@ This dataset is licensed under a GPL-3.0 license
 
 Available online at https://github.com/digling/cddb/
 
-Conceptlists in Concepticon:
-- [BeijingDaxue-1964-905](http://concepticon.clld.org/contributions/BeijingDaxue-1964-905)
 
+Conceptlists in Concepticon:
+- [BeijingDaxue-1964-905](https://concepticon.clld.org/contributions/BeijingDaxue-1964-905)
 ## Notes
 
 This dataset, which is well-known among Sinologists, comprises 18 dialect varieties, collected during the 1950s and was digitized during 2012 and 2016. We offer the data in morpheme-segmented form, with a slightly adjusted IPA transcription.
