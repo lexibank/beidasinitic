@@ -1,0 +1,57 @@
+appdirs==1.4.3
+atomicwrites==1.2.1
+bs4==0.0.1
+certifi==2018.8.24
+chardet==3.0.4
+-e git+https://github.com/cldf/cldfbench.git@f373855e3b9cde029578e77c26136f0df26a82fa#egg=cldfbench
+cldfcatalog==1.3.0
+colorlog==3.1.4
+configparser==3.5.0
+-e git+https://github.com/cldf/csvw.git@bcd398856fdfe6408567cc02c7ff8b67ba1c8e38#egg=csvw
+decorator==4.3.0
+defusedxml==0.5.0
+idna==2.7
+isodate==0.6.0
+jdcal==1.4.1
+-e git+https://github.com/lexibank/allenbai.git@2115179090d47dd9b18ab8cf41a4b4d83e82955c#egg=lexibank_allenbai
+-e git+https://github.com/lexibank/beidasinitic.git@c2078953d0a94c2e9732e128e15d1ccaf09ef1f6#egg=lexibank_beidasinitic
+-e git+https://github.com/lingpy/bodtkhobwa/@e8b19069d25a0ce467a33150fae80c20338951e1#egg=lexibank_bodtkhobwa
+-e git+https://github.com/lexibank/castrosui.git@a2d13314e81682f6619c6af90a6ecf4bff401d00#egg=lexibank_castrosui
+-e git+https://github.com/lexibank/chenhmongmien@8d62ad58f5cc5b68d299e46b60655055e21df9a3#egg=lexibank_chenhmongmien
+-e git+https://github.com/lexibank/halenepal.git@d865b8567c917ed15a4d21a4797a473595528d5e#egg=lexibank_halenepal
+-e git+https://github.com/lexibank/lieberherrkhobwa.git@1985e1f912b2454cfcaa45611b488c95e31ff04c#egg=lexibank_lieberherrkhobwa
+-e git+https://github.com/lexibank/marrisonnaga.git@aa8ffaae2fde0e1f2e9e4c4aca981f75aa649a1e#egg=lexibank_marrisonnaga
+-e git+https://github.com/lexibank/mitterhoferbena.git@ff18f0c6ca6c7445eab21e091db30bcdbc1891fe#egg=lexibank_mitterhoferbena
+-e git+https://github.com/digling/sinotibetan-data.git@9488b83bc5cb4d443bf9f3b81c20711a95b772c6#egg=lexibank_sagartst
+-e git+https://github.com/LinguList/lingpy.git@2a1671c1b65886e1d33eccd74818b29bc4ce73dd#egg=lingpy
+lxml==4.2.4
+Markdown==2.6.11
+networkx==2.2
+newick==0.9.2
+numpy==1.15.1
+openpyxl==2.6.4
+pathlib2==2.3.2
+pluggy==0.8.0
+purl==1.5
+py==1.7.0
+pybtex==0.22.2
+-e git+https://github.com/cldf-clts/pyclts@4842f1fd9613de6ef20a917dbc3bd723e8d0ffbb#egg=pyclts
+-e git+https://github.com/concepticon/pyconcepticon.git@615a048b11cc6e5f8a3fe92619ad7790b23154db#egg=pyconcepticon
+pycountry==18.12.8
+-e git+https://github.com/clld/pyglottolog.git@0f24f24a46d1f510c975337e4c0d8c23b357c8bd#egg=pyglottolog
+-e git+https://github.com/lexibank/pylexibank/@b2b24aafcbe618f08ef994d8e0ce2d29f601bff1#egg=pylexibank
+pytest==4.0.0
+regex==2018.8.29
+requests==2.20.0
+rfc3986==1.1.0
+scipy==1.2.0
+six==1.11.0
+soupsieve==1.9.2
+SQLAlchemy==1.3.0
+tabulate==0.8.2
+termcolor==1.1.0
+tqdm==4.25.0
+uritemplate==3.0.0
+urllib3==1.23
+wcwidth==0.1.7
+xlrd==1.1.0
