@@ -14,8 +14,8 @@ idna==2.7
 isodate==0.6.0
 jdcal==1.4.1
 -e git+https://github.com/lexibank/allenbai.git@2115179090d47dd9b18ab8cf41a4b4d83e82955c#egg=lexibank_allenbai
--e git+https://github.com/lexibank/beidasinitic.git@c2078953d0a94c2e9732e128e15d1ccaf09ef1f6#egg=lexibank_beidasinitic
--e git+https://github.com/lingpy/bodtkhobwa/@e8b19069d25a0ce467a33150fae80c20338951e1#egg=lexibank_bodtkhobwa
+-e git+https://github.com/lexibank/beidasinitic.git@064c4a1883fcb4dd3f58d2c0d392f320fab8fb7c#egg=lexibank_beidasinitic
+-e git+https://github.com/lingpy/bodtkhobwa/@e80544c6a001e3ce30ef197463be03834e5a3704#egg=lexibank_bodtkhobwa
 -e git+https://github.com/lexibank/castrosui.git@a2d13314e81682f6619c6af90a6ecf4bff401d00#egg=lexibank_castrosui
 -e git+https://github.com/lexibank/chenhmongmien@8d62ad58f5cc5b68d299e46b60655055e21df9a3#egg=lexibank_chenhmongmien
 -e git+https://github.com/lexibank/halenepal.git@d865b8567c917ed15a4d21a4797a473595528d5e#egg=lexibank_halenepal
@@ -52,6 +52,6 @@ tabulate==0.8.2
 termcolor==1.1.0
 tqdm==4.25.0
 uritemplate==3.0.0
-urllib3==1.23
+urllib3==1.24.2
 wcwidth==0.1.7
 xlrd==1.1.0
