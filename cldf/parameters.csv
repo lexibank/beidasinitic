@@ -195,7 +195,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 194_noodles,noodles,973,NOODLE,面條兒,194
 195_cakespastry,"cakes, pastry",2408,CAKE,糕,195
 196_stuffinginfood,stuffing (in food),,,餡兒,196
-197_dishfood,dish (food),481,DISH,菜(菜肴),197
+197_dishfood,dish (food),3542,PREPARED FOOD,菜(菜肴),197
 198_meatdishes,meat dishes,2767,MEAT DISHES,葷菜,198
 199_vegetabledishes,vegetable dishes,,,素菜,199
 200_soup,soup,1547,SOUP,湯,200
@@ -218,7 +218,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 217_boiledwater,boiled water,3362,BOILED WATER,開水,217
 218_cigarette,cigarette,969,CIGARETTE,紙煙,218
 219_clothes,clothes,1895,CLOTHES,衣服,219
-220_jacket,jacket,2770,JACKET,上衣,220
+220_jacket,jacket,,,上衣,220
 221_shirt,shirt,1622,SHIRT,襯衫,221
 222_undershirt,undershirt,,,汗衫,222
 223_jiaaocostume,Jia'ao (costume),,,夾祅,223
@@ -582,7 +582,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 581_follow,follow,1085,FOLLOW,跟,581
 582_fleerunaway,"flee, run away",2142,RUN AWAY,逃跑,582
 583_takeoffclothes,take off (clothes),1755,UNDRESS,脫,583
-584_wearonhead,wear (on head),976,WEAR,戴,584
+584_wearonhead,wear (on head),3428,WEAR (ON HEAD),戴,584
 585_wash,wash,1453,WASH,洗,585
 586_brush,brush,1821,BRUSH,刷,586
 587_boilout,boil out,,,涮,587
@@ -674,7 +674,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 673_think,think,2271,THINK,想,673
 674_planintend,"plan, intend",22,INTEND,打算,674
 675_believetrust,"believe, trust",1890,BELIEVE,相信,675
-676_doubt,doubt,1308,DOUBT,懷疑,676
+676_doubt,doubt,3536,DOUBT (SOMETHING),懷疑,676
 677_takecare,take care,2758,CAREFUL,小心,677
 678_misslongfor,"miss, long for",2328,MISS (SOMEBODY),想念,678
 679_forget,forget,1523,FORGET,忘記,679
@@ -727,7 +727,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 726_wet,wet,1726,WET,濕,726
 727_stiffofeggs,stiff (of eggs),,,稠,727
 728_thickorstrongoftea,thick or strong (of tea),2718,STRONG (OF DRINK),釅,728
-729_rarescarce,"rare, scarce",209,RARE,稀,729
+729_rarescarce,"rare, scarce",,,稀,729
 730_hardfirm,"hard, firm",1884,HARD,硬,730
 731_softflexible,"soft, flexible",1856,SOFT,軟,731
 732_old,old,,,老(不嫩),732
