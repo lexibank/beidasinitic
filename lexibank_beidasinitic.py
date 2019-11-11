@@ -3,7 +3,7 @@ from pathlib import Path
 
 from pylexibank import Concept, Language, Lexeme
 from pylexibank import Dataset as BaseDataset
-from pylexibank.util import pb, getEvoBibAsBibtex
+from pylexibank.util import progressbar, getEvoBibAsBibtex
 
 from clldutils.misc import slug
 
@@ -54,7 +54,7 @@ class Dataset(BaseDataset):
         
         # TODO: add concepts with `add_concepts`
         concept_lookup = {}
-        for concept in self.conceptlist.concepts.values():
+        for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split('-')[-1]+'_'+slug(concept.gloss)
             args.writer.add_concept(
                     ID=idx,
@@ -68,7 +68,7 @@ class Dataset(BaseDataset):
         # use the new lookup_factory here
         language_lookup = args.writer.add_languages(lookup_factory='Name')
 
-        for k in pb(wl, desc="wl-to-cldf", total=len(wl)):
+        for k in progressbar(wl, desc="wl-to-cldf", total=len(wl)):
             if wl[k, "value"]:
                 args.writer.add_form_with_segments(
                     Language_ID=language_lookup[wl[k, "doculect"]],
