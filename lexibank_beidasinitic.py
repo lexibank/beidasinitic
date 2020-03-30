@@ -59,7 +59,8 @@ class Dataset(BaseDataset):
 
         args.writer.add_sources(*self.raw_dir.read_bib())
 
-        # TODO: add concepts with `add_concepts`
+        # note: no way to easily replace this with the direct call to `add_concepts`
+        # as we add the Chinese gloss via concept.attributes
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split("-")[-1] + "_" + slug(concept.gloss)
@@ -72,7 +73,7 @@ class Dataset(BaseDataset):
                 Concepticon_Gloss=concept.concepticon_gloss,
             )
             concept_lookup[concept.number] = idx
-        # use the new lookup_factory here
+
         language_lookup = args.writer.add_languages(lookup_factory="Name")
 
         for k in progressbar(wl, desc="wl-to-cldf", total=len(wl)):
