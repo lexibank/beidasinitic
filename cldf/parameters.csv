@@ -225,7 +225,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 224_woolensweater,woolen sweater,,,毛衣,224
 225_coat,coat,603,COAT,大衣,225
 226_trousers,trousers,809,TROUSERS,褲子,226
-227_skirt,skirt,1600,SKIRT,群子,227
+227_skirt,skirt,1600,SKIRT,裙子,227
 228_shorts,shorts,,,短褲,228
 229_hat,hat,771,HAT,帽子,229
 230_shoes,shoes,1381,SHOE,鞋,230
@@ -234,7 +234,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 233_boots,boots,585,BOOT,靴子,233
 234_shawl,shawl,2771,SHAWL,圍巾,234
 235_glove,glove,867,GLOVE,手套,235
-236_socks,socks,329,STOCKING,襪子,236
+236_socks,socks,1522,SOCK,襪子,236
 237_towelwashcloth,"towel, washcloth",1021,TOWEL,毛巾,237
 238_handkerchief,handkerchief,1020,HANDKERCHIEF,手帕,238
 239_bib,bib,,,圍嘴兒,239
@@ -276,7 +276,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 275_pillow,pillow,1044,PILLOW,枕頭,275
 276_mat,mat,195,MAT,席子,276
 277_bedcurtain,bed-curtain,,,帳子,277
-278_cookingpot,cooking-pot,2056,WOK,鍋,278
+278_cookingpot,cooking-pot,3653,COOKING POT,鍋,278
 279_pancaketurner,pancake turner,,,鍋鏟,279
 280_kitchenknife,kitchen knife,2772,KITCHEN KNIFE,菜刀,280
 281_chopsticks,chopsticks,1987,CHOPSTICKS,筷子,281
@@ -284,7 +284,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 283_earthenjug,earthen jug,270,JUG,缸,283
 284_baler,baler,,,水瓢,284
 285_earthernjug,earthern jug,3409,EARTHEN JUG,壇子,285
-286_potjug,"pot, jug",,,罐子,286
+286_potjug,"pot, jug",3765,STORING POT,罐子,286
 287_bottle,bottle,1321,BOTTLE,瓶子,287
 288_firewood,firewood,10,FIREWOOD,木柴,288
 289_woodcharcoal,wood charcoal,1188,CHARCOAL,木炭,289
@@ -662,7 +662,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 661_cough,cough,879,COUGH,咳嗽,661
 662_getdizzy,get dizzy,2712,GET DIZZY,頭暈,662
 663_haveafever,have a fever,2713,HAVE A FEVER,發燒,663
-664_havediarrhoea,have diarrhoea,2714,HAVE DIARREA,瀉肚,664
+664_havediarrhoea,have diarrhoea,2714,HAVE DIARRHEA,瀉肚,664
 665_getmalaria,get malaria,,,生瘧疾,665
 666_like,like,1117,LIKE,喜歡,666
 667_despise,despise,2715,DESPISE,討厭,667
@@ -723,7 +723,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 722_black,black,163,BLACK,黑,722
 723_lightofweight,light (of weight),1052,LIGHT (WEIGHT),輕,723
 724_heavy,heavy,1210,HEAVY,重,724
-725_dry,dry,1398,DRY,幹,725
+725_dry,dry,1398,DRY,乾,725
 726_wet,wet,1726,WET,濕,726
 727_stiffofeggs,stiff (of eggs),,,稠,727
 728_thickorstrongoftea,thick or strong (of tea),2718,STRONG (OF DRINK),釅,728

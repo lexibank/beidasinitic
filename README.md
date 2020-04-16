@@ -1,4 +1,4 @@
-# Chinese Dialect Vocabularies
+# CLDF dataset derived from Beijing University's "Chinese Dialect Vocabularies" from 1964
 
 Cite the source dataset as
 
@@ -22,7 +22,7 @@ This dataset, which is well-known among Sinologists, comprises 18 dialect variet
 
 [![Build Status](https://travis-ci.org/lexibank/beidasinitic.svg?branch=master)](https://travis-ci.org/lexibank/beidasinitic)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 81%](https://img.shields.io/badge/Concepticon-81%25-yellowgreen.svg "Concepticon: 81%")
+![Concepticon: 82%](https://img.shields.io/badge/Concepticon-82%25-yellowgreen.svg "Concepticon: 82%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -36,3 +36,11 @@ This dataset, which is well-known among Sinologists, comprises 18 dialect variet
 - **Tokens:** 120,799
 - **Segments:** 278 (0 BIPA errors, 0 CTLS sound class errors, 278 CLTS modified)
 - **Inventory size (avg):** 62.44
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | ---
+Johann-Mattis List | @LinguList | maintainer | Author
+
+

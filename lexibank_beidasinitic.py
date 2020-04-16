@@ -13,14 +13,12 @@ from lingpy.sequence.sound_classes import syllabify
 
 @attr.s
 class CustomConcept(Concept):
-    Chinese_Gloss = attr.ib(default=None, metadata={"name_in_source": "number"})
-    Number = attr.ib(default=None, metadata={"name_in_source": "number"})
+    Chinese_Gloss = attr.ib(default=None)
+    Number = attr.ib(default=None)
 
 
 @attr.s
 class CustomLanguage(Language):
-    Latitude = attr.ib(default=None)
-    Longitude = attr.ib(default=None)
     ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default="Sinitic")
     Family = attr.ib(default="Sino-Tibetan")
@@ -53,11 +51,11 @@ class Dataset(BaseDataset):
             "new_segments",
             "segments",
             lambda x: syllabify(
-                self.tokenizer("", "^" + "".join(x) + "$", column="IPA"), cldf=True
+                self.tokenizer({}, "^" + "".join(x) + "$", column="IPA"), cldf=True
             ),
         )
 
-        args.writer.add_sources(*self.raw_dir.read_bib())
+        args.writer.add_sources()
 
         # TODO: add concepts with `add_concepts`
         concept_lookup = {}
