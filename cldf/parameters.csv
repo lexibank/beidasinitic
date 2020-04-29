@@ -525,7 +525,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 524_wiperub,"wipe, rub",1449,RUB,擦,524
 525_toruboneshands,to rub one's hands,,,搓,525
 526_holdinhandliftinhand,"hold (in hand), lift (in hand)",501,LIFT,提,526
-527_raisesomethingwithhand,raise (something with hand),1317,RAISE,舉,527
+527_raisesomethingwithhand,raise (something with hand),501,LIFT,舉,527
 528_supportrelyon,"support, rely on",,,托,528
 529_carryhorizontally,carry horizontally,2763,CARRY HORIZONTALLY,端,529
 530_holdintwohands,hold in two hands,412,CARRY IN HAND,捧,530

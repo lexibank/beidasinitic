@@ -1,0 +1,24 @@
+{
+    "title": "CLDF dataset derived from Beijing University's \"Chinese Dialect Vocabularies\" from 1964",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>B\u011bij\u012bng D\u00e0xu\u00e9 \u5317\u4eac\u5927\u5b66 (1964): H\u00e0ny\u01d4 f\u0101ngy\u00e1n c\u00edhu\u00ec \u6c49\u8bed\u65b9\u8a00\u8bcd\u6c47 [Chinese dialect vocabularies]. Beijing: Wenzi Gaige.</p>\n</blockquote>",
+    "license": {
+        "id": "GPL-3.0"
+    }
+}
