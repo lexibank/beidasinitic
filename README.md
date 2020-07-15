@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Běijīng Dàxué 北京大学 (1964): Hànyǔ fāngyán cíhuì 汉语方言词汇 [Chinese dialect vocabularies]. Beijing: Wenzi Gaige.
 
-This dataset is licensed under a GPL-3.0 license
+This dataset is licensed under a CC-BY-NC-4.0 license
 
 Available online at https://github.com/digling/cddb/
 

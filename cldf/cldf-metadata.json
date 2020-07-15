@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "https://github.com/digling/cddb/",
     "dc:isVersionOf": null,
-    "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Beijing University's \"Chinese Dialect Vocabularies\" from 1964",
@@ -18,24 +18,24 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/beidasinitic",
-            "dc:created": "v4.0-8-g097a9f7"
+            "dc:created": "v3.0.1-25-g8a5e254"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-59-gc9d83e8"
+            "dc:created": "v2.3.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
         }
     ],
@@ -186,11 +186,6 @@
                     {
                         "datatype": "string",
                         "name": "Glottolog_Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "name": "ISO639P3code"
                     },
                     {
                         "datatype": "string",
