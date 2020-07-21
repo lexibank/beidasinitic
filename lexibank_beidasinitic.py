@@ -32,9 +32,7 @@ class Dataset(pylexibank.Dataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
-    form_spec = pylexibank.FormSpec(
-        separators=(";", "/", ",", "，"), replacements=[("❷", ""), ("&quot;", "")]
-    )
+    form_spec = pylexibank.FormSpec(replacements=[("❷", ""), ("&quot;", "")])
 
     def cmd_download(self, **kw):
         self.raw_dir.write("sources.bib", pylexibank.getEvoBibAsBibtex("Cihui", **kw))
@@ -75,19 +73,17 @@ class Dataset(pylexibank.Dataset):
 
         for k in pylexibank.progressbar(wl, desc="wl-to-cldf", total=len(wl)):
             if wl[k, "value"]:
-                form_cleaned = self.form_spec.clean(form=wl[k, "value"], item=None)
-                forms = self.form_spec.split(item=None, value=form_cleaned)
+                form = self.form_spec.clean(form=wl[k, "value"], item=None)
 
-                for form in forms:
-                    args.writer.add_form_with_segments(
-                        Language_ID=language_lookup[wl[k, "doculect"]],
-                        Parameter_ID=concept_lookup[wl[k, "beida_id"]],
-                        Value=wl[k, "value"],
-                        Form=form,
-                        Segments=wl[k, "new_segments"],
-                        Source="Cihui",
-                        Benzi=wl[k, "benzi"],
-                    )
+                args.writer.add_form_with_segments(
+                    Language_ID=language_lookup[wl[k, "doculect"]],
+                    Parameter_ID=concept_lookup[wl[k, "beida_id"]],
+                    Value=wl[k, "value"],
+                    Form=form,
+                    Segments=wl[k, "new_segments"],
+                    Source="Cihui",
+                    Benzi=wl[k, "benzi"],
+                )
 
         # We explicitly remove the ISO code column since the languages in
         # this datasets do not have an ISO code.
