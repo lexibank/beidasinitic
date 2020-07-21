@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/beidasinitic",
-            "dc:created": "v3.0.1-25-g8a5e254"
+            "dc:created": "v3.0.1-27-gb69c972"
         },
         {
             "rdf:type": "prov:Entity",
