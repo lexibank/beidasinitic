@@ -14,7 +14,7 @@ iniconfig==1.0.1
 isodate==0.6.0
 jdcal==1.4.1
 kiwisolver==1.2.0
--e git+https://github.com/lexibank/lexitools.git@7528a1b9797b5ddfdf61a0e9bc02e473361fde47#egg=lexitools
+-e git+https://github.com/lexibank/lexitools.git@8e47de9f6caca18fdeef9ecb24a352190c2ff7cd#egg=lexitools
 -e git+https://github.com/lingpy/lingpy.git@4d42cda2ecd7b54abaf1a2d4aa517c54ff89b573#egg=lingpy
 -e git+https://github.com/lingpy/lingrex.git@9b3d7024c6b7302fbe1ffb4c4deab2db0c95d050#egg=lingrex
 Markdown==3.2.2

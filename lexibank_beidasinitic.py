@@ -1,24 +1,20 @@
-import attr
 from pathlib import Path
 
-from pylexibank import Concept, Language, Lexeme
-from pylexibank import Dataset as BaseDataset
-from pylexibank.util import progressbar, getEvoBibAsBibtex
-
-from clldutils.misc import slug
-
+import attr
 import lingpy
+import pylexibank
+from clldutils.misc import slug
 from lingpy.sequence.sound_classes import syllabify
 
 
 @attr.s
-class CustomConcept(Concept):
+class CustomConcept(pylexibank.Concept):
     Chinese_Gloss = attr.ib(default=None)
     Number = attr.ib(default=None)
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default="Sinitic")
     Family = attr.ib(default="Sino-Tibetan")
@@ -26,19 +22,20 @@ class CustomLanguage(Language):
 
 
 @attr.s
-class CustomLexeme(Lexeme):
+class CustomLexeme(pylexibank.Lexeme):
     Benzi = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "beidasinitic"
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
+    form_spec = pylexibank.FormSpec(replacements=[("❷", ""), ("&quot;", "")])
 
     def cmd_download(self, **kw):
-        self.raw_dir.write("sources.bib", getEvoBibAsBibtex("Cihui", **kw))
+        self.raw_dir.write("sources.bib", pylexibank.getEvoBibAsBibtex("Cihui", **kw))
 
     def cmd_makecldf(self, args):
         # load data as wordlists, as we need to bring the already segmented
@@ -74,14 +71,24 @@ class Dataset(BaseDataset):
 
         language_lookup = args.writer.add_languages(lookup_factory="Name")
 
-        for k in progressbar(wl, desc="wl-to-cldf", total=len(wl)):
+        for k in pylexibank.progressbar(wl, desc="wl-to-cldf", total=len(wl)):
             if wl[k, "value"]:
+                form = self.form_spec.clean(form=wl[k, "value"], item=None)
+
                 args.writer.add_form_with_segments(
                     Language_ID=language_lookup[wl[k, "doculect"]],
                     Parameter_ID=concept_lookup[wl[k, "beida_id"]],
                     Value=wl[k, "value"],
-                    Form=wl[k, "form"],
+                    Form=form,
                     Segments=wl[k, "new_segments"],
                     Source="Cihui",
                     Benzi=wl[k, "benzi"],
                 )
+
+        # We explicitly remove the ISO code column since the languages in
+        # this datasets do not have an ISO code.
+        args.writer.cldf["LanguageTable"].tableSchema.columns = [
+            col
+            for col in args.writer.cldf["LanguageTable"].tableSchema.columns
+            if col.name != "ISO639P3code"
+        ]

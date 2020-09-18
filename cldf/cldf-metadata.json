@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "https://github.com/digling/cddb/",
     "dc:isVersionOf": null,
-    "dc:license": "CCBY-NC",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Beijing University's \"Chinese Dialect Vocabularies\" from 1964",
@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/beidasinitic",
-            "dc:created": "v4.0-10-g6278b1d"
+            "dc:created": "v4.0-13-ga11d92a"
         },
         {
             "rdf:type": "prov:Entity",
@@ -186,11 +186,6 @@
                     {
                         "datatype": "string",
                         "name": "Glottolog_Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "name": "ISO639P3code"
                     },
                     {
                         "datatype": "string",
