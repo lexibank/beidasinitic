@@ -1,56 +1,56 @@
-appdirs==1.4.3
-bs4==0.0.1
-certifi==2019.11.28
+appdirs==1.4.4
+certifi==2020.6.20
 chardet==3.0.4
--e git+https://github.com/cldf/cldfbench/@35218fae227ca24cb135d11606d338bb4b59255c#egg=cldfbench
+-e git+https://github.com/cldf/cldfbench/@2c79d9b0c5ee416711913cf0cab174ef496d8a80#egg=cldfbench
 -e git+https://github.com/cldf/cldfcatalog@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
--e git+https://github.com/LinguList/clldutils.git@a862d78e9145a931dec172708afd25ffd9920f7d#egg=clldutils
-colorlog==4.1.0
-configparser==5.0.0
--e git+https://github.com/cldf/csvw.git@af7d40bf541eca3dd499027179aa86a158405e7b#egg=csvw
+clldutils==3.5.2
+colorlog==4.2.1
+-e git+https://github.com/cldf/csvw.git@58be38c0a73227b8f940e88449ad5cdeb3bdc52a#egg=csvw
 cycler==0.10.0
 decorator==4.4.2
-gitdb==4.0.2
-idna==2.9
+gitdb==4.0.5
+idna==2.10
+iniconfig==1.0.1
 isodate==0.6.0
 jdcal==1.4.1
 kiwisolver==1.2.0
--e git+https://github.com/lingpy/lexibase.git@75bd8ce7f16c8f225a8a71d3ccb4da9e4c9a49fc#egg=lexibase
+-e git+https://github.com/lexibank/lexitools.git@7528a1b9797b5ddfdf61a0e9bc02e473361fde47#egg=lexitools
 -e git+https://github.com/lingpy/lingpy.git@4d42cda2ecd7b54abaf1a2d4aa517c54ff89b573#egg=lingpy
-Markdown==3.2.1
-matplotlib==3.2.1
+-e git+https://github.com/lingpy/lingrex.git@9b3d7024c6b7302fbe1ffb4c4deab2db0c95d050#egg=lingrex
+Markdown==3.2.2
+matplotlib==3.3.2
 networkx==2.2
 newick==1.0.0
-numpy==1.18.2
-openpyxl==3.0.3
-packaging==20.3
+numpy==1.19.2
+openpyxl==3.0.5
 pluggy==0.13.1
+powerlaw==1.4.6
 purl==1.5
-py==1.8.1
+py==1.9.0
 pybtex==0.22.2
-pycldf==1.14.1
--e git+https://github.com/cldf-clts/pyclts@4842f1fd9613de6ef20a917dbc3bd723e8d0ffbb#egg=pyclts
--e git+https://github.com/concepticon/pyconcepticon.git@6b4cc26f2101b53126bcec5606de2822011dd902#egg=pyconcepticon
-pycountry==19.8.18
--e git+https://github.com/clld/pyglottolog.git@0f24f24a46d1f510c975337e4c0d8c23b357c8bd#egg=pyglottolog
--e git+https://github.com/lexibank/pylexibank.git@8d79866d6e78342703fde36d625915decf81e016#egg=pylexibank
-pyparsing==2.4.6
-pytest==5.4.1
-regex==2020.2.20
-requests==2.23.0
-rfc3986==1.3.2
-scipy==1.4.1
+pycldf==1.15.0
+-e git+https://github.com/cldf-clts/pyclts@2ad3ba854f2506ff74b1ce7879331c855b7db974#egg=pyclts
+-e git+https://github.com/concepticon/pyconcepticon.git@86cf8b33182298c709736360e65caf29570d940e#egg=pyconcepticon
+pycountry==20.7.3
+-e git+https://github.com/clld/pyglottolog.git@c17c4d48c35c0666d58eac89ba5ea806f62a14ff#egg=pyglottolog
+-e git+https://github.com/lexibank/pylexibank.git@2533f67b43a9c943fc06d39f1f8c1d164e858f50#egg=pylexibank
+pyparsing==2.4.7
+pytest==6.0.2
+regex==2020.7.14
+requests==2.24.0
+rfc3986==1.4.0
+scipy==1.5.2
 segments==2.1.3
--e git+https://github.com/LinguList/chinese.git@c936119495729a24fe845bd9f2f9562b627774ed#egg=sinopy
-six==1.14.0
-smmap==3.0.1
-soupsieve==2.0
-SQLAlchemy==1.3.15
+-e git+https://github.com/LinguList/chinese.git@b6b6372dbf08dc15cc6e58ea9f8ab25975b6e5c7#egg=sinopy
+six==1.15.0
+smmap==3.0.4
+SQLAlchemy==1.3.19
 tabulate==0.8.7
 termcolor==1.1.0
-texttable==1.6.2
-tqdm==4.45.0
+texttable==1.6.3
+tqdm==4.49.0
 uritemplate==3.0.1
-urllib3==1.25.8
-wcwidth==0.1.9
+urllib3==1.25.10
+wcwidth==0.2.5
 xlrd==1.2.0
+zipp==3.1.0
