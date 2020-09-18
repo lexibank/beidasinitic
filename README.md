@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Běijīng Dàxué 北京大学 (1964): Hànyǔ fāngyán cíhuì 汉语方言词汇 [Chinese dialect vocabularies]. Beijing: Wenzi Gaige.
 
-This dataset is licensed under a GPL-3.0 license
+This dataset is licensed under a CCBY-NC license
 
 Available online at https://github.com/digling/cddb/
 
@@ -33,9 +33,9 @@ This dataset, which is well-known among Sinologists, comprises 18 dialect variet
 - **Sources:** 1
 - **Synonymy:** 1.11
 - **Invalid lexemes:** 0
-- **Tokens:** 120,799
-- **Segments:** 278 (0 BIPA errors, 0 CTLS sound class errors, 278 CLTS modified)
-- **Inventory size (avg):** 62.44
+- **Tokens:** 120,791
+- **Segments:** 279 (0 BIPA errors, 0 CTLS sound class errors, 279 CLTS modified)
+- **Inventory size (avg):** 62.78
 
 # Contributors
 
