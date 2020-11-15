@@ -18,31 +18,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/beidasinitic",
-            "dc:created": "v4.0-13-ga11d92a"
+            "dc:created": "v4.0-17-g229b4b7"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-7-g35d84ac"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-24-g89e27e8"
+            "dc:created": "v2.4.0-5-gaceeb4b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-3-g99e4218"
+            "dc:created": "v1.4-34-ga2b5dc6"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.12"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",

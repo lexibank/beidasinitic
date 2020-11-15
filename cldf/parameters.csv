@@ -397,7 +397,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 396_littlefinger,little finger,2774,LITTLE FINGER,小姆指,396
 397_fingernail,fingernail,1258,FINGERNAIL,指甲,397
 398_buttocks,buttocks,834,BUTTOCKS,屁股,398
-399_thighupperleg,thigh (upper leg),800,THIGH,大腿,399
+399_thighupperleg,thigh (upper leg),471,UPPER LEG (THIGH),大腿,399
 400_knee,knee,1371,KNEE,膝蓋,400
 401_man,man,1554,MAN,男人,401
 402_woman,woman,962,WOMAN,女人,402
@@ -609,7 +609,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 608_select,select,1750,CHOOSE,選擇,608
 609_safemoneycollectmoney,"safe (money), collect (money)",,,藏(收存),609
 610_speak,speak,1623,SPEAK,說,610
-611_talkmakesmalltalk,"talk, make smalltalk",2708,TALK,閑淡,611
+611_talkmakesmalltalk,"talk, make smalltalk",2903,CHAT (WITH SOMEBODY),閒談,611
 612_ask,ask,1309,ASK (INQUIRE),問,612
 613_manage,manage,3073,MANAGE,理,613
 614_call,call,1084,CALL,叫,614
@@ -701,7 +701,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 700_broad,broad,2531,BROAD,寬,700
 701_narrow,narrow,1267,NARROW,窄,701
 702_thick,thick,1244,THICK,厚,702
-703_thin,thin,2249,THIN (OF SHAPE OF OBJECT),薄,703
+703_thin,thin,2306,THIN (OF LEAF AND CLOTH),薄,703
 704_deep,deep,1593,DEEP,深,704
 705_shallow,shallow,193,SHALLOW,淺,705
 706_empty,empty,1624,EMPTY,空,706
