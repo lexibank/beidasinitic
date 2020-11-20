@@ -140,7 +140,7 @@ class Dataset(BaseDataset):
                             row['Lexibank'].split(),
                             row['Prosody'].split()):
                         pidx = '-'.join([str(hex(ord(s)))[2:].rjust(4, '0') for s in
-                            s1])+p
+                            s1])+'_'+p
 
                         if not s1 in td.grapheme_map:
                             args.log.warn('missing sound {0} / {1}'.format(

@@ -15,9 +15,9 @@ isodate==0.6.0
 jdcal==1.4.1
 -e git+https://github.com/lexibank/aaleykusunda.git@9e6031c71fc0ee0edbd6744a13763d3a8db504ac#egg=lexibank_aaleykusunda
 -e git+https://github.com/lexibank/abrahammonpa@3020674bff5b388305b553b404df90b12fb1387d#egg=lexibank_abrahammonpa
--e git+https://github.com/lexibank/allenbai.git@0999aa16c3121c755b963e257f88dd781bd28caf#egg=lexibank_allenbai
+-e git+https://github.com/lexibank/allenbai.git@c2f52114da97334dc63f8d2fafe5b308f2031924#egg=lexibank_allenbai
 -e git+https://github.com/lexibank/bdpa.git@f3543076b2c35739af4120c97f4e632298ea3b98#egg=lexibank_bdpa
--e git+https://github.com/lexibank/beidasinitic.git@e3a9f526d6167075a32e0c59888c763693ea2eaa#egg=lexibank_beidasinitic
+-e git+https://github.com/lexibank/beidasinitic.git@ddb14e36c3a5ae999bb353eb77af5ca0203385db#egg=lexibank_beidasinitic
 -e git+https://github.com/lexibank/birchallchapacuran.git@71c228864e2ee77432a2c9822808523f75a0f47f#egg=lexibank_birchallchapacuran
 -e git+https://github.com/sequencecomparison/blustaustronesian@0ba938a64cf87845eefbd1336065d0298ef21f9c#egg=lexibank_blustaustronesian
 -e git+https://github.com/lingpy/bodtkhobwa/@4759c9849eb8964a645ec723babf28d26dde5f2d#egg=lexibank_bodtkhobwa
