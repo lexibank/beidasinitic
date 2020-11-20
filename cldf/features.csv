@@ -1,0 +1,205 @@
+ID,Name,Description,CLTS_BIPA,CLTS_Name,Lexibank_BIPA,Prosody
+0070i,p,voiceless bilabial stop consonant,p,voiceless bilabial stop consonant,p,i
+0070-2019i,p’,aspirated voiceless bilabial stop consonant,pʰ,aspirated voiceless bilabial stop consonant,pʰ,i
+006di,m,voiced bilabial nasal consonant,m,voiced bilabial nasal consonant,m,i
+0066i,f,voiceless labio-dental fricative consonant,f,voiceless labio-dental fricative consonant,f,i
+0074i,t,voiceless alveolar stop consonant,t,voiceless alveolar stop consonant,t,i
+0074-2019i,t’,aspirated voiceless alveolar stop consonant,tʰ,aspirated voiceless alveolar stop consonant,tʰ,i
+006ei,n,voiced alveolar nasal consonant,n,voiced alveolar nasal consonant,l,i
+0074-0073i,ts,voiceless alveolar sibilant affricate consonant,ts,voiceless alveolar sibilant affricate consonant,ts,i
+0074-0073-2019i,ts’,aspirated voiceless alveolar sibilant affricate consonant,tsʰ,aspirated voiceless alveolar sibilant affricate consonant,tsʰ,i
+0073i,s,voiceless alveolar sibilant fricative consonant,s,voiceless alveolar sibilant fricative consonant,s,i
+007ai,z,voiced alveolar sibilant fricative consonant,z,voiced alveolar sibilant fricative consonant,z,i
+0074-0255i,tɕ,voiceless alveolo-palatal sibilant affricate consonant,tɕ,voiceless alveolo-palatal sibilant affricate consonant,tɕ,i
+0074-0255-2019i,tɕ’,aspirated voiceless alveolo-palatal sibilant affricate consonant,tɕʰ,aspirated voiceless alveolo-palatal sibilant affricate consonant,tɕʰ,i
+0235i,ȵ,voiced alveolo-palatal nasal consonant,ȵ,voiced alveolo-palatal nasal consonant,ȵ,i
+0255i,ɕ,voiceless alveolo-palatal sibilant fricative consonant,ɕ,voiceless alveolo-palatal sibilant fricative consonant,ɕ,i
+006bi,k,voiceless velar stop consonant,k,voiceless velar stop consonant,k,i
+006b-2019i,k’,aspirated voiceless velar stop consonant,kʰ,aspirated voiceless velar stop consonant,kʰ,i
+014bi,ŋ,voiced velar nasal consonant,ŋ,voiced velar nasal consonant,ŋ,i
+0078i,x,voiceless velar fricative consonant,x,voiceless velar fricative consonant,x,i
+027fn,ɿ,unrounded close with-friction back vowel,ɿ,unrounded close with-friction back vowel,ɿ,n
+0061n,a,unrounded open front vowel,a,unrounded open front vowel,a,n
+006fn,o,rounded close-mid back vowel,o,rounded close-mid back vowel,o,n
+0259n,ə,unrounded mid central vowel,ə,unrounded mid central vowel,ə,n
+0061-0069n,ai,from unrounded open front to unrounded close front diphthong,ai,from unrounded open front to unrounded close front diphthong,ai,n
+0065-0069n,ei,from unrounded close-mid front to unrounded close front diphthong,ei,from unrounded close-mid front to unrounded close front diphthong,ei,n
+0061-0075n,au,from unrounded open front to rounded close back diphthong,au,from unrounded open front to rounded close back diphthong,au,n
+0259-0075n,əu,from unrounded mid central to rounded close back diphthong,əu,from unrounded mid central to rounded close back diphthong,əu,n
+00f5n,õ,nasalized rounded close-mid back vowel,õ,nasalized rounded close-mid back vowel,õ,n
+006ec,n,voiced alveolar nasal consonant,n,voiced alveolar nasal consonant,n,c
+0264n,ɤ,unrounded close-mid back vowel,ɤ,unrounded close-mid back vowel,ɤ,n
+0069n,i,unrounded close front vowel,i,unrounded close front vowel,i,n
+0069m,i,unrounded close front vowel,i,unrounded close front vowel,i/j,m
+0065n,e,unrounded close-mid front vowel,e,unrounded close-mid front vowel,e,n
+0129n,ĩ,nasalized unrounded close front vowel,ĩ,nasalized unrounded close front vowel,ĩ,n
+0075n,u,rounded close back vowel,u,rounded close back vowel,u,n
+0075m,u,rounded close back vowel,u,rounded close back vowel,u/w,m
+0079n,y,rounded close front vowel,y,rounded close front vowel,y,n
+0079m,y,rounded close front vowel,y,rounded close front vowel,y/ɥ,m
+1ebdn,ẽ,nasalized unrounded close-mid front vowel,ẽ,nasalized unrounded close-mid front vowel,ẽ,n
+006e-0329n,n̩,syllabic voiced alveolar nasal consonant,n̩,syllabic voiced alveolar nasal consonant,n̩,n
+00b3-00b3t/ip,³³,flat from-mid to-mid tone,³³,flat from-mid to-mid tone,³³,t/ip
+00b9-00b3t/ap,¹³,rising from-low to-mid tone,¹³,rising from-low to-mid tone,¹³,t/ap
+2074-00b9t/s,⁴¹,falling from-mid-high to-low tone,⁴¹,falling from-mid-high to-low tone,⁴¹,t/s
+2075-2075t/iq,⁵⁵,flat from-high to-high tone,⁵⁵,flat from-high to-high tone,⁵⁵,t/iq
+00b2-00b9t/aq,²¹,falling from-mid-low to-low tone,²¹,falling from-mid-low to-low tone,²¹,t/aq
+00b2-2074t/r,²⁴,rising from-mid-low to-mid-high tone,²⁴,rising from-mid-low to-mid-high tone,²⁴,t/r
+2070t,⁰,short neutral tone,⁰,short neutral tone,⁰,t
+006ci,l,voiced alveolar lateral approximant consonant,l,voiced alveolar lateral approximant consonant,n,i
+0074-0282i,tʂ,voiceless retroflex sibilant affricate consonant,ʈʂ,voiceless retroflex sibilant affricate consonant,ʈʂ,i
+0074-0282-2019i,tʂ’,aspirated voiceless retroflex sibilant affricate consonant,ʈʂʰ,aspirated voiceless retroflex sibilant affricate consonant,ʈʂʰ,i
+0282i,ʂ,voiceless retroflex sibilant fricative consonant,ʂ,voiceless retroflex sibilant fricative consonant,ʂ,i
+0290i,ʐ,voiced retroflex sibilant fricative consonant,ʐ,voiced retroflex sibilant fricative consonant,ʐ,i
+0285n,ʅ,unrounded close with-friction central vowel,ʅ,unrounded close with-friction central vowel,ʅ,n
+0254n,ɔ,rounded open-mid back vowel,ɔ,rounded open-mid back vowel,ɔ,n
+1d07n,ᴇ,unrounded mid front vowel,e̞,unrounded mid front vowel,e̞,n
+026fn,ɯ,unrounded close back vowel,ɯ,unrounded close back vowel,ɯ,n
+028an,ʊ,rounded near-close near-back vowel,ʊ,rounded near-close near-back vowel,ʊ,n
+0251-0303n,ɑ̃,nasalized unrounded open back vowel,ɑ̃,nasalized unrounded open back vowel,ɑ̃,n
+00e6-0303n,æ̃,nasalized unrounded near-open front vowel,æ̃,nasalized unrounded near-open front vowel,æ̃,n
+028a-0303n,ʊ̃,nasalized rounded near-close near-back vowel,ʊ̃,nasalized rounded near-close near-back vowel,ʊ̃,n
+014bc,ŋ,voiced velar nasal consonant,ŋ,voiced velar nasal consonant,ŋ,c
+0250n,ɐ,unrounded near-open central vowel,ɐ,unrounded near-open central vowel,ɐ,n
+0294c,ʔ,voiceless glottal stop consonant,ʔ,voiceless glottal stop consonant,ʔ,c
+026a-0303n,ɪ̃,nasalized unrounded near-close near-front vowel,ɪ̃,nasalized unrounded near-close near-front vowel,ɪ̃,n
+00b2-00b9-00b2t/ip,²¹²,contour from-mid-low via-low to-mid-low tone,²¹²,contour from-mid-low via-low to-mid-low tone,²¹²,t/ip
+2075-2075t/ap,⁵⁵,flat from-high to-high tone,⁵⁵,flat from-high to-high tone,⁵⁵,t/ap
+00b2-2074t/s,²⁴,rising from-mid-low to-mid-high tone,²⁴,rising from-mid-low to-mid-high tone,²⁴,t/s
+2075-00b3t/q,⁵³,falling from-high to-mid tone,⁵³,falling from-high to-mid tone,⁵³,t/q
+2074t/r,⁴,short from-mid-high tone,⁴,short from-mid-high tone,⁴,t/r
+0076i,v,voiced labio-dental fricative consonant,v,voiced labio-dental fricative consonant,v,i
+025an,ɚ,rhotacized unrounded mid central vowel,ə˞,rhotacized unrounded mid central vowel,ɚ,n
+2074-2074t/ip,⁴⁴,flat from-mid-high to-mid-high tone,⁴⁴,flat from-mid-high to-mid-high tone,⁴⁴,t/ip
+00b3-00b9t/ap,³¹,falling from-mid to-low tone,³¹,falling from-mid to-low tone,³¹,t/ap
+2075-00b3t/s,⁵³,falling from-high to-mid tone,⁵³,falling from-high to-mid tone,⁵³,t/s
+00b9-00b3t/q,¹³,rising from-low to-mid tone,¹³,rising from-low to-mid tone,¹³,t/q
+0062i,b,voiced bilabial stop consonant,b,voiced bilabial stop consonant,b,i
+0064i,d,voiced alveolar stop consonant,d,voiced alveolar stop consonant,d,i
+0064-0291i,dʑ,voiced alveolo-palatal sibilant affricate consonant,dʑ,voiced alveolo-palatal sibilant affricate consonant,dʑ,i
+0067i,g,voiced velar stop consonant,g,voiced velar stop consonant,g,i
+0068i,h,voiceless glottal fricative consonant,h,voiceless glottal fricative consonant,h,i
+0266i,ɦ,voiced glottal fricative consonant,ɦ,voiced glottal fricative consonant,ɦ,i
+02aen,ʮ,rounded close with-friction back vowel,ʮ,rounded close with-friction back vowel,ʮ,n
+0252n,ɒ,rounded open back vowel,ɒ,rounded open back vowel,ɒ,n
+00e6n,æ,unrounded near-open front vowel,æ,unrounded near-open front vowel,æ,n
+00f8n,ø,rounded close-mid front vowel,ø,rounded close-mid front vowel,ø,n
+028fn,ʏ,rounded near-close near-front vowel,ʏ,rounded near-close near-front vowel,ʏ,n
+026an,ɪ,unrounded near-close near-front vowel,ɪ,unrounded near-close near-front vowel,ɪ,n
+006c-0329n,l̩,syllabic voiced alveolar lateral approximant consonant,l̩,syllabic voiced alveolar lateral approximant consonant,l̩,n
+006d-0329n,m̩,syllabic voiced bilabial nasal consonant,m̩,syllabic voiced bilabial nasal consonant,m̩,n
+014b-030dn,ŋ̍,syllabic voiced velar nasal consonant,ŋ̍,syllabic voiced velar nasal consonant,ŋ̍,n
+00b2-2074t/ap,²⁴,rising from-mid-low to-mid-high tone,²⁴,rising from-mid-low to-mid-high tone,²⁴,t/ap
+2075-00b9-00b3t/iq,⁵¹³,contour from-high via-low to-mid tone,⁵¹³,contour from-high via-low to-mid tone,⁵¹³,t/iq
+00b3-00b9t/aq,³¹,falling from-mid to-low tone,³¹,falling from-mid to-low tone,³¹,t/aq
+2074t/ir,⁴,short from-mid-high tone,⁴,short from-mid-high tone,⁴,t/ir
+00b2-00b3t/ar,²³,rising from-mid-low to-mid tone,²³,rising from-mid-low to-mid tone,²³,t/ar
+025bn,ɛ,unrounded open-mid front vowel,ɛ,unrounded open-mid front vowel,ɛ,n
+00e3n,ã,nasalized unrounded open front vowel,ã,nasalized unrounded open front vowel,ã,n
+0259-0303n,ə̃,nasalized unrounded mid central vowel,ə̃,nasalized unrounded mid central vowel,ə̃,n
+00e3m,ã,nasalized unrounded open front vowel,ã,nasalized unrounded open front vowel,ã,m
+025b-0075n,ɛu,from unrounded open-mid front to rounded close back diphthong,ɛu,from unrounded open-mid front to rounded close back diphthong,ɛu,n
+0074c,t,voiceless alveolar stop consonant,t,voiceless alveolar stop consonant,t,c
+006bc,k,voiceless velar stop consonant,k,voiceless velar stop consonant,k,c
+2074-00b2t/ip,⁴²,falling from-mid-high to-mid-low tone,⁴²,falling from-mid-high to-mid-low tone,⁴²,t/ip
+00b2-00b9-00b3t/s,²¹³,contour from-mid-low via-low to-mid tone,²¹³,contour from-mid-low via-low to-mid tone,²¹³,t/s
+2075t/r,⁵,short from-high tone,⁵,short from-high tone,⁵,t/r
+0153n,œ,rounded open-mid front vowel,œ,rounded open-mid front vowel,œ,n
+0065-0075n,eu,from unrounded close-mid front to rounded close back diphthong,eu,from unrounded close-mid front to rounded close back diphthong,eu,n
+006f-0075n,ou,from rounded close-mid back to rounded close back diphthong,ou,from rounded close-mid back to rounded close back diphthong,ou,n
+00f8-0079n,øy,from rounded close-mid front to rounded close front diphthong,øy,from rounded close-mid front to rounded close front diphthong,øy,n
+2075-00b2t/ap,⁵²,falling from-high to-mid-low tone,⁵²,falling from-high to-mid-low tone,⁵²,t/ap
+00b3-00b9t/s,³¹,falling from-mid to-low tone,³¹,falling from-mid to-low tone,³¹,t/s
+00b2-00b9-00b3t/ir,²¹³,contour from-mid-low via-low to-mid tone,²¹³,contour from-mid-low via-low to-mid tone,²¹³,t/ir
+00b2-2074-00b2t/ar,²⁴²,contour from-mid-low via-mid-high to-mid-low tone,²⁴²,contour from-mid-low via-mid-high to-mid-low tone,²⁴²,t/ar
+00b2-00b3t/iq,²³,rising from-mid-low to-mid tone,²³,rising from-mid-low to-mid tone,²³,t/iq
+2074t/aq,⁴,short from-mid-high tone,⁴,short from-mid-high tone,⁴,t/aq
+006f-0069n,oi,from rounded close-mid back to unrounded close front diphthong,oi,from rounded close-mid back to unrounded close front diphthong,oi,n
+00e3-0129n,ãĩ,from nasalized unrounded open front to nasalized unrounded close front diphthong,ãĩ,from nasalized unrounded open front to nasalized unrounded close front diphthong,ãi,n
+00f5-0129n,õĩ,from nasalized rounded close-mid back to nasalized unrounded close front diphthong,õĩ,from nasalized rounded close-mid back to nasalized unrounded close front diphthong,õi,n
+00e3-0169n,ãũ,from nasalized unrounded open front to nasalized rounded close back diphthong,ãũ,from nasalized unrounded open front to nasalized rounded close back diphthong,ãu,n
+00f5-0169n,õũ,from nasalized rounded close-mid back to nasalized rounded close back diphthong,õũ,from nasalized rounded close-mid back to nasalized rounded close back diphthong,õu,n
+0129m,ĩ,nasalized unrounded close front vowel,ĩ,nasalized unrounded close front vowel,i/j,m
+0169n,ũ,nasalized rounded close back vowel,ũ,nasalized rounded close back vowel,ũ,n
+0169m,ũ,nasalized rounded close back vowel,ũ,nasalized rounded close back vowel,u/w,m
+006dc,m,voiced bilabial nasal consonant,m,voiced bilabial nasal consonant,m,c
+0070c,p,voiceless bilabial stop consonant,p,voiceless bilabial stop consonant,p,c
+2075-00b3t/is,⁵³,falling from-high to-mid tone,⁵³,falling from-high to-mid tone,⁵³,t/is
+00b3-2075t/as,³⁵,rising from-mid to-high tone,³⁵,rising from-mid to-high tone,³⁵,t/as
+00b2-00b9-00b3t/iq,²¹³,contour from-mid-low via-low to-mid tone,²¹³,contour from-mid-low via-low to-mid tone,²¹³,t/iq
+00b9-00b9t/aq,¹¹,flat from-low to-low tone,¹¹,flat from-low to-low tone,¹¹,t/aq
+00b2-00b9t/ir,²¹,falling from-mid-low to-low tone,²¹,falling from-mid-low to-low tone,²¹,t/ir
+2074t/ar,⁴,short from-mid-high tone,⁴,short from-mid-high tone,⁴,t/ar
+025an/r,ɚ,rhotacized unrounded mid central vowel,ə˞,rhotacized unrounded mid central vowel,ɚ/ə,n/r
+2075-2075t/ip,⁵⁵,flat from-high to-high tone,⁵⁵,flat from-high to-high tone,⁵⁵,t/ip
+00b3-2075t/ap,³⁵,rising from-mid to-high tone,³⁵,rising from-mid to-high tone,³⁵,t/ap
+00b2-00b9-2074t/s,²¹⁴,contour from-mid-low via-low to-mid-high tone,²¹⁴,contour from-mid-low via-low to-mid-high tone,²¹⁴,t/s
+2075-00b9t/q,⁵¹,falling from-high to-low tone,⁵¹,falling from-high to-low tone,⁵¹,t/q
+00b2-00b9-002f-00b2-00b9-2074t/s,²¹/²¹⁴,contour from-mid-low via-low to-mid-high tone,²¹⁴,contour from-mid-low via-low to-mid-high tone,²¹/²¹⁴,t/s
+00b3-2075-002f-00b2-00b9-2074t/s,³⁵/²¹⁴,contour from-mid-low via-low to-mid-high tone,²¹⁴,contour from-mid-low via-low to-mid-high tone,³⁵/²¹⁴,t/s
+026ci,ɬ,voiceless alveolar lateral fricative consonant,ɬ,voiceless alveolar lateral fricative consonant,ɬ,i
+0074-0283i,tʃ,voiceless post-alveolar sibilant affricate consonant,tʃ,voiceless post-alveolar sibilant affricate consonant,tʃ,i
+0074-0283-2019i,tʃ’,aspirated voiceless post-alveolar sibilant affricate consonant,tʃʰ,aspirated voiceless post-alveolar sibilant affricate consonant,tʃʰ,i
+0283i,ʃ,voiceless post-alveolar sibilant fricative consonant,ʃ,voiceless post-alveolar sibilant fricative consonant,ʃ,i
+006ai,j,voiced palatal approximant consonant,j,voiced palatal approximant consonant,j,i
+006b-0077i,kw,labialized voiceless velar stop consonant,kʷ,labialized voiceless velar stop consonant,kʷ,i
+006b-2019-0077i,k’w,labialized aspirated voiceless velar stop consonant,kʷʰ,labialized aspirated voiceless velar stop consonant,kʷʰ,i
+0077i,w,voiced labio-velar approximant consonant,w,voiced labio-velar approximant consonant,w,i
+0250-0069n,ɐi,from unrounded near-open central to unrounded close front diphthong,ɐi,from unrounded near-open central to unrounded close front diphthong,ɐi,n
+0250-0075n,ɐu,from unrounded near-open central to rounded close back diphthong,ɐu,from unrounded near-open central to rounded close back diphthong,ɐu,n
+0254-0069n,ɔi,from rounded open-mid back to unrounded close front diphthong,ɔi,from rounded open-mid back to unrounded close front diphthong,ɔi,n
+0254-0075n,ɔu,from rounded open-mid back to rounded close back diphthong,ɔu,from rounded open-mid back to rounded close back diphthong,ou,n
+2074-2074-00b3t/yp,⁴⁴³,falling from-mid-high via-mid-high to-mid tone,⁴⁴³,falling from-mid-high via-mid-high to-mid tone,⁴⁴³,t/yp
+00b2-00b9t/s,²¹,falling from-mid-low to-low tone,²¹,falling from-mid-low to-low tone,²¹,t/s
+00b2-2074t/ir,²⁴,rising from-mid-low to-mid-high tone,²⁴,rising from-mid-low to-mid-high tone,²⁴,t/ir
+2074-2075-2074t/yr,⁴⁵⁴,contour from-mid-high via-high to-mid-high tone,⁴⁵⁴,contour from-mid-high via-high to-mid-high tone,⁴⁵⁴,t/yr
+00b2-2074-005ft/1r,²⁴_,rising from-mid-low to-mid-high tone,²⁴,rising from-mid-low to-mid-high tone,²⁴_,t/1r
+00b2-00b9-005ft/2r,²¹_,falling from-mid-low to-low tone,²¹,falling from-mid-low to-low tone,²¹_,t/2r
+2074-2075-2074-005ft/3r,⁴⁵⁴_,contour from-mid-high via-high to-mid-high tone,⁴⁵⁴,contour from-mid-high via-high to-mid-high tone,⁴⁵⁴_,t/3r
+2074-2074-00b3-005ft/4r,⁴⁴³_,falling from-mid-high via-mid-high to-mid tone,⁴⁴³,falling from-mid-high via-mid-high to-mid tone,⁴⁴³_,t/4r
+00b9-00b2t/ap,¹²,rising from-low to-mid-low tone,¹²,rising from-low to-mid-low tone,¹²,t/ap
+2074-00b2t/q,⁴²,falling from-mid-high to-mid-low tone,⁴²,falling from-mid-high to-mid-low tone,⁴²,t/q
+0251n,ɑ,unrounded open back vowel,ɑ,unrounded open back vowel,ɑ,n
+0259-0069n,əi,from unrounded mid central to unrounded close front diphthong,əi,from unrounded mid central to unrounded close front diphthong,əi,n
+0264-026fn,ɤɯ,from unrounded close-mid back to unrounded close back diphthong,ɤɯ,from unrounded close-mid back to unrounded close back diphthong,ɤɯ,n
+025b-0303n,ɛ̃,nasalized unrounded open-mid front vowel,ɛ̃,nasalized unrounded open-mid front vowel,ɛ̃,n
+00b3-00b9t/ip,³¹,falling from-mid to-low tone,³¹,falling from-mid to-low tone,³¹,t/ip
+00b3-2074t/ap,³⁴,rising from-mid to-mid-high tone,³⁴,rising from-mid to-mid-high tone,³⁴,t/ap
+2074-00b2t/s,⁴²,falling from-mid-high to-mid-low tone,⁴²,falling from-mid-high to-mid-low tone,⁴²,t/s
+2075-2075t/q,⁵⁵,flat from-high to-high tone,⁵⁵,flat from-high to-high tone,⁵⁵,t/q
+0254-0303n,ɔ̃,nasalized rounded open-mid back vowel,ɔ̃,nasalized rounded open-mid back vowel,ɔ̃,n
+2075-00b9t/s,⁵¹,falling from-high to-low tone,⁵¹,falling from-high to-low tone,⁵¹,t/s
+00b9-00b9t/iq,¹¹,flat from-low to-low tone,¹¹,flat from-low to-low tone,¹¹,t/iq
+00b3-00b3t/aq,³³,flat from-mid to-mid tone,³³,flat from-mid to-mid tone,³³,t/aq
+00b3-00b2t/ir,³²,falling from-mid to-mid-low tone,³²,falling from-mid to-mid-low tone,³²,t/ir
+2075t/ar,⁵,short from-high tone,⁵,short from-high tone,⁵,t/ar
+0070-0066i,pf,voiceless labio-dental affricate consonant,pf,voiceless labio-dental affricate consonant,pf,i
+0070-0066-2019i,pf’,aspirated voiceless labio-dental affricate consonant,pfʰ,aspirated voiceless labio-dental affricate consonant,pfʰ,i
+0251-0075n,ɑu,from unrounded open back to rounded close back diphthong,ɑu,from unrounded open back to rounded close back diphthong,ɑu,n
+00b2-00b9t/ip,²¹,falling from-mid-low to-low tone,²¹,falling from-mid-low to-low tone,²¹,t/ip
+00b2-2074-002f-00b2-00b9t/ip,²⁴/²¹,falling from-mid-low to-low tone,²¹,falling from-mid-low to-low tone,²⁴/²¹,t/ip
+2074-2075t/q,⁴⁵,rising from-mid-high to-high tone,⁴⁵,rising from-mid-high to-high tone,⁴⁵,t/q
+00b2-00b9-00b3t/ip,²¹³,contour from-mid-low via-low to-mid tone,²¹³,contour from-mid-low via-low to-mid tone,²¹³,t/ip
+2074-00b2t/ap,⁴²,falling from-mid-high to-mid-low tone,⁴²,falling from-mid-high to-mid-low tone,⁴²,t/ap
+2075-2075t/s,⁵⁵,flat from-high to-high tone,⁵⁵,flat from-high to-high tone,⁵⁵,t/s
+00b2-00b9t/q,²¹,falling from-mid-low to-low tone,²¹,falling from-mid-low to-low tone,²¹,t/q
+0064-007ai,dz,voiced alveolar sibilant affricate consonant,dz,voiced alveolar sibilant affricate consonant,dz,i
+025cn,ɜ,unrounded open-mid central vowel,ɜ,unrounded open-mid central vowel,ɜ,n
+2074-2075t/is,⁴⁵,rising from-mid-high to-high tone,⁴⁵,rising from-mid-high to-high tone,⁴⁵,t/is
+00b2-2074t/as,²⁴,rising from-mid-low to-mid-high tone,²⁴,rising from-mid-low to-mid-high tone,²⁴,t/as
+2074-00b2t/iq,⁴²,falling from-mid-high to-mid-low tone,⁴²,falling from-mid-high to-mid-low tone,⁴²,t/iq
+00b2-00b3t/ir,²³,rising from-mid-low to-mid tone,²³,rising from-mid-low to-mid tone,²³,t/ir
+00b9-00b2t/ar,¹²,rising from-low to-mid-low tone,¹²,rising from-low to-mid-low tone,¹²,t/ar
+00b3-2075-002f-00b2-00b9-00b3t/s,³⁵/²¹³,contour from-mid-low via-low to-mid tone,²¹³,contour from-mid-low via-low to-mid tone,³⁵/²¹³,t/s
+00b2-00b9-002f-00b2-00b9-00b3t/s,²¹/²¹³,contour from-mid-low via-low to-mid tone,²¹³,contour from-mid-low via-low to-mid tone,²¹/²¹³,t/s
+2074-00b9t/q,⁴¹,falling from-mid-high to-low tone,⁴¹,falling from-mid-high to-low tone,⁴¹,t/q
+2075-00b3t/ip,⁵³,falling from-high to-mid tone,⁵³,falling from-high to-mid tone,⁵³,t/ip
+00b2-00b9t/ap,²¹,falling from-mid-low to-low tone,²¹,falling from-mid-low to-low tone,²¹,t/ap
+00b3-2075t/is,³⁵,rising from-mid to-high tone,³⁵,rising from-mid to-high tone,³⁵,t/is
+00b2-00b3t/as,²³,rising from-mid-low to-mid tone,²³,rising from-mid-low to-mid tone,²³,t/as
+00b3-00b3t/iq,³³,flat from-mid to-mid tone,³³,flat from-mid to-mid tone,³³,t/iq
+00b2-00b2t/aq,²²,flat from-mid-low to-mid-low tone,²²,flat from-mid-low to-mid-low tone,²²,t/aq
+2075t/ir,⁵,short from-high tone,⁵,short from-high tone,⁵,t/ir
+00b3-00b3t/ir,³³,flat from-mid to-mid tone,³³,flat from-mid to-mid tone,³³,t/ir
+00b2-00b2t/ar,²²,flat from-mid-low to-mid-low tone,²²,flat from-mid-low to-mid-low tone,²²,t/ar
+00b2t/ar,²,short from-mid-low tone,²,short from-mid-low tone,²,t/ar
