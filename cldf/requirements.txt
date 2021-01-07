@@ -76,7 +76,7 @@ jdcal==1.4.1
 -e git+https://github.com/lexibank/zhaobai.git@aa45075341677d009d9e35b7b350aced5160e434#egg=lexibank_zhaobai
 -e git+https://github.com/SequenceComparison/zhivlovobugrian.git@ade96ce2c1a2d85c66ae7298be93e267cec31f21#egg=lexibank_zhivlovobugrian
 -e git+https://github.com/lingpy/lingpy.git@4d42cda2ecd7b54abaf1a2d4aa517c54ff89b573#egg=lingpy
-lxml==4.6.1
+lxml==4.6.2
 Markdown==3.3.3
 networkx==2.2
 newick==1.0.0
