@@ -11,6 +11,8 @@ from cldfbench import CLDFSpec
 from csvw import Datatype
 from pyclts import CLTS
 
+from unicodedata import normalize
+
 
 @attr.s
 class CustomConcept(pylexibank.Concept):
@@ -139,6 +141,7 @@ class Dataset(BaseDataset):
                             row['Value'].split(),
                             row['Lexibank'].split(),
                             row['Prosody'].split()):
+                        s1 = normalize("NFD", s1)
                         pidx = '-'.join([str(hex(ord(s)))[2:].rjust(4, '0') for s in
                             s1])+'_'+p
 

@@ -26,18 +26,18 @@ ID,Name,Description,CLTS_BIPA,CLTS_Name,Lexibank_BIPA,Prosody
 0065-0069_n,ei,from unrounded close-mid front to unrounded close front diphthong,ei,from unrounded close-mid front to unrounded close front diphthong,ei,n
 0061-0075_n,au,from unrounded open front to rounded close back diphthong,au,from unrounded open front to rounded close back diphthong,au,n
 0259-0075_n,əu,from unrounded mid central to rounded close back diphthong,əu,from unrounded mid central to rounded close back diphthong,əu,n
-00f5_n,õ,nasalized rounded close-mid back vowel,õ,nasalized rounded close-mid back vowel,õ,n
+006f-0303_n,õ,nasalized rounded close-mid back vowel,õ,nasalized rounded close-mid back vowel,õ,n
 006e_c,n,voiced alveolar nasal consonant,n,voiced alveolar nasal consonant,n,c
 0264_n,ɤ,unrounded close-mid back vowel,ɤ,unrounded close-mid back vowel,ɤ,n
 0069_n,i,unrounded close front vowel,i,unrounded close front vowel,i,n
 0069_m,i,unrounded close front vowel,i,unrounded close front vowel,i/j,m
 0065_n,e,unrounded close-mid front vowel,e,unrounded close-mid front vowel,e,n
-0129_n,ĩ,nasalized unrounded close front vowel,ĩ,nasalized unrounded close front vowel,ĩ,n
+0069-0303_n,ĩ,nasalized unrounded close front vowel,ĩ,nasalized unrounded close front vowel,ĩ,n
 0075_n,u,rounded close back vowel,u,rounded close back vowel,u,n
 0075_m,u,rounded close back vowel,u,rounded close back vowel,u/w,m
 0079_n,y,rounded close front vowel,y,rounded close front vowel,y,n
 0079_m,y,rounded close front vowel,y,rounded close front vowel,y/ɥ,m
-1ebd_n,ẽ,nasalized unrounded close-mid front vowel,ẽ,nasalized unrounded close-mid front vowel,ẽ,n
+0065-0303_n,ẽ,nasalized unrounded close-mid front vowel,ẽ,nasalized unrounded close-mid front vowel,ẽ,n
 006e-0329_n,n̩,syllabic voiced alveolar nasal consonant,n̩,syllabic voiced alveolar nasal consonant,n̩,n
 00b3-00b3_t/ip,³³,flat from-mid to-mid tone,³³,flat from-mid to-mid tone,³³,t/ip
 00b9-00b3_t/ap,¹³,rising from-low to-mid tone,¹³,rising from-low to-mid tone,¹³,t/ap
@@ -95,9 +95,9 @@ ID,Name,Description,CLTS_BIPA,CLTS_Name,Lexibank_BIPA,Prosody
 2074_t/ir,⁴,short from-mid-high tone,⁴,short from-mid-high tone,⁴,t/ir
 00b2-00b3_t/ar,²³,rising from-mid-low to-mid tone,²³,rising from-mid-low to-mid tone,²³,t/ar
 025b_n,ɛ,unrounded open-mid front vowel,ɛ,unrounded open-mid front vowel,ɛ,n
-00e3_n,ã,nasalized unrounded open front vowel,ã,nasalized unrounded open front vowel,ã,n
+0061-0303_n,ã,nasalized unrounded open front vowel,ã,nasalized unrounded open front vowel,ã,n
 0259-0303_n,ə̃,nasalized unrounded mid central vowel,ə̃,nasalized unrounded mid central vowel,ə̃,n
-00e3_m,ã,nasalized unrounded open front vowel,ã,nasalized unrounded open front vowel,ã,m
+0061-0303_m,ã,nasalized unrounded open front vowel,ã,nasalized unrounded open front vowel,ã,m
 025b-0075_n,ɛu,from unrounded open-mid front to rounded close back diphthong,ɛu,from unrounded open-mid front to rounded close back diphthong,ɛu,n
 0074_c,t,voiceless alveolar stop consonant,t,voiceless alveolar stop consonant,t,c
 006b_c,k,voiceless velar stop consonant,k,voiceless velar stop consonant,k,c
@@ -115,13 +115,13 @@ ID,Name,Description,CLTS_BIPA,CLTS_Name,Lexibank_BIPA,Prosody
 00b2-00b3_t/iq,²³,rising from-mid-low to-mid tone,²³,rising from-mid-low to-mid tone,²³,t/iq
 2074_t/aq,⁴,short from-mid-high tone,⁴,short from-mid-high tone,⁴,t/aq
 006f-0069_n,oi,from rounded close-mid back to unrounded close front diphthong,oi,from rounded close-mid back to unrounded close front diphthong,oi,n
-00e3-0129_n,ãĩ,from nasalized unrounded open front to nasalized unrounded close front diphthong,ãĩ,from nasalized unrounded open front to nasalized unrounded close front diphthong,ãi,n
-00f5-0129_n,õĩ,from nasalized rounded close-mid back to nasalized unrounded close front diphthong,õĩ,from nasalized rounded close-mid back to nasalized unrounded close front diphthong,õi,n
-00e3-0169_n,ãũ,from nasalized unrounded open front to nasalized rounded close back diphthong,ãũ,from nasalized unrounded open front to nasalized rounded close back diphthong,ãu,n
-00f5-0169_n,õũ,from nasalized rounded close-mid back to nasalized rounded close back diphthong,õũ,from nasalized rounded close-mid back to nasalized rounded close back diphthong,õu,n
-0129_m,ĩ,nasalized unrounded close front vowel,ĩ,nasalized unrounded close front vowel,i/j,m
-0169_n,ũ,nasalized rounded close back vowel,ũ,nasalized rounded close back vowel,ũ,n
-0169_m,ũ,nasalized rounded close back vowel,ũ,nasalized rounded close back vowel,u/w,m
+0061-0303-0069-0303_n,ãĩ,from nasalized unrounded open front to nasalized unrounded close front diphthong,ãĩ,from nasalized unrounded open front to nasalized unrounded close front diphthong,ãi,n
+006f-0303-0069-0303_n,õĩ,from nasalized rounded close-mid back to nasalized unrounded close front diphthong,õĩ,from nasalized rounded close-mid back to nasalized unrounded close front diphthong,õi,n
+0061-0303-0075-0303_n,ãũ,from nasalized unrounded open front to nasalized rounded close back diphthong,ãũ,from nasalized unrounded open front to nasalized rounded close back diphthong,ãu,n
+006f-0303-0075-0303_n,õũ,from nasalized rounded close-mid back to nasalized rounded close back diphthong,õũ,from nasalized rounded close-mid back to nasalized rounded close back diphthong,õu,n
+0069-0303_m,ĩ,nasalized unrounded close front vowel,ĩ,nasalized unrounded close front vowel,i/j,m
+0075-0303_n,ũ,nasalized rounded close back vowel,ũ,nasalized rounded close back vowel,ũ,n
+0075-0303_m,ũ,nasalized rounded close back vowel,ũ,nasalized rounded close back vowel,u/w,m
 006d_c,m,voiced bilabial nasal consonant,m,voiced bilabial nasal consonant,m,c
 0070_c,p,voiceless bilabial stop consonant,p,voiceless bilabial stop consonant,p,c
 2075-00b3_t/is,⁵³,falling from-high to-mid tone,⁵³,falling from-high to-mid tone,⁵³,t/is

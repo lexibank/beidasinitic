@@ -13,7 +13,7 @@
     ],
     "dc:identifier": "https://github.com/digling/cddb/",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Beijing University's \"Chinese Dialect Vocabularies\" from 1964",
@@ -23,7 +23,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/beidasinitic",
-            "dc:created": "v4.0-20-gddb14e3"
+            "dc:created": "v4.0-21-gefe027f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -35,19 +35,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-16-g45b0f79"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-72-gb2466e2"
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.12"
+            "dc:description": "3.9.2"
         },
         {
             "dc:title": "python-packages",
