@@ -13,8 +13,9 @@ greenlet==1.0.0
 idna==2.10
 iniconfig==1.1.1
 isodate==0.6.0
--e git+https://github.com/lexibank/aaleykusunda.git@3c03377bbce8ca1045c21e10d25cd4de0b9a3c2f#egg=lexibank_aaleykusunda
+-e git+https://github.com/lexibank/aaleykusunda.git@417dcdf73e278b1f7b9b47bb9b3bab19fdab59f9#egg=lexibank_aaleykusunda
 lingpy==2.6.7
+lxml==4.6.3
 Markdown==3.3.4
 networkx==2.5
 newick==1.0.0
@@ -44,5 +45,6 @@ termcolor==1.1.0
 tqdm==4.59.0
 uritemplate==3.0.1
 urllib3==1.26.4
+wcwidth==0.2.5
 xlrd==2.0.1
 zenodoclient==0.3.0

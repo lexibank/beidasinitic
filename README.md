@@ -41,6 +41,7 @@ This dataset, which is well-known among Sinologists, comprises 18 dialect variet
 
 Name | GitHub user | Description | Role
 --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
+Beijing University | | data collection | Author 
+Johann-Mattis List | @LinguList | maintainer | Other
 
 
