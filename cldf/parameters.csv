@@ -147,7 +147,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 146_chaffhusks,chaff (husks),2363,CHAFF (HUSK),糠,146
 147_sorghum,sorghum,347,SORGHUM,高粱,147
 148_maize,maize,506,MAIZE,玉米,148
-149_peanut,peanut,2364,PEANUT,花生,149
+149_peanut,peanut,595,GROUNDNUT (PEANUT),花生,149
 150_sunflower,sunflower,1956,SUNFLOWER,向日葵,150
 151_sweetpotato,sweet potato,159,SWEET POTATO,甘薯,151
 152_potato,potato,593,POTATO,馬鈴薯,152
@@ -167,7 +167,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 166_peach,peach,2043,PEACH,桃兒,166
 167_pear,pear,922,PEAR,梨,167
 168_mandarine,mandarine,2367,MANDARINE,桔子,168
-169_pomelo,pomelo,,,柚子,169
+169_pomelo,pomelo,3804,GRAPEFRUIT OR POMELO,柚子,169
 170_mume,mume,,,梅子,170
 171_grape,grape,920,GRAPE,葡萄,171
 172_cherry,cherry,2765,CHERRY,櫻桃,172
@@ -313,7 +313,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 312_abacus,abacus,2489,ABACUS,算盤,312
 313_scale,scale,2783,SCALES (MEASURE INSTRUMENT),秤,313
 314_steelyardforweighinggoldmedicine,"steelyard (for weighing gold, medicine)",,,戥子,314
-315_footmeasure,foot (measure),2782,FOOT (MEASURE),尺,315
+315_footmeasure,foot (measure),2688,FOOT (UNIT),尺,315
 316_scissors,scissors,356,SHEARS,剪子,316
 317_hammer,hammer,1481,HAMMER,錘子,317
 318_axe,axe,677,AXE,斧頭,318
@@ -454,7 +454,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 453_brotherinlawhusbandselderbrother,brother-in-law (husband's elder brother),2698,BROTHER-IN-LAW (HUSBAND'S OLDER BROTHER),大伯子,453
 454_brotherinlawhusbandsyoungerbrother,brother-in-law (husband's younger brother),2699,BROTHER-IN-LAW (HUSBAND'S YOUNGER BROTHER),小叔子,454
 455_sisterinlawhusbandseldersister,sister-in-law (husband's elder sister),2700,SISTER-IN-LAW (HUSBAND'S OLDER SISTER),大姑子,455
-456_sisterinlaw,sister-in-law,2701,SISTER-IN-LAW (HUSBANDS YOUNGER SISTER),小姑子,456
+456_sisterinlaw,sister-in-law,2701,SISTER-IN-LAW (HUSBAND'S YOUNGER SISTER),小姑子,456
 457_son,son,1620,SON,兒子,457
 458_daughterinlawsonswife,daughter-in-law (son's wife),1057,DAUGHTER-IN-LAW,媳婦,458
 459_daughter,daughter,1357,DAUGHTER,女兒,459

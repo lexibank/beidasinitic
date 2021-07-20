@@ -1,18 +1,13 @@
 from pathlib import Path
+from unicodedata import normalize
 
 import attr
 import lingpy
 import pylexibank
-from pylexibank import Dataset as BaseDataset
+from cldfbench import CLDFSpec
 from clldutils.misc import slug
 from lingpy.sequence.sound_classes import syllabify
-
-from cldfbench import CLDFSpec
-from csvw import Datatype
 from pyclts import CLTS
-
-from unicodedata import normalize
-
 
 @attr.s
 class CustomConcept(pylexibank.Concept):
@@ -33,7 +28,7 @@ class CustomLexeme(pylexibank.Lexeme):
     Benzi = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "beidasinitic"
     concept_class = CustomConcept
@@ -46,12 +41,12 @@ class Dataset(BaseDataset):
 
     def cldf_specs(self):
         return {
-            None: BaseDataset.cldf_specs(self),
-            'structure': CLDFSpec(
-                module='StructureDataset',
+            None: pylexibank.Dataset.cldf_specs(self),
+            "structure": CLDFSpec(
+                module="StructureDataset",
                 dir=self.cldf_dir,
-                data_fnames={'ParameterTable': 'features.csv'}
-            )
+                data_fnames={"ParameterTable": "features.csv"},
+            ),
         }
 
     def cmd_makecldf(self, args):
@@ -110,65 +105,65 @@ class Dataset(BaseDataset):
                 for col in writer.cldf["LanguageTable"].tableSchema.columns
                 if col.name != "ISO639P3code"
             ]
-            language_table = writer.cldf['LanguageTable']
-            
-        with self.cldf_writer(args, cldf_spec='structure', clean=False) as writer:
+            language_table = writer.cldf["LanguageTable"]
+
+        with self.cldf_writer(args, cldf_spec="structure", clean=False) as writer:
             writer.cldf.add_component(language_table)
-            writer.objects['LanguageTable'] = self.languages
-            inventories = self.raw_dir.read_csv('inventories.tsv',
-                    normalize='NFC', delimiter='\t', dicts=True)
+            writer.objects["LanguageTable"] = self.languages
+            inventories = self.raw_dir.read_csv(
+                "inventories.tsv", normalize="NFC", delimiter="\t", dicts=True
+            )
             writer.cldf.add_columns(
-                    'ParameterTable',
-                    {'name': 'CLTS_BIPA', 'datatype': 'string'},
-                    {'name': 'CLTS_Name', 'datatype': 'string'},
-                    {
-                        'name': 'Lexibank_BIPA',
-                        'datatype': 'string',
-                    },
-                    {'name': 'Prosody', 'datatype': 'string'},
-                    )
-            writer.cldf.add_columns(
-                    'ValueTable',
-                    {'name': 'Context', 'datatype': 'string'}
-                    )
+                "ParameterTable",
+                {"name": "CLTS_BIPA", "datatype": "string"},
+                {"name": "CLTS_Name", "datatype": "string"},
+                {"name": "Lexibank_BIPA", "datatype": "string"},
+                {"name": "Prosody", "datatype": "string"},
+            )
+            writer.cldf.add_columns("ValueTable", {"name": "Context", "datatype": "string"})
             clts = CLTS(args.clts.dir)
-            bipa = clts.transcriptionsystem_dict['bipa']
-            td = clts.transcriptiondata_dict['beidasinitic']
+            bipa = clts.transcriptionsystem_dict["bipa"]
+            td = clts.transcriptiondata_dict["beidasinitic"]
             pids, visited = {}, set()
-            for row in pylexibank.progressbar(inventories, desc='inventories'):
-                if not row['Value'].startswith('(') and row['Value'] != 'Ø':
+            for row in pylexibank.progressbar(inventories, desc="inventories"):
+                if not row["Value"].startswith("(") and row["Value"] != "Ø":
                     for s1, s2, p in zip(
-                            row['Value'].split(),
-                            row['Lexibank'].split(),
-                            row['Prosody'].split()):
+                        row["Value"].split(), row["Lexibank"].split(), row["Prosody"].split()
+                    ):
                         s1 = normalize("NFD", s1)
-                        pidx = '-'.join([str(hex(ord(s)))[2:].rjust(4, '0') for s in
-                            s1])+'_'+p
+                        pidx = "-".join([str(hex(ord(s)))[2:].rjust(4, "0") for s in s1]) + "_" + p
 
                         if not s1 in td.grapheme_map:
-                            args.log.warn('missing sound {0} / {1}'.format(
-                                s1, ' '.join([str(hex(ord(x))) for x in s1])))
+                            args.log.warn(
+                                "missing sound {0} / {1}".format(
+                                    s1, " ".join([str(hex(ord(x))) for x in s1])
+                                )
+                            )
                         else:
                             sound = bipa[td.grapheme_map[s1]]
-                            sound_name = sound.name if sound.type not in [
-                                'unknown', 'marker'] else ''
+                            sound_name = (
+                                sound.name if sound.type not in ["unknown", "marker"] else ""
+                            )
                             if not pidx in visited:
                                 visited.add(pidx)
-                                writer.objects['ParameterTable'].append({
-                                    'ID': pidx,
-                                    'Name': s1,
-                                    'Description': sound_name,
-                                    'CLTS_BIPA': td.grapheme_map[s1],
-                                    'CLTS_Name': sound_name,
-                                    'Lexibank_BIPA': s2,
-                                    'Prosody': p
-                                    })
-                            writer.objects['ValueTable'].append({
-                                'ID': row['Language_ID']+'_'+pidx,
-                                'Language_ID': row['Language_ID'],
-                                'Parameter_ID': pidx,
-                                'Value': s1,
-                                'Context': p,
-                                'Source': ['Cihui']
-                                })
-
+                                writer.objects["ParameterTable"].append(
+                                    {
+                                        "ID": pidx,
+                                        "Name": s1,
+                                        "Description": sound_name,
+                                        "CLTS_BIPA": td.grapheme_map[s1],
+                                        "CLTS_Name": sound_name,
+                                        "Lexibank_BIPA": s2,
+                                        "Prosody": p,
+                                    }
+                                )
+                            writer.objects["ValueTable"].append(
+                                {
+                                    "ID": row["Language_ID"] + "_" + pidx,
+                                    "Language_ID": row["Language_ID"],
+                                    "Parameter_ID": pidx,
+                                    "Value": s1,
+                                    "Context": p,
+                                    "Source": ["Cihui"],
+                                }
+                            )
