@@ -1,19 +1,19 @@
-ID,Name,Glottocode,ChineseName,Latitude,Longitude,DialectGroup,SubGroup,Family,Macroarea
-Beijing,Beijing,beij1234,北京,39.9385466,116.1172766,Mandarin,Sinitic,Sino-Tibetan,Eurasia
-Changsha,Changsha,chan1326,长沙,28.85032,112.943344,Xiang,Sinitic,Sino-Tibetan,Eurasia
-Chaozhou,Chaozhou,chao1238,潮州,23.666667,116.633333,Min,Sinitic,Sino-Tibetan,Eurasia
-Chengdu,Chengdu,chen1267,成都,30.605768,103.970947,Mandarin,Sinitic,Sino-Tibetan,Eurasia
-Fuzhou,Fuzhou,fuzh1239,福州,26.08904,119.294243,Min,Sinitic,Sino-Tibetan,Eurasia
-Guangzhou,Guangzhou,guan1279,广州,23.1253503,112.9476548,Yue,Sinitic,Sino-Tibetan,Eurasia
-Hefei,Hefei,hefe1234,合肥,31.873593,117.223663,Mandarin,Sinitic,Sino-Tibetan,Eurasia
-Jinan,Jinan,jina1245,济南,36.690777,116.997299,Mandarin,Sinitic,Sino-Tibetan,Eurasia
-Kunming,Kunming,kunm1234,昆明,25.049711,102.72274,Mandarin,Sinitic,Sino-Tibetan,Eurasia
-Meixian,Meixian,yuet1238,梅县,24.3522958,115.8903375,Hakka,Sinitic,Sino-Tibetan,Eurasia
-Nanchang,Nanchang,nanc1254,南昌,28.706609,115.857468,Gan,Sinitic,Sino-Tibetan,Eurasia
-Shenyang,Shenyang,shen1252,沈阳,41.8049906,123.1563167,Mandarin,Sinitic,Sino-Tibetan,Eurasia
-Suzhou,Suzhou,suzh1234,苏州,31.3280439,120.364116,Wu,Sinitic,Sino-Tibetan,Eurasia
-Wenzhou,Wenzhou,ouji1238,温州,28.005496,120.701179,Wu,Sinitic,Sino-Tibetan,Eurasia
-XiAn,Xi_an,xian1253,西安,34.228154,108.960571,Mandarin,Sinitic,Sino-Tibetan,Eurasia
-Xiamen,Xiamen,xiam1236,厦门,24.49421,118.08918,Min,Sinitic,Sino-Tibetan,Eurasia
-Yangjiang,Yangjiang,yang1307,阳江,21.7895612,111.966667,Yue,Sinitic,Sino-Tibetan,Eurasia
-Yangzhou,Yangzhou,yang1306,揚州,32.4171449,119.209227,Mandarin,Sinitic,Sino-Tibetan,Eurasia
+ID,Name,Glottocode,Glottolog_Name,ChineseName,Latitude,Longitude,DialectGroup,SubGroup,Family,Macroarea
+Beijing,Beijing,beij1234,Beijing Mandarin,北京,39.9385466,116.1172766,Mandarin,Sinitic,Sino-Tibetan,Eurasia
+Changsha,Changsha,chan1326,Changsha,长沙,28.85032,112.943344,Xiang,Sinitic,Sino-Tibetan,Eurasia
+Chaozhou,Chaozhou,chao1238,Chaozhou,潮州,23.666667,116.633333,Min,Sinitic,Sino-Tibetan,Eurasia
+Chengdu,Chengdu,chen1267,Chengdu Mandarin,成都,30.605768,103.970947,Mandarin,Sinitic,Sino-Tibetan,Eurasia
+Fuzhou,Fuzhou,fuzh1239,Houguan,福州,26.08904,119.294243,Min,Sinitic,Sino-Tibetan,Eurasia
+Guangzhou,Guangzhou,guan1279,Guangzhou,广州,23.1253503,112.9476548,Yue,Sinitic,Sino-Tibetan,Eurasia
+Hefei,Hefei,hefe1234,Hefei Mandarin,合肥,31.873593,117.223663,Mandarin,Sinitic,Sino-Tibetan,Eurasia
+Jinan,Jinan,jina1245,Jinan Mandarin,济南,36.690777,116.997299,Mandarin,Sinitic,Sino-Tibetan,Eurasia
+Kunming,Kunming,kunm1234,Kunming Chinese,昆明,25.049711,102.72274,Mandarin,Sinitic,Sino-Tibetan,Eurasia
+Meixian,Meixian,yuet1238,Meixian,梅县,24.3522958,115.8903375,Hakka,Sinitic,Sino-Tibetan,Eurasia
+Nanchang,Nanchang,nanc1254,Nanchang,南昌,28.706609,115.857468,Gan,Sinitic,Sino-Tibetan,Eurasia
+Shenyang,Shenyang,shen1252,Shenyang Mandarin,沈阳,41.8049906,123.1563167,Mandarin,Sinitic,Sino-Tibetan,Eurasia
+Suzhou,Suzhou,suzh1234,Suzhou,苏州,31.3280439,120.364116,Wu,Sinitic,Sino-Tibetan,Eurasia
+Wenzhou,Wenzhou,ouji1238,Wenzhou,温州,28.005496,120.701179,Wu,Sinitic,Sino-Tibetan,Eurasia
+XiAn,Xi_an,xian1253,Xi'an Mandarin,西安,34.228154,108.960571,Mandarin,Sinitic,Sino-Tibetan,Eurasia
+Xiamen,Xiamen,xiam1236,Xiamen,厦门,24.49421,118.08918,Min,Sinitic,Sino-Tibetan,Eurasia
+Yangjiang,Yangjiang,yang1307,Yangjiang,阳江,21.7895612,111.966667,Yue,Sinitic,Sino-Tibetan,Eurasia
+Yangzhou,Yangzhou,yang1306,Yangzhou Mandarin,揚州,32.4171449,119.209227,Mandarin,Sinitic,Sino-Tibetan,Eurasia
