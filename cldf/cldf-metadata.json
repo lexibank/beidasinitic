@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/beidasinitic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-28-g6f7cdab",
+            "dc:created": "v4.0-30-g99d9ade",
             "dc:title": "Repository"
         },
         {
@@ -29,7 +29,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.4.0-237-gf65e4b1",
+            "dc:created": "v2.5.0",
             "dc:title": "Concepticon"
         },
         {
