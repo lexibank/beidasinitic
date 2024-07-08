@@ -35,22 +35,22 @@ This dataset, which is well-known among Sinologists, comprises 18 dialect variet
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 18
-- **Concepts:** 905
+- **Varieties:** 18 (linked to 18 different Glottocodes)
+- **Concepts:** 905 (linked to 738 different Concepticon concept sets)
 - **Lexemes:** 18,059
 - **Sources:** 1
 - **Synonymy:** 1.11
 - **Invalid lexemes:** 0
 - **Tokens:** 120,791
-- **Segments:** 279 (0 BIPA errors, 0 CTLS sound class errors, 279 CLTS modified)
+- **Segments:** 279 (0 BIPA errors, 0 CLTS sound class errors, 279 CLTS modified)
 - **Inventory size (avg):** 62.78
 
 # Contributors
 
 Name | GitHub user | Description | Role
---- | --- | --- | --- |
-Beijing University | | data collection | Author 
-Johann-Mattis List | @LinguList | maintainer | Other
+--- | --- | --- | ---
+Beijing University | | data collection | Author
+Johann-Mattis List | @LinguList | maintainer | Editor
 
 
 
