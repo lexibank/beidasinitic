@@ -435,7 +435,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 434_maternalgrandfather,maternal grandfather,2178,MATERNAL GRANDFATHER,外公,434
 435_maternalgrandmother,maternal grandmother,2177,MATERNAL GRANDMOTHER,外婆,435
 436_unclemothersbrother,uncle (mother's brother),2692,MATERNAL UNCLE (MOTHER'S BROTHER),舅父,436
-437_auntmotherssister,aunt (mother's sister),2693,MATERNAL AUNT (MOTHER'S SISTER),舅母,437
+437_auntmotherssister,aunt (mother's sister),2172,MATERNAL AUNT (WIFE OF MOTHER'S BROTHER),舅母,437
 438_unclehusbandofonesmaternalaunt,uncle (husband of one's maternal aunt),2694,MATERNAL UNCLE (HUSBAND OF ONE'S MATERNAL AUNT),姨父,438
 439_maternalaunt,maternal aunt,2176,MATERNAL AUNT,姨母,439
 440_fatherinlawwifesfather,father-in-law (wife's father),2255,FATHER-IN-LAW (OF MAN),丈人,440
@@ -820,8 +820,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 819_othersoftheothers,"others, of the others",,,別的,819
 820_this,this,1214,THIS,這個,820
 821_that,that,78,THAT,那個,821
-822_these,these,,,這些,822
-823_those,those,,,那些,823
+822_these,these,3984,THESE (PLURAL OF THIS),這些,822
+823_those,those,3985,THOSE (PLURAL OF THAT),那些,823
 824_here,here,136,HERE,這兒,824
 825_there,there,1937,THERE,那兒,825
 826_thissidehere,"this side, here",3410,OVER HERE,這邊,826
